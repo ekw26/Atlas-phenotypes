@@ -18,6 +18,11 @@ For each condition of interest, we sought codes to identify the condition in pri
   An algorithm to identify rheumatoid arthritis in primary care: a Clinical Practice Research Datalink study
   BMJ Open, 5(12). https://doi.org/10.1136/BMJOPEN-2015-009309
   
+### Ankylosing Spondylitis
+- Muller et al. (2015)
+  An algorithm to identify rheumatoid arthritis in primary care: a Clinical Practice Research Datalink study
+  BMJ Open, 5(12). https://doi.org/10.1136/BMJOPEN-2015-009309
+  
 ### Lyme Disease
 - Cairns et al. (2019)
   Incidence of Lyme disease in the UK: a population-based cohort study

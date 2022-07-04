@@ -16,19 +16,19 @@ G21,Secondary parkinsonism,ICD10,NHS,incident,?
 G21.2,Secondary parkinsonism due to other external agents,ICD10,NHS,incident,?
 G21.9,Secondary parkinsonism unspecified,ICD10,NHS,incident,?
 G21.4,Vascular parkinsonism,ICD10,NHS,incident,?
-49049000,Parkinson's disease,SNOMED,Head,incident,y
-905821000006108,[RFC] Parkinson's disease,SNOMED,Head,incident,y
-909021000006101,[RFC] Parkinson's disease,SNOMED,Head,incident,y
-425390006,[X]Dementia in Parkinson's disease,SNOMED,Head,prevalent,y
-341551000000108,Cerebral degeneration in Parkinson's disease,SNOMED,Head,prevalent,y
-101421000119107,Dementia due to Parkinson's disease (disorder),SNOMED,NHS,prevalent,y
-230291001,Juvenile Parkinson's disease (disorder),SNOMED,NHS,incident,?
-4223005,Parkinsonism caused by drug (disorder),SNOMED,NHS,incident,?
-19972008,Postencephalitic parkinsonism (disorder),SNOMED,NHS,incident,?
-230292008,Secondary parkinsonism (disorder),SNOMED,NHS,incident,?
-230296006,Vascular parkinsonism (disorder),SNOMED,NHS,incident,?
-32798002,Parkinsonism,SNOMED,Aurum browser,incident,y
-715345007,Eary onset parkinson disease,SNOMED,Aurum browser,incident,?
+49049000,Parkinson's disease,Snomed,Head,incident,y
+905821000006108,[RFC] Parkinson's disease,Snomed,Head,incident,y
+909021000006101,[RFC] Parkinson's disease,Snomed,Head,incident,y
+425390006,[X]Dementia in Parkinson's disease,Snomed,Head,prevalent,y
+341551000000108,Cerebral degeneration in Parkinson's disease,Snomed,Head,prevalent,y
+101421000119107,Dementia due to Parkinson's disease (disorder),Snomed,NHS,prevalent,y
+230291001,Juvenile Parkinson's disease (disorder),Snomed,NHS,incident,?
+4223005,Parkinsonism caused by drug (disorder),Snomed,NHS,incident,?
+19972008,Postencephalitic parkinsonism (disorder),Snomed,NHS,incident,?
+230292008,Secondary parkinsonism (disorder),Snomed,NHS,incident,?
+230296006,Vascular parkinsonism (disorder),Snomed,NHS,incident,?
+32798002,Parkinsonism,Snomed,Aurum browser,incident,y
+715345007,Eary onset parkinson disease,Snomed,Aurum browser,incident,?
 Fyu2200,[X] Parkinsonism in diseases classified elsewhere,Read,Gold browser,incident,?
 F130300,Parkinsonism with orthostatic hypotension,Read,Gold browser,incident,?
 F121.11,Drug induced parkinsonism,Read,Gold browser,incident,?
@@ -41,10 +41,10 @@ Gyu2100,[X} Other secondary parkinsonism,Read,Gold browser,incident,?
 F12X.00,Secondary parkinsonism - unspecified,Read,Gold browser,incident,?
 A94y100,Syphilitic parkinsonism,Read,Gold browser,incident,?
 F12W.00,Secondary parkinsonism due to other external agents,Read,Gold browser,incident,?
-38523005,Syphilitic parkinsonism,SNOMED,Aurum browser,incident,?
-62239001,Parkinson-dementia complex of Guam,SNOMED,Aurum browser,incident,?
-444197004,Multiple system atrophy - Parkinson variant,SNOMED,Aurum browser,incident,?
-719717006,Psychosis co-occurrent and due to Parkinson's disease,SNOMED,Aurum browser,prevalent,?
-720466001,Adult-onset dystonia parkinsonism,SNOMED,Aurum browser,incident,?
-722964001,Atypical parkinsonism,SNOMED,Aurum browser,incident,?
-515841000000104,History of Parkinson's disease,SNOMED,Aurum browser,prevalent,y
+38523005,Syphilitic parkinsonism,Snomed,Aurum browser,incident,?
+62239001,Parkinson-dementia complex of Guam,Snomed,Aurum browser,incident,?
+444197004,Multiple system atrophy - Parkinson variant,Snomed,Aurum browser,incident,?
+719717006,Psychosis co-occurrent and due to Parkinson's disease,Snomed,Aurum browser,prevalent,?
+720466001,Adult-onset dystonia parkinsonism,Snomed,Aurum browser,incident,?
+722964001,Atypical parkinsonism,Snomed,Aurum browser,incident,?
+515841000000104,History of Parkinson's disease,Snomed,Aurum browser,prevalent,y

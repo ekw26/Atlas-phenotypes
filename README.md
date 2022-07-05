@@ -27,12 +27,16 @@ For each condition of interest, we sought codes to identify the condition in pri
 - Rockenschaub et al. (2020)
   Opportunities to reduce antibiotic prescribing for patients with COPD in primary care: a cohort study using electronic health records from the Clinical Practice Research Datalink (CPRD)
   Journal of Antimicrobial Chemotherapy, 75(1), 243-251. https://doi.org/10.1093/JAC/DKZ411
-
   
 ### Lyme Disease
 - Cairns et al. (2019)
   Incidence of Lyme disease in the UK: a population-based cohort study
   BMJ Open, 9(7). https://doi.org/10.1136/BMJOPEN-2018-025916
+  
+### Polycystic Ovary Syndrome
+- Rees et al. (2016)
+  Contemporary Reproductive Outcomes for Patients With Polycystic Ovary Syndrome: A Retrospective Observational Study
+  The Journal of Clinical Endocrinology & Metabolism, 101(4), 1664–1672. https://doi.org/10.1210/jc.2015-2682
   
 ## References
 <a id="1">[1]</a> 

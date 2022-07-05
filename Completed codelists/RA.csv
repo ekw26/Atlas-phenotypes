@@ -1,4 +1,4 @@
-﻿code,description,codetype,source,category,include
+﻿code,description,codetype,source,category,include,comments
 14G1.00,H/O: rheumatoid arthritis,Read,caliber,prevalent,y,
 2G25.00,O/E - hands - ulnar deviation,Read,caliber,incident,?,
 2G25.11,O/E - ulnar deviation,Read,caliber,incident,?,

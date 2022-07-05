@@ -4,7 +4,7 @@ Codelists of Read v2, SNOMED and ICD10 codes for conditions included in Atlas co
 For each condition of interest, we sought codes to identify the condition in primary care (Read v2, SNOMED), secondary care (ICD10) and death data (ICD10). To curate suitable codelists we searched existing sets of phenotypes [[1-5]](1), identified studies that contained disease-specific codelists and searched code browsers for relevant terms [[6, 7]](6). Condition-specific studies are noted below
 
 ### Schizophrenia
-- Launders N et al. (2022)
+- Launders et al. (2022)
   Clustering of physical health multimorbidity in people with severe mental illness: An accumulated prevalence analysis of United Kingdom primary care data
   PLOS Medicine, 19(4). https://doi.org/10.1371/JOURNAL.PMED.1003976
   
@@ -36,7 +36,7 @@ For each condition of interest, we sought codes to identify the condition in pri
   
 ## References
 <a id="1">[1]</a> 
-Kuan V et al. (2019). 
+Kuan et al. (2019). 
 A chronological map of 308 physical and mental health conditions from 4 million individuals in the English National Health Service. 
 The Lancet Digital Health, 1(2), e63-e77. https://doi.org/10.1016/S2589-7500(19)30012-3
 
@@ -44,7 +44,7 @@ The Lancet Digital Health, 1(2), e63-e77. https://doi.org/10.1016/S2589-7500(19)
 ![zenodo 3547540](https://user-images.githubusercontent.com/60394883/177172180-cb75d833-7b31-4402-8b9c-14a9e81d9740.svg)
 
 <a id="3">[3]</a>
-Head A et al. (2021). 
+Head et al. (2021). 
 Inequalities in incident and prevalent multimorbidity in England, 2004-19: a population-based, descriptive study
 The Lancet Health Longevity, 2(8), e489-e497. https://doi.org/10.1016/S2666-7568(21)00146-X
 

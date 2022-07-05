@@ -23,6 +23,12 @@ For each condition of interest, we sought codes to identify the condition in pri
   An algorithm to identify rheumatoid arthritis in primary care: a Clinical Practice Research Datalink study
   BMJ Open, 5(12). https://doi.org/10.1136/BMJOPEN-2015-009309
   
+### COPD
+- Rockenschaub et al. (2020)
+  Opportunities to reduce antibiotic prescribing for patients with COPD in primary care: a cohort study using electronic health records from the Clinical Practice Research Datalink (CPRD)
+  Journal of Antimicrobial Chemotherapy, 75(1), 243-251. https://doi.org/10.1093/JAC/DKZ411
+
+  
 ### Lyme Disease
 - Cairns et al. (2019)
   Incidence of Lyme disease in the UK: a population-based cohort study

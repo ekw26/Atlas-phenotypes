@@ -28,10 +28,18 @@ For each condition of interest, we sought codes to identify the condition in pri
   Opportunities to reduce antibiotic prescribing for patients with COPD in primary care: a cohort study using electronic health records from the Clinical Practice Research Datalink (CPRD)
   Journal of Antimicrobial Chemotherapy, 75(1), 243-251. https://doi.org/10.1093/JAC/DKZ411
   
+### Tuberculosis
+- HDR UK phenotype library - BREATHE phenotypes https://phenotypes.healthdatagateway.org/phenotypes/PH818/version/1715/detail/
+  
 ### Lyme Disease
 - Cairns et al. (2019)
   Incidence of Lyme disease in the UK: a population-based cohort study
   BMJ Open, 9(7). https://doi.org/10.1136/BMJOPEN-2018-025916
+  
+### Coronary Heart Disease
+- Zghebi et al. (2021)
+  Assessing the severity of cardiovascular disease in 213 088 patients with coronary heart disease: a retrospective cohort study
+  Open Heart, 8(1). https://doi.org/10.1136/OPENHRT-2020-001498
   
 ### Polycystic Ovary Syndrome
 - Rees et al. (2016)

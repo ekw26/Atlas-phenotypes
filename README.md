@@ -3,6 +3,21 @@ Codelists of Read v2, SNOMED and ICD10 codes for conditions included in Atlas co
 
 For each condition of interest, we sought codes to identify the condition in primary care (Read v2, SNOMED), secondary care (ICD10) and death data (ICD10). To curate suitable codelists we searched existing sets of phenotypes [[1-5]](1), identified studies that contained disease-specific codelists and searched code browsers for relevant terms [[6, 7]](6). Condition-specific studies are noted below
 
+### Ovarian cancer
+- Jessen et al. (2021)
+  Abdominal investigations in the year preceding a diagnosis of abdominal cancer: A register-based cohort study in Denmark
+  Cancer Epidemiology, 72. https://doi.org/10.1016/j.canep.2021.101926
+
+### Colon cancer
+- Renzi et al. (2019)
+  Contrasting effects of comorbidities on emergency colon cancer diagnosis: a longitudinal data-linkage study in England
+  BMC Health Services Research, 19. https://doi.org/10.1186/s12913-019-4075-4 
+  
+### Brain cancer
+- Nygaard et al. (2018)
+  Health care use before a diagnosis of primary intracranial tumor: a Danish nationwide register study
+  Clinical Epidemiology, 10. https://doi.org/10.2147/CLEP.S147865
+
 ### Schizophrenia
 - Launders et al. (2022)
   Clustering of physical health multimorbidity in people with severe mental illness: An accumulated prevalence analysis of United Kingdom primary care data

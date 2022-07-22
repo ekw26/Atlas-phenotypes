@@ -1,4 +1,4 @@
-﻿code,description,codetype,category,source,include,comments
+code,description,codetype,category,source,include,comments
 6648000,Coeliac disease annual review,Read,prevalent,caliber,y,
 6648,Coeliac disease monitoring,Read,prevalent,caliber,y,
 8IAp.00,Coeliac disease annual review declined,Read,prevalent,caliber,y,
@@ -32,8 +32,6 @@ K90.0,Coeliac disease,ICD10,incident,caliber,y,
 91867008,Adult form of coeliac disease (disorder),Snomed,incident,Snomed browser,y,
 770593004,Refractory celiac disease (disorder),Snomed,incident,Snomed browser,y,
 1148861009,Iron deficiency anemia due to celiac disease (disorder),Snomed,prevalent,Snomed browser,y,
-772386009,Celiac disease with epilepsy and cerebral calcification syndrome (disorder),Snomed,incident,Snomed browser,n,
-772386009,Celiac disease with epilepsy and cerebral calcification syndrome (disorder),Snomed,incident,Snomed browser,n,
 750891000000107,Coeliac disease monitoring telephone invitation,Snomed,Aurum browser,prevalent,y,
 752321000000102,Coeliac disease monitoring invitation second letter,Snomed,Aurum browser,prevalent,y,
 752341000000109,Coeliac disease monitoring invitation third letter,Snomed,Aurum browser,prevalent,y,

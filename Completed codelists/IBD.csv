@@ -1,4 +1,4 @@
-﻿code,description,codetype,source,category,include,comments
+code,description,codetype,source,category,include,comments
 J08z900,Orofacial Crohn's disease,Read,caliber,incident CD,y,
 J400000,Regional enteritis of the duodenum,Read,caliber,incident CD,y,
 J400100,Regional enteritis of the jejunum,Read,caliber,incident CD,y,
@@ -97,7 +97,7 @@ K52.8,Other specified noninfective gastroenteritis and colitis,ICD10,ICD browser
 9350004,Arthritis due to inflammatory bowel disease (disorder),Snomed,Snomed browser,prevalent,y,
 1144956000,Vasculitis due to inflammatory bowel disease (disorder),Snomed,Snomed browser,prevalent,y,
 359664009,Idiopathic chronic inflammatory bowel disease (disorder),Snomed,Snomed browser,incident,y,
-239809007,Juvenile arthritis of inflammatory bowel disease (disorder),Snomed,Snomed browser,prevalent,?,
+239809007,Juvenile arthritis of inflammatory bowel disease (disorder),Snomed,Snomed browser,prevalent,y,
 788718000,Iritis co-occurrent with inflammatory bowel disease (disorder),Snomed,Snomed browser,prevalent,y,
 239814006,Seronegative arthritis secondary to inflammatory bowel disease (disorder),Snomed,Snomed browser,prevalent,y,
 721686000,Inflammatory polyps co-occurrent and due to inflammatory bowel disease (disorder),Snomed,Snomed browser,prevalent,y,
@@ -156,4 +156,3 @@ K52.8,Other specified noninfective gastroenteritis and colitis,ICD10,ICD browser
 906191000006113,[RFC] Ulcerative colitis,Snomed,Aurum browser,incident UC,y,
 8Cc5.11,Management of IBD,Read,Gold browser,prevalent,y,
 8Cc5.00,Management of inflammatory bowel disease,Read,Gold browser,prevalent,y,
-

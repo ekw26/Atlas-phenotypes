@@ -66,4 +66,7 @@ G35,Multiple sclerosis,ICD10,caliber,incident,y,
 759171000000105,Multiple sclerosis monitoring third letter,Snomed,Aurum browser,prevalent,y,
 1747861000006107,Multiple sclerosis monitoring telephone invite,Snomed,Aurum browser,prevalent,y,
 1858501000006105,Suspected multiple sclerosis,Snomed,Aurum browser,suspected,y,
-
+F213.00,Clinically isolated syndrome,Read,Gold browser,incident,y,
+445967004,Clinically isolated syndrome,Snomed,Aurum browser,incident,y,
+703621006,Polysymptomatic clinically isolated syndrome,Snomed,Aurum browser,incident,y,
+703622004,Monofocal clinically isolated syndrome,Snomed,Snomed browser,incident,y,

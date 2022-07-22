@@ -1,4 +1,4 @@
-﻿code,description,codetype,source,category,include,comments
+code,description,codetype,source,category,include,comments
 A69.2,Lyme disease,ICD10,ICD10 browser,incident,y,
 M01.2,Arthritis in Lyme disease,ICD10,ICD10 browser,prevalent,y,
 23502006 ,Lyme disease (disorder),Snomed,Snomed browser,incident,y,

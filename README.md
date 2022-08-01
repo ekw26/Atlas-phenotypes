@@ -13,7 +13,7 @@ For each condition of interest, we sought codes to identify the condition in pri
   Contrasting effects of comorbidities on emergency colon cancer diagnosis: a longitudinal data-linkage study in England <br/>
   BMC Health Services Research, 19. https://doi.org/10.1186/s12913-019-4075-4 
   
-### Brain cancer
+### Brain tumours
 - Nygaard et al. (2018) <br/>
   Health care use before a diagnosis of primary intracranial tumor: a Danish nationwide register study <br/>
   Clinical Epidemiology, 10. https://doi.org/10.2147/CLEP.S147865

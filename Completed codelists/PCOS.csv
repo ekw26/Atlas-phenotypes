@@ -1,8 +1,8 @@
 code,description,codetype,source,category,include,comments
-C164.12,Stein - Leventhal syndrome,Read,caliber,incident,y,
-C165.00,Polycystic ovarian syndrome,Read,caliber,incident,y,
-E28.2,Polycystic ovarian syndrome,ICD10,caliber,incident,y,
-69878008,Polycystic ovarian syndrome,Snomed,head,incident,y,
+C164.12,Stein - Leventhal syndrome,Read,Caliber,incident,y,
+C165.00,Polycystic ovarian syndrome,Read,Caliber,incident,y,
+E28.2,Polycystic ovarian syndrome,ICD10,Caliber,incident,y,
+69878008,Polycystic ovarian syndrome,Snomed,Head,incident,y,
 C164.00,Polycystic ovaries,Read,Rees,incident,y,
 237055002,Polycystic ovary syndrome,Snomed,Aurum browser,incident,y,
 781067001,Polycystic ovary,Snomed,Aurum browser,incident,y,

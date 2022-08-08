@@ -1,7 +1,7 @@
 # Atlas-phenotypes
 Codelists of Read v2, SNOMED and ICD10 codes for conditions included in Atlas collated from multiple sources and code browsers. 
 
-For each condition of interest, we sought codes to identify the condition in primary care (Read v2, SNOMED), secondary care (ICD10) and death data (ICD10). To curate suitable codelists we searched existing sets of phenotypes [[1-5]](1), identified studies that contained disease-specific codelists and searched code browsers for relevant terms [[6, 7]](6). Condition-specific studies are noted below
+For each condition of interest, we sought codes to identify the condition in primary care (Read v2, SNOMED), secondary care (ICD10) and death data (ICD10). To curate suitable codelists we searched existing sets of phenotypes [[1-5]](1), identified studies that contained condition-specific codelists and searched code browsers for relevant terms [[6, 7]](6). Condition-specific studies are noted below
 
 ### Ovarian cancer
 - Jessen et al. (2021) <br/>

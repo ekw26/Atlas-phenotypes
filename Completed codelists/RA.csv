@@ -1,184 +1,184 @@
-code,description,codetype,source,category,include,comments
-14G1.00,H/O: rheumatoid arthritis,Read,Caliber,prevalent,y,
-2G25.00,O/E - hands - ulnar deviation,Read,Caliber,incident,y,
-2G25.11,O/E - ulnar deviation,Read,Caliber,incident,y,
-2G27.00,O/E-hands-rheumatoid spindling,Read,Caliber,incident,y,
-66H..13,Rheumatoid arthrit. monitoring,Read,Caliber,prevalent,y,
-7P20300,Delivery of rehabilitation for rheumatoid arthritis,Read,Caliber,prevalent,y,
-9mM0.00,Rheumatoid arthritis monitoring invitation first letter,Read,Caliber,prevalent,y,
-9mM1.00,Rheumatoid arthritis monitoring invitation second letter,Read,Caliber,prevalent,y,
-9mM2.00,Rheumatoid arthritis monitoring invitation third letter,Read,Caliber,prevalent,y,
-9mM3.00,Rheumatoid arthritis monitoring verbal invitation,Read,Caliber,prevalent,y,
-9mM4.00,Rheumatoid arthritis monitoring telephone invitation,Read,Caliber,prevalent,y,
-9mM..00,Rheumatoid arthritis monitoring invitation,Read,Caliber,prevalent,y,
-F371200,Polyneuropathy in rheumatoid arthritis,Read,Caliber,prevalent,y,
-F396400,Myopathy due to rheumatoid arthritis,Read,Caliber,prevalent,y,
-G5y8.00,Rheumatoid myocarditis,Read,Caliber,incident,y,
-G5yA.00,Rheumatoid carditis,Read,Caliber,incident,y,
-H570.00,Rheumatoid lung,Read,Caliber,prevalent,y,
-N362200,Swan-neck finger deformity,Read,Caliber,incident,y,
-N040100,Other rheumatoid arthritis of spine,Read,Caliber,incident,y,
-N040000,Rheumatoid arthritis of cervical spine,Read,Caliber,incident,y,
-N040200,Rheumatoid arthritis of shoulder,Read,Caliber,incident,y,
-N040300,Rheumatoid arthritis of sternoclavicular joint,Read,Caliber,incident,y,
-N040400,Rheumatoid arthritis of acromioclavicular joint,Read,Caliber,incident,y,
-N040500,Rheumatoid arthritis of elbow,Read,Caliber,incident,y,
-N040600,Rheumatoid arthritis of distal radio-ulnar joint,Read,Caliber,incident,y,
-N040700,Rheumatoid arthritis of wrist,Read,Caliber,incident,y,
-N040800,Rheumatoid arthritis of MCP joint,Read,Caliber,incident,y,
-N040900,Rheumatoid arthritis of PIP joint of finger,Read,Caliber,incident,y,
-N040A00,Rheumatoid arthritis of DIP joint of finger,Read,Caliber,incident,y,
-N040B00,Rheumatoid arthritis of hip,Read,Caliber,incident,y,
-N040C00,Rheumatoid arthritis of sacro-iliac joint,Read,Caliber,incident,y,
-N040D00,Rheumatoid arthritis of knee,Read,Caliber,incident,y,
-N040E00,Rheumatoid arthritis of tibio-fibular joint,Read,Caliber,incident,y,
-N040F00,Rheumatoid arthritis of ankle,Read,Caliber,incident,y,
-N040G00,Rheumatoid arthritis of subtalar joint,Read,Caliber,incident,y,
-N040H00,Rheumatoid arthritis of talonavicular joint,Read,Caliber,incident,y,
-N040J00,Rheumatoid arthritis of other tarsal joint,Read,Caliber,incident,y,
-N040K00,Rheumatoid arthritis of 1st MTP joint,Read,Caliber,incident,y,
-N040L00,Rheumatoid arthritis of lesser MTP joint,Read,Caliber,incident,y,
-N040M00,Rheumatoid arthritis of IP joint of toe,Read,Caliber,incident,y,
-N040.00,Rheumatoid arthritis,Read,Caliber,incident,y,
-N040N00,Rheumatoid vasculitis,Read,Caliber,incident,y,
-N040P00,Seronegative rheumatoid arthritis,Read,Caliber,incident,y,
-N040Q00,Rheumatoid bursitis,Read,Caliber,incident,y,
-N040R00,Rheumatoid nodule,Read,Caliber,incident,y,
-N040S00,Rheumatoid arthritis - multiple joint,Read,Caliber,incident,y,
-N040T00,Flare of rheumatoid arthritis,Read,Caliber,prevalent,y,
-N041.00,Felty's syndrome,Read,Caliber,incident,y,
-N042100,Rheumatoid lung disease,Read,Caliber,incident,y,
-N042200,Rheumatoid nodule,Read,Caliber,incident,y,
-N042.00,Other rheumatoid arthropathy + visceral/systemic involvement,Read,Caliber,incident,y,
-N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS,Read,Caliber,incident,y,
-N047.00,Seropositive errosive rheumatoid arthritis,Read,Caliber,incident,y,
-N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy,Read,Caliber,incident,y,
-N04X.00,Seropositive rheumatoid arthritis,Read,Caliber,incident,y,
-N04y000,Rheumatoid lung,Read,Caliber,incident,y,
-N04y011,Caplan's syndrome,Read,Caliber,incident,y,
-N04y012,Fibrosing alveolitis associated with rheumatoid arthritis,Read,Caliber,incident,y,
-N04y200,Adult-onset Still's disease,Read,Caliber,incident,y,
-N005.00,Adult Still's Disease,Read,Caliber,incident,y,
-Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems,Read,Caliber,incident,y,
-Nyu1100,[X]Other seropositive rheumatoid arthritis,Read,Caliber,incident,y,
-Nyu1200,[X]Other specified rheumatoid arthritis,Read,Caliber,incident,y,
-Nyu1G00,[X]Seropositive rheumatoid arthritis unspecified,Read,Caliber,incident,y,
-J99.0,Rheumatoid lung disease,ICD10,Caliber,incident,y,
-M05,Seropositive rheumatoid arthritis,ICD10,Caliber,incident,y,
-M06,Other rheumatoid arthritis,ICD10,Caliber,incident,y,
-69896004,Rheum. arth. - ankle/foot,Snomed,Head,incident,y,
-287006005,Rheumatoid arthritis of multiple joints,Snomed,Head,incident,y,
-909191000006103,[RFC] Rheumatoid arthritis,Snomed,Head,incident,y,
-398640008,Caplan's syndrome,Snomed,Head,incident,y,
-1875561000006103,Rheumatoid arthritis monitoring invitation,Snomed,Head,prevalent,y,
-1875591000006106,Rheumatoid arthritis monitoring invitation first letter,Snomed,Head,prevalent,y,
-1875601000006103,Rheumatoid arthritis monitoring invitation second letter,Snomed,Head,prevalent,y,
-1875611000006100,Rheumatoid arthritis monitoring invitation third letter,Snomed,Head,prevalent,y,
-1875571000006105,Rheumatoid arthritis monitoring telephone invitation,Snomed,Head,prevalent,y,
-1875581000006108,Rheumatoid arthritis monitoring verbal invitation,Snomed,Head,prevalent,y,
-308143008,Seropositive errosive rheumatoid arthritis,Snomed,Head,incident,y,
-164454008,O/E - hands - ulnar deviation,Snomed,Head,incident,y,
-164456005,O/E-hands-rheumatoid spindling,Snomed,Head,incident,y,
-275902004,Rheumatoid arthrit. monitoring,Snomed,Head,prevalent,y,
-231041000000107,Delivery of rehabilitation for rheumatoid arthritis,Snomed,Head,prevalent,y,
-882321000000105,Rheumatoid arthritis monitoring invitation,Snomed,Head,prevalent,y,
-882401000000106,Rheumatoid arthritis monitoring invitation first letter,Snomed,Head,prevalent,y,
-882421000000102,Rheumatoid arthritis monitoring invitation second letter,Snomed,Head,prevalent,y,
-882441000000109,Rheumatoid arthritis monitoring invitation third letter,Snomed,Head,prevalent,y,
-882461000000105,Rheumatoid arthritis monitoring verbal invitation,Snomed,Head,prevalent,y,
-882481000000101,Rheumatoid arthritis monitoring telephone invitation,Snomed,Head,prevalent,y,
-193180002,Polyneuropathy in rheumatoid arthritis,Snomed,Head,prevalent,y,
-193250002,Myopathy due to rheumatoid arthritis,Snomed,Head,prevalent,y,
-195136004,Rheumatoid myocarditis,Snomed,Head,incident,y,
-28880005,Rheumatoid carditis,Snomed,Head,incident,y,
-398726004,Rheumatoid lung,Snomed,Head,incident,y,
-239920006,Adult Still's Disease,Snomed,Head,incident,y,
-201764007,Rheumatoid arthritis of cervical spine,Snomed,Head,incident,y,
-9631008,Other rheumatoid arthritis of spine,Snomed,Head,incident,y,
-201766009,Rheumatoid arthritis of shoulder,Snomed,Head,incident,y,
-201767000,Rheumatoid arthritis of sternoclavicular joint,Snomed,Head,incident,y,
-201768005,Rheumatoid arthritis of acromioclavicular joint,Snomed,Head,incident,y,
-201769002,Rheumatoid arthritis of elbow,Snomed,Head,incident,y,
-201770001,Rheumatoid arthritis of distal radio-ulnar joint,Snomed,Head,incident,y,
-201771002,Rheumatoid arthritis of wrist,Snomed,Head,incident,y,
-201772009,Rheumatoid arthritis of MCP joint,Snomed,Head,incident,y,
-201773004,Rheumatoid arthritis of PIP joint of finger,Snomed,Head,incident,y,
-201774005,Rheumatoid arthritis of DIP joint of finger,Snomed,Head,incident,y,
-201775006,Rheumatoid arthritis of hip,Snomed,Head,incident,y,
-201776007,Rheumatoid arthritis of sacro-iliac joint,Snomed,Head,incident,y,
-201777003,Rheumatoid arthritis of knee,Snomed,Head,incident,y,
-201778008,Rheumatoid arthritis of tibio-fibular joint,Snomed,Head,incident,y,
-201779000,Rheumatoid arthritis of ankle,Snomed,Head,incident,y,
-201780002,Rheumatoid arthritis of subtalar joint,Snomed,Head,incident,y,
-201781003,Rheumatoid arthritis of talonavicular joint,Snomed,Head,incident,y,
-429192004,Rheumatoid arthritis of other tarsal joint,Snomed,Head,incident,y,
-201783000,Rheumatoid arthritis of 1st MTP joint,Snomed,Head,incident,y,
-201784006,Rheumatoid arthritis of lesser MTP joint,Snomed,Head,incident,y,
-201785007,Rheumatoid arthritis of IP joint of toe,Snomed,Head,incident,y,
-400054000,Rheumatoid vasculitis,Snomed,Head,incident,y,
-239792003,Seronegative rheumatoid arthritis,Snomed,Head,incident,y,
-84017003,Rheumatoid bursitis,Snomed,Head,incident,y,
-33719002,Rheumatoid nodule,Snomed,Head,incident,y,
-201791009,Flare of rheumatoid arthritis,Snomed,Head,prevalent,y,
-57160007,Felty's syndrome,Snomed,Head,incident,y,
-239793008,Other rheumatoid arthropathy + visceral/systemic involvement,Snomed,Head,incident,y,
-239791005,Seropositive rheumatoid arthritis,Snomed,Head,incident,y,
-10713006,Fibrosing alveolitis associated with rheumatoid arthritis,Snomed,Head,incident,y,
-23060008,Swan-neck finger deformity,Snomed,Head,incident,y,
-66HB000,Rheumatoid arthritis annual review,Read,Muller,prevalent,y,
-9hR1.00,Except rheumatoid arthritis qual indicator: informed dissent,Read,Muller,prevalent,y,
-N04y300,Remitting seronegative symmetrical synovitis pitting oedema,Read,Muller,incident,y,
-M05.0,Felty syndrome,ICD10,Icd browser,incident,y,
-M05.1,Rheumatoid lung disease,ICD10,Icd browser,incident,y,
-M05.2,Rheumatoid vasculitis,ICD10,Icd browser,incident,y,
-M05.3,Rheumatoid arthritis with involvement of other organs and systems,ICD10,Icd browser,incident,y,
-M05.8,Other seropositive rheumatoid arthritis,ICD10,Icd browser,incident,y,
-M05.9,Seropositive rheumatoid arthritis - unspecified,ICD10,Icd browser,incident,y,
-M06.0,Seronegative rheumatoid arthritis,ICD10,Icd browser,incident,y,
-M06.1,Adult-onset Still disease,ICD10,Icd browser,incident,y,
-M06.2,Rheumatoid bursitis,ICD10,Icd browser,incident,y,
-M06.3,Rheumatoid nodule,ICD10,Icd browser,incident,y,
-M06.4,Inflammatory polyarthropathy,ICD10,Icd browser,incident,y,
-M06.8,Other specified rheumatoid arthritis,ICD10,Icd browser,incident,y,
-M06.9,Rheumatoid arthritis - unspecified,ICD10,Icd browser,incident,y,
-161567008,H/O: rheumatoid arthritis,Snomed,Aurum browser,prevalent,y,
-735599007,Erosion of joint surface co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent,y,
-1073891000119106,Deformity of left foot co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent,y,
-1073871000119105,Deformity of left hand co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent,y,
-1073881000119108,Deformity of right foot co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent,y,
-1073861000119104,Deformity of right hand co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent,y,
-1073791000119101,Rheumatoid arthritis of right hand,Snomed,Aurum browser,incident,y,
-1073721000119103,Rheumatoid arthritis of left hip,Snomed,Aurum browser,incident,y,
-1073801000119100,Rheumatoid arthritis of right hip,Snomed,Aurum browser,incident,y,
-805981000000102,Excepted from rheumatoid arthritis quality indicators - informed dissent,Snomed,Aurum browser,prevalent,y,
-847261000000104,Rheumatoid arthritis annual review,Snomed,Aurum browser,prevalent,y,
-50782009,Rheumatoid nodule,Snomed,Aurum browser,incident,y,
-86219005,Uveitis-rheumatoid arthritis syndrome,Snomed,Aurum browser,incident,y,
-287007001,Rheumatoid arthritis - hand joint,Snomed,Aurum browser,incident,y,
-287008006,Rheumatoid arthritis - ankle and/or foot,Snomed,Aurum browser,incident,y,
-427770001,Rheumatoid arthritis of temporomandibular joint,Snomed,Aurum browser,incident,y,
-1066991000000109,Rheumatoid arthritis monitoring invitation by SMS (short message service) text messaging,Snomed,Aurum browser,prevalent,y,
-1067001000000103,Rheumatoid arthritis monitoring SMS (short message service) text message first invitation,Snomed,Aurum browser,prevalent,y,
-1067011000000101,Rheumatoid arthritis monitoring SMS (short message service) text message second invitation,Snomed,Aurum browser,prevalent,y,
-1067021000000107,Rheumatoid arthritis monitoring SMS (short message service) text message third invitation,Snomed,Aurum browser,prevalent,y,
-1073731000119100,Rheumatoid arthritis of left knee,Snomed,Aurum browser,incident,y,
-1073811000119102,Rheumatoid arthritis of right knee,Snomed,Aurum browser,incident,y,
-1083081000000100,Rheumatoid arthritis monitoring invitation email,Snomed,Aurum browser,prevalent,y,
-11055151000119108,Seropositive rheumatoid arthritis of multiple joints,Snomed,Aurum browser,incident,y,
-1073741000119109,Rheumatoid arthritis of left shoulder,Snomed,Aurum browser,incident,y,
-1073821000119109,Rheumatoid arthritis of right shoulder,Snomed,Aurum browser,incident,y,
-781206002,Rheumatoid arthritis of joint of spine,Snomed,Aurum browser,incident,y,
-319081000119109,Seronegative rheumatoid arthritis of multiple sites,Snomed,Aurum browser,incident,y,
-319871000119100,Rheumatoid nodule of left hand,Snomed,Aurum browser,incident,y,
-1073701000119107,Rheumatoid arthritis of left foot,Snomed,Aurum browser,incident,y,
-1073751000119106,Rheumatoid arthritis of left wrist,Snomed,Aurum browser,incident,y,
-1073781000119104,Rheumatoid arthritis of right foot,Snomed,Aurum browser,incident,y,
-1073831000119107,Rheumatoid arthritis of right wrist,Snomed,Aurum browser,incident,y,
-15687201000119107,Bilateral rheumatoid arthritis of knees,Snomed,Aurum browser,incident,y,
-15687321000119109,Bilateral rheumatoid arthritis of hands,Snomed,Aurum browser,incident,y,
-15744441000119101,Bilateral deformity of hands due to rheumatoid arthritis,Snomed,Aurum browser,incident,y,
-15691321000119101,Bilateral seronegative rheumatoid arthritis of wrists,Snomed,Aurum browser,incident,y,
-249757009,Ulnar deviation of hand,Snomed,Aurum browser,incident,y,
-43689004,Ulnar deviation of the wrist,Snomed,Aurum browser,incident,y,
-264748007,Ulnar deviation,Snomed,Aurum browser,incident,y,
-276662009,Ulnar deviation of finger,Snomed,Aurum browser,incident,y,
+code,description,codetype,source,category
+14G1.00,H/O: rheumatoid arthritis,Read,Caliber,prevalent
+2G25.00,O/E - hands - ulnar deviation,Read,Caliber,incident
+2G25.11,O/E - ulnar deviation,Read,Caliber,incident
+2G27.00,O/E-hands-rheumatoid spindling,Read,Caliber,incident
+66H..13,Rheumatoid arthrit. monitoring,Read,Caliber,prevalent
+7P20300,Delivery of rehabilitation for rheumatoid arthritis,Read,Caliber,prevalent
+9mM0.00,Rheumatoid arthritis monitoring invitation first letter,Read,Caliber,prevalent
+9mM1.00,Rheumatoid arthritis monitoring invitation second letter,Read,Caliber,prevalent
+9mM2.00,Rheumatoid arthritis monitoring invitation third letter,Read,Caliber,prevalent
+9mM3.00,Rheumatoid arthritis monitoring verbal invitation,Read,Caliber,prevalent
+9mM4.00,Rheumatoid arthritis monitoring telephone invitation,Read,Caliber,prevalent
+9mM..00,Rheumatoid arthritis monitoring invitation,Read,Caliber,prevalent
+F371200,Polyneuropathy in rheumatoid arthritis,Read,Caliber,prevalent
+F396400,Myopathy due to rheumatoid arthritis,Read,Caliber,prevalent
+G5y8.00,Rheumatoid myocarditis,Read,Caliber,incident
+G5yA.00,Rheumatoid carditis,Read,Caliber,incident
+H570.00,Rheumatoid lung,Read,Caliber,prevalent
+N362200,Swan-neck finger deformity,Read,Caliber,incident
+N040100,Other rheumatoid arthritis of spine,Read,Caliber,incident
+N040000,Rheumatoid arthritis of cervical spine,Read,Caliber,incident
+N040200,Rheumatoid arthritis of shoulder,Read,Caliber,incident
+N040300,Rheumatoid arthritis of sternoclavicular joint,Read,Caliber,incident
+N040400,Rheumatoid arthritis of acromioclavicular joint,Read,Caliber,incident
+N040500,Rheumatoid arthritis of elbow,Read,Caliber,incident
+N040600,Rheumatoid arthritis of distal radio-ulnar joint,Read,Caliber,incident
+N040700,Rheumatoid arthritis of wrist,Read,Caliber,incident
+N040800,Rheumatoid arthritis of MCP joint,Read,Caliber,incident
+N040900,Rheumatoid arthritis of PIP joint of finger,Read,Caliber,incident
+N040A00,Rheumatoid arthritis of DIP joint of finger,Read,Caliber,incident
+N040B00,Rheumatoid arthritis of hip,Read,Caliber,incident
+N040C00,Rheumatoid arthritis of sacro-iliac joint,Read,Caliber,incident
+N040D00,Rheumatoid arthritis of knee,Read,Caliber,incident
+N040E00,Rheumatoid arthritis of tibio-fibular joint,Read,Caliber,incident
+N040F00,Rheumatoid arthritis of ankle,Read,Caliber,incident
+N040G00,Rheumatoid arthritis of subtalar joint,Read,Caliber,incident
+N040H00,Rheumatoid arthritis of talonavicular joint,Read,Caliber,incident
+N040J00,Rheumatoid arthritis of other tarsal joint,Read,Caliber,incident
+N040K00,Rheumatoid arthritis of 1st MTP joint,Read,Caliber,incident
+N040L00,Rheumatoid arthritis of lesser MTP joint,Read,Caliber,incident
+N040M00,Rheumatoid arthritis of IP joint of toe,Read,Caliber,incident
+N040.00,Rheumatoid arthritis,Read,Caliber,incident
+N040N00,Rheumatoid vasculitis,Read,Caliber,incident
+N040P00,Seronegative rheumatoid arthritis,Read,Caliber,incident
+N040Q00,Rheumatoid bursitis,Read,Caliber,incident
+N040R00,Rheumatoid nodule,Read,Caliber,incident
+N040S00,Rheumatoid arthritis - multiple joint,Read,Caliber,incident
+N040T00,Flare of rheumatoid arthritis,Read,Caliber,prevalent
+N041.00,Felty's syndrome,Read,Caliber,incident
+N042100,Rheumatoid lung disease,Read,Caliber,incident
+N042200,Rheumatoid nodule,Read,Caliber,incident
+N042.00,Other rheumatoid arthropathy + visceral/systemic involvement,Read,Caliber,incident
+N042z00,Rheumatoid arthropathy + visceral/systemic involvement NOS,Read,Caliber,incident
+N047.00,Seropositive errosive rheumatoid arthritis,Read,Caliber,incident
+N04..00,Rheumatoid arthritis and other inflammatory polyarthropathy,Read,Caliber,incident
+N04X.00,Seropositive rheumatoid arthritis,Read,Caliber,incident
+N04y000,Rheumatoid lung,Read,Caliber,incident
+N04y011,Caplan's syndrome,Read,Caliber,incident
+N04y012,Fibrosing alveolitis associated with rheumatoid arthritis,Read,Caliber,incident
+N04y200,Adult-onset Still's disease,Read,Caliber,incident
+N005.00,Adult Still's Disease,Read,Caliber,incident
+Nyu1000,[X]Rheumatoid arthritis+involvement/other organs or systems,Read,Caliber,incident
+Nyu1100,[X]Other seropositive rheumatoid arthritis,Read,Caliber,incident
+Nyu1200,[X]Other specified rheumatoid arthritis,Read,Caliber,incident
+Nyu1G00,[X]Seropositive rheumatoid arthritis unspecified,Read,Caliber,incident
+J99.0,Rheumatoid lung disease,ICD10,Caliber,incident
+M05,Seropositive rheumatoid arthritis,ICD10,Caliber,incident
+M06,Other rheumatoid arthritis,ICD10,Caliber,incident
+69896004,Rheum. arth. - ankle/foot,Snomed,Head,incident
+287006005,Rheumatoid arthritis of multiple joints,Snomed,Head,incident
+909191000006103,[RFC] Rheumatoid arthritis,Snomed,Head,incident
+398640008,Caplan's syndrome,Snomed,Head,incident
+1875561000006103,Rheumatoid arthritis monitoring invitation,Snomed,Head,prevalent
+1875591000006106,Rheumatoid arthritis monitoring invitation first letter,Snomed,Head,prevalent
+1875601000006103,Rheumatoid arthritis monitoring invitation second letter,Snomed,Head,prevalent
+1875611000006100,Rheumatoid arthritis monitoring invitation third letter,Snomed,Head,prevalent
+1875571000006105,Rheumatoid arthritis monitoring telephone invitation,Snomed,Head,prevalent
+1875581000006108,Rheumatoid arthritis monitoring verbal invitation,Snomed,Head,prevalent
+308143008,Seropositive errosive rheumatoid arthritis,Snomed,Head,incident
+164454008,O/E - hands - ulnar deviation,Snomed,Head,incident
+164456005,O/E-hands-rheumatoid spindling,Snomed,Head,incident
+275902004,Rheumatoid arthrit. monitoring,Snomed,Head,prevalent
+231041000000107,Delivery of rehabilitation for rheumatoid arthritis,Snomed,Head,prevalent
+882321000000105,Rheumatoid arthritis monitoring invitation,Snomed,Head,prevalent
+882401000000106,Rheumatoid arthritis monitoring invitation first letter,Snomed,Head,prevalent
+882421000000102,Rheumatoid arthritis monitoring invitation second letter,Snomed,Head,prevalent
+882441000000109,Rheumatoid arthritis monitoring invitation third letter,Snomed,Head,prevalent
+882461000000105,Rheumatoid arthritis monitoring verbal invitation,Snomed,Head,prevalent
+882481000000101,Rheumatoid arthritis monitoring telephone invitation,Snomed,Head,prevalent
+193180002,Polyneuropathy in rheumatoid arthritis,Snomed,Head,prevalent
+193250002,Myopathy due to rheumatoid arthritis,Snomed,Head,prevalent
+195136004,Rheumatoid myocarditis,Snomed,Head,incident
+28880005,Rheumatoid carditis,Snomed,Head,incident
+398726004,Rheumatoid lung,Snomed,Head,incident
+239920006,Adult Still's Disease,Snomed,Head,incident
+201764007,Rheumatoid arthritis of cervical spine,Snomed,Head,incident
+9631008,Other rheumatoid arthritis of spine,Snomed,Head,incident
+201766009,Rheumatoid arthritis of shoulder,Snomed,Head,incident
+201767000,Rheumatoid arthritis of sternoclavicular joint,Snomed,Head,incident
+201768005,Rheumatoid arthritis of acromioclavicular joint,Snomed,Head,incident
+201769002,Rheumatoid arthritis of elbow,Snomed,Head,incident
+201770001,Rheumatoid arthritis of distal radio-ulnar joint,Snomed,Head,incident
+201771002,Rheumatoid arthritis of wrist,Snomed,Head,incident
+201772009,Rheumatoid arthritis of MCP joint,Snomed,Head,incident
+201773004,Rheumatoid arthritis of PIP joint of finger,Snomed,Head,incident
+201774005,Rheumatoid arthritis of DIP joint of finger,Snomed,Head,incident
+201775006,Rheumatoid arthritis of hip,Snomed,Head,incident
+201776007,Rheumatoid arthritis of sacro-iliac joint,Snomed,Head,incident
+201777003,Rheumatoid arthritis of knee,Snomed,Head,incident
+201778008,Rheumatoid arthritis of tibio-fibular joint,Snomed,Head,incident
+201779000,Rheumatoid arthritis of ankle,Snomed,Head,incident
+201780002,Rheumatoid arthritis of subtalar joint,Snomed,Head,incident
+201781003,Rheumatoid arthritis of talonavicular joint,Snomed,Head,incident
+429192004,Rheumatoid arthritis of other tarsal joint,Snomed,Head,incident
+201783000,Rheumatoid arthritis of 1st MTP joint,Snomed,Head,incident
+201784006,Rheumatoid arthritis of lesser MTP joint,Snomed,Head,incident
+201785007,Rheumatoid arthritis of IP joint of toe,Snomed,Head,incident
+400054000,Rheumatoid vasculitis,Snomed,Head,incident
+239792003,Seronegative rheumatoid arthritis,Snomed,Head,incident
+84017003,Rheumatoid bursitis,Snomed,Head,incident
+33719002,Rheumatoid nodule,Snomed,Head,incident
+201791009,Flare of rheumatoid arthritis,Snomed,Head,prevalent
+57160007,Felty's syndrome,Snomed,Head,incident
+239793008,Other rheumatoid arthropathy + visceral/systemic involvement,Snomed,Head,incident
+239791005,Seropositive rheumatoid arthritis,Snomed,Head,incident
+10713006,Fibrosing alveolitis associated with rheumatoid arthritis,Snomed,Head,incident
+23060008,Swan-neck finger deformity,Snomed,Head,incident
+66HB000,Rheumatoid arthritis annual review,Read,Muller,prevalent
+9hR1.00,Except rheumatoid arthritis qual indicator: informed dissent,Read,Muller,prevalent
+N04y300,Remitting seronegative symmetrical synovitis pitting oedema,Read,Muller,incident
+M05.0,Felty syndrome,ICD10,Icd browser,incident
+M05.1,Rheumatoid lung disease,ICD10,Icd browser,incident
+M05.2,Rheumatoid vasculitis,ICD10,Icd browser,incident
+M05.3,Rheumatoid arthritis with involvement of other organs and systems,ICD10,Icd browser,incident
+M05.8,Other seropositive rheumatoid arthritis,ICD10,Icd browser,incident
+M05.9,Seropositive rheumatoid arthritis - unspecified,ICD10,Icd browser,incident
+M06.0,Seronegative rheumatoid arthritis,ICD10,Icd browser,incident
+M06.1,Adult-onset Still disease,ICD10,Icd browser,incident
+M06.2,Rheumatoid bursitis,ICD10,Icd browser,incident
+M06.3,Rheumatoid nodule,ICD10,Icd browser,incident
+M06.4,Inflammatory polyarthropathy,ICD10,Icd browser,incident
+M06.8,Other specified rheumatoid arthritis,ICD10,Icd browser,incident
+M06.9,Rheumatoid arthritis - unspecified,ICD10,Icd browser,incident
+161567008,H/O: rheumatoid arthritis,Snomed,Aurum browser,prevalent
+735599007,Erosion of joint surface co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent
+1073891000119106,Deformity of left foot co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent
+1073871000119105,Deformity of left hand co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent
+1073881000119108,Deformity of right foot co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent
+1073861000119104,Deformity of right hand co-occurrent and due to rheumatoid arthritis,Snomed,Aurum browser,prevalent
+1073791000119101,Rheumatoid arthritis of right hand,Snomed,Aurum browser,incident
+1073721000119103,Rheumatoid arthritis of left hip,Snomed,Aurum browser,incident
+1073801000119100,Rheumatoid arthritis of right hip,Snomed,Aurum browser,incident
+805981000000102,Excepted from rheumatoid arthritis quality indicators - informed dissent,Snomed,Aurum browser,prevalent
+847261000000104,Rheumatoid arthritis annual review,Snomed,Aurum browser,prevalent
+50782009,Rheumatoid nodule,Snomed,Aurum browser,incident
+86219005,Uveitis-rheumatoid arthritis syndrome,Snomed,Aurum browser,incident
+287007001,Rheumatoid arthritis - hand joint,Snomed,Aurum browser,incident
+287008006,Rheumatoid arthritis - ankle and/or foot,Snomed,Aurum browser,incident
+427770001,Rheumatoid arthritis of temporomandibular joint,Snomed,Aurum browser,incident
+1066991000000109,Rheumatoid arthritis monitoring invitation by SMS (short message service) text messaging,Snomed,Aurum browser,prevalent
+1067001000000103,Rheumatoid arthritis monitoring SMS (short message service) text message first invitation,Snomed,Aurum browser,prevalent
+1067011000000101,Rheumatoid arthritis monitoring SMS (short message service) text message second invitation,Snomed,Aurum browser,prevalent
+1067021000000107,Rheumatoid arthritis monitoring SMS (short message service) text message third invitation,Snomed,Aurum browser,prevalent
+1073731000119100,Rheumatoid arthritis of left knee,Snomed,Aurum browser,incident
+1073811000119102,Rheumatoid arthritis of right knee,Snomed,Aurum browser,incident
+1083081000000100,Rheumatoid arthritis monitoring invitation email,Snomed,Aurum browser,prevalent
+11055151000119108,Seropositive rheumatoid arthritis of multiple joints,Snomed,Aurum browser,incident
+1073741000119109,Rheumatoid arthritis of left shoulder,Snomed,Aurum browser,incident
+1073821000119109,Rheumatoid arthritis of right shoulder,Snomed,Aurum browser,incident
+781206002,Rheumatoid arthritis of joint of spine,Snomed,Aurum browser,incident
+319081000119109,Seronegative rheumatoid arthritis of multiple sites,Snomed,Aurum browser,incident
+319871000119100,Rheumatoid nodule of left hand,Snomed,Aurum browser,incident
+1073701000119107,Rheumatoid arthritis of left foot,Snomed,Aurum browser,incident
+1073751000119106,Rheumatoid arthritis of left wrist,Snomed,Aurum browser,incident
+1073781000119104,Rheumatoid arthritis of right foot,Snomed,Aurum browser,incident
+1073831000119107,Rheumatoid arthritis of right wrist,Snomed,Aurum browser,incident
+15687201000119107,Bilateral rheumatoid arthritis of knees,Snomed,Aurum browser,incident
+15687321000119109,Bilateral rheumatoid arthritis of hands,Snomed,Aurum browser,incident
+15744441000119101,Bilateral deformity of hands due to rheumatoid arthritis,Snomed,Aurum browser,incident
+15691321000119101,Bilateral seronegative rheumatoid arthritis of wrists,Snomed,Aurum browser,incident
+249757009,Ulnar deviation of hand,Snomed,Aurum browser,incident
+43689004,Ulnar deviation of the wrist,Snomed,Aurum browser,incident
+264748007,Ulnar deviation,Snomed,Aurum browser,incident
+276662009,Ulnar deviation of finger,Snomed,Aurum browser,incident

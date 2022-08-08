@@ -1,69 +1,69 @@
-code,description,codetype,source,category,include,comments
-B130.00,Malignant neoplasm of hepatic flexure of colon,Read,Caliber,incident,y,
-B131.00,Malignant neoplasm of transverse colon,Read,Caliber,incident,y,
-B132.00,Malignant neoplasm of descending colon,Read,Caliber,incident,y,
-B133.00,Malignant neoplasm of sigmoid colon,Read,Caliber,incident,y,
-B134.00,Malignant neoplasm of caecum,Read,Caliber,incident,y,
-B134.11,Carcinoma of caecum,Read,Caliber,incident,y,
-B135.00,Malignant neoplasm of appendix,Read,Caliber,incident,y,
-B136.00,Malignant neoplasm of ascending colon,Read,Caliber,incident,y,
-B137.00,Malignant neoplasm of splenic flexure of colon,Read,Caliber,incident,y,
-B138.00,"Malignant neoplasm, overlapping lesion of colon",Read,Caliber,incident,y,
-B139.00,Hereditary nonpolyposis colon cancer,Read,Caliber,incident,y,
-B13..00,Malignant neoplasm of colon,Read,Caliber,incident,y,
-B13y.00,Malignant neoplasm of other specified sites of colon,Read,Caliber,incident,y,
-B13z.00,Malignant neoplasm of colon NOS,Read,Caliber,incident,y,
-B13z.11,Colonic cancer,Read,Caliber,incident,y,
-ZV10014,[V]Personal history of malignant neoplasm of large intestine,Read,Caliber,prevalent,y,
-C18,Malignant neoplasm of colon,ICD10,Caliber,incident,y,
-C18.0,Malignant neoplasm of colon - caecum,ICD10,Caliber,incident,y,
-C18.1,Malignant neoplasm of colon - appendix,ICD10,Caliber,incident,y,
-C18.2,Malignant neoplasm of colon - ascending colon,ICD10,Caliber,incident,y,
-C18.3,Malignant neoplasm of colon - hepatic flexure,ICD10,Caliber,incident,y,
-C18.4,Malignant neoplasm of colon - transverse colon,ICD10,Caliber,incident,y,
-C18.5,Malignant neoplasm of colon - splenic flexure,ICD10,Caliber,incident,y,
-C18.6,Malignant neoplasm of colon - descending colon,ICD10,Caliber,incident,y,
-C18.7,Malignant neoplasm of colon - sigmoid colon,ICD10,Caliber,incident,y,
-C18.8,Malignant neoplasm of colon - overlapping lesion of colon,ICD10,Caliber,incident,y,
-C18.9,"Malignant neoplasm of colon - colon, unspecified",ICD10,Caliber,incident,y,
-363412000,Ca ascending colon,Snomed,Head,incident,y,
-363409003,Ca descending colon,Snomed,Head,incident,y,
-363407001,Ca hepatic flexure - colon,Snomed,Head,incident,y,
-363410008,Ca sigmoid colon,Snomed,Head,incident,y,
-363413005,Ca splenic flexure - colon,Snomed,Head,incident,y,
-363408006,Ca transverse colon,Snomed,Head,incident,y,
-1728161000006100,hereditary nonpolyposis colon cancer,Snomed,Head,incident,y,
-363406005,Malignant neoplasm of colon,Snomed,Head,incident,y,
-363350007,Malignant neoplasm of caecum,Snomed,Head,incident,y,
-255081007,Carcinoma of caecum,Snomed,Head,incident,y,
-363411007,Malignant neoplasm of appendix,Snomed,Head,incident,y,
-187757001,"Malignant neoplasm, overlapping lesion of colon",Snomed,Head,incident,y,
-315058005,Hereditary nonpolyposis colon cancer,Snomed,Head,incident,y,
-312111009,Carcinoma of ascending colon,Snomed,Aurum browser,incident,y,
-269533000,Carcinoma of colon,Snomed,Aurum browser,incident,y,
-312113007,Carcinoma of descending colon,Snomed,Aurum browser,incident,y,
-285312008,Carcinoma of sigmoid colon,Snomed,Aurum browser,incident,y,
-312112002,Carcinoma of transverse colon,Snomed,Aurum browser,incident,y,
-301756000,Adenocarcinoma of sigmoid colon,Snomed,Aurum browser,incident,y,
-429699009,History of malignant neoplasm of colon,Snomed,Aurum browser,prevalent,y,
-726654006,Malignant carcinoid tumour of colon,Snomed,Aurum browser,incident,y,
-681601000119101,Primary adenocarcinoma of ascending colon,Snomed,Aurum browser,incident,y,
-1701000119104,Primary adenocarcinoma of colon,Snomed,Aurum browser,incident,y,
-681651000119102,Primary adenocarcinoma of descending colon,Snomed,Aurum browser,incident,y,
-721699002,Primary adenocarcinoma of descending colon and splenic flexure,Snomed,Aurum browser,incident,y,
-721696009,Primary adenocarcinoma of transverse colon,Snomed,Aurum browser,incident,y,
-93683002,Primary malignant neoplasm of ascending colon,Snomed,Aurum browser,incident,y,
-93761005,Primary malignant neoplasm of colon,Snomed,Aurum browser,incident,y,
-93771007,Primary malignant neoplasm of descending colon,Snomed,Aurum browser,incident,y,
-93826009,Primary malignant neoplasm of hepatic flexure of colon,Snomed,Aurum browser,incident,y,
-94006002,Primary malignant neoplasm of sigmoid colon,Snomed,Aurum browser,incident,y,
-94072004,Primary malignant neoplasm of splenic flexure of colon,Snomed,Aurum browser,incident,y,
-94105000,Primary malignant neoplasm of transverse colon,Snomed,Aurum browser,incident,y,
-721697000,Primary neuroendocrine carcinoma of colon,Snomed,Aurum browser,incident,y,
-413446001,Adenocarcinoma of caecum,Snomed,Aurum browser,incident,y,
-253002004,Carcinoid tumour of appendix,Snomed,Aurum browser,incident,y,
-448992002,Carcinoma of appendix,Snomed,Aurum browser,incident,y,
-93679002,Primary malignant neoplasm of appendix,Snomed,Aurum browser,incident,y,
-721673009,Primary malignant neuroendocrine neoplasm of appendix,Snomed,Aurum browser,incident,y,
-721672004,Primary mucinous adenocarcinoma of appendix,Snomed,Aurum browser,incident,y,
-314998002,Metastasis from malignant tumour of colon,Snomed,Aurum browser,incident,y,
+code,description,codetype,source,category
+B130.00,Malignant neoplasm of hepatic flexure of colon,Read,Caliber,incident
+B131.00,Malignant neoplasm of transverse colon,Read,Caliber,incident
+B132.00,Malignant neoplasm of descending colon,Read,Caliber,incident
+B133.00,Malignant neoplasm of sigmoid colon,Read,Caliber,incident
+B134.00,Malignant neoplasm of caecum,Read,Caliber,incident
+B134.11,Carcinoma of caecum,Read,Caliber,incident
+B135.00,Malignant neoplasm of appendix,Read,Caliber,incident
+B136.00,Malignant neoplasm of ascending colon,Read,Caliber,incident
+B137.00,Malignant neoplasm of splenic flexure of colon,Read,Caliber,incident
+B138.00,"Malignant neoplasm, overlapping lesion of colon",Read,Caliber,incident
+B139.00,Hereditary nonpolyposis colon cancer,Read,Caliber,incident
+B13..00,Malignant neoplasm of colon,Read,Caliber,incident
+B13y.00,Malignant neoplasm of other specified sites of colon,Read,Caliber,incident
+B13z.00,Malignant neoplasm of colon NOS,Read,Caliber,incident
+B13z.11,Colonic cancer,Read,Caliber,incident
+ZV10014,[V]Personal history of malignant neoplasm of large intestine,Read,Caliber,prevalent
+C18,Malignant neoplasm of colon,ICD10,Caliber,incident
+C18.0,Malignant neoplasm of colon - caecum,ICD10,Caliber,incident
+C18.1,Malignant neoplasm of colon - appendix,ICD10,Caliber,incident
+C18.2,Malignant neoplasm of colon - ascending colon,ICD10,Caliber,incident
+C18.3,Malignant neoplasm of colon - hepatic flexure,ICD10,Caliber,incident
+C18.4,Malignant neoplasm of colon - transverse colon,ICD10,Caliber,incident
+C18.5,Malignant neoplasm of colon - splenic flexure,ICD10,Caliber,incident
+C18.6,Malignant neoplasm of colon - descending colon,ICD10,Caliber,incident
+C18.7,Malignant neoplasm of colon - sigmoid colon,ICD10,Caliber,incident
+C18.8,Malignant neoplasm of colon - overlapping lesion of colon,ICD10,Caliber,incident
+C18.9,"Malignant neoplasm of colon - colon, unspecified",ICD10,Caliber,incident
+363412000,Ca ascending colon,Snomed,Head,incident
+363409003,Ca descending colon,Snomed,Head,incident
+363407001,Ca hepatic flexure - colon,Snomed,Head,incident
+363410008,Ca sigmoid colon,Snomed,Head,incident
+363413005,Ca splenic flexure - colon,Snomed,Head,incident
+363408006,Ca transverse colon,Snomed,Head,incident
+1728161000006100,hereditary nonpolyposis colon cancer,Snomed,Head,incident
+363406005,Malignant neoplasm of colon,Snomed,Head,incident
+363350007,Malignant neoplasm of caecum,Snomed,Head,incident
+255081007,Carcinoma of caecum,Snomed,Head,incident
+363411007,Malignant neoplasm of appendix,Snomed,Head,incident
+187757001,"Malignant neoplasm, overlapping lesion of colon",Snomed,Head,incident
+315058005,Hereditary nonpolyposis colon cancer,Snomed,Head,incident
+312111009,Carcinoma of ascending colon,Snomed,Aurum browser,incident
+269533000,Carcinoma of colon,Snomed,Aurum browser,incident
+312113007,Carcinoma of descending colon,Snomed,Aurum browser,incident
+285312008,Carcinoma of sigmoid colon,Snomed,Aurum browser,incident
+312112002,Carcinoma of transverse colon,Snomed,Aurum browser,incident
+301756000,Adenocarcinoma of sigmoid colon,Snomed,Aurum browser,incident
+429699009,History of malignant neoplasm of colon,Snomed,Aurum browser,prevalent
+726654006,Malignant carcinoid tumour of colon,Snomed,Aurum browser,incident
+681601000119101,Primary adenocarcinoma of ascending colon,Snomed,Aurum browser,incident
+1701000119104,Primary adenocarcinoma of colon,Snomed,Aurum browser,incident
+681651000119102,Primary adenocarcinoma of descending colon,Snomed,Aurum browser,incident
+721699002,Primary adenocarcinoma of descending colon and splenic flexure,Snomed,Aurum browser,incident
+721696009,Primary adenocarcinoma of transverse colon,Snomed,Aurum browser,incident
+93683002,Primary malignant neoplasm of ascending colon,Snomed,Aurum browser,incident
+93761005,Primary malignant neoplasm of colon,Snomed,Aurum browser,incident
+93771007,Primary malignant neoplasm of descending colon,Snomed,Aurum browser,incident
+93826009,Primary malignant neoplasm of hepatic flexure of colon,Snomed,Aurum browser,incident
+94006002,Primary malignant neoplasm of sigmoid colon,Snomed,Aurum browser,incident
+94072004,Primary malignant neoplasm of splenic flexure of colon,Snomed,Aurum browser,incident
+94105000,Primary malignant neoplasm of transverse colon,Snomed,Aurum browser,incident
+721697000,Primary neuroendocrine carcinoma of colon,Snomed,Aurum browser,incident
+413446001,Adenocarcinoma of caecum,Snomed,Aurum browser,incident
+253002004,Carcinoid tumour of appendix,Snomed,Aurum browser,incident
+448992002,Carcinoma of appendix,Snomed,Aurum browser,incident
+93679002,Primary malignant neoplasm of appendix,Snomed,Aurum browser,incident
+721673009,Primary malignant neuroendocrine neoplasm of appendix,Snomed,Aurum browser,incident
+721672004,Primary mucinous adenocarcinoma of appendix,Snomed,Aurum browser,incident
+314998002,Metastasis from malignant tumour of colon,Snomed,Aurum browser,incident

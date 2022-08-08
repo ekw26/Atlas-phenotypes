@@ -1,29 +1,29 @@
-code,description,codetype,source,category,include,comments
-A69.2,Lyme disease,ICD10,Icd10 browser,incident,y,
-M01.2,Arthritis in Lyme disease,ICD10,Icd10 browser,prevalent,y,
-23502006 ,Lyme disease (disorder),Snomed,Snomed browser,incident,y,
-240668005,Borreliosis (disorder),Snomed,Snomed browser,incident,y,
-735520000,Disseminated infection caused by Borrelia (disorder),Snomed,Snomed browser,incident,y,
-788974002,Late manifestations of infection of skin caused by Borrelia (disorder),Snomed,Snomed browser,incident,y,
-733166004,Infection of skin caused by Borrelia (disorder),Snomed,Snomed browser,incident,y,
-788959004,Infection of eye caused by Borrelia (disorder),Snomed,Snomed browser,incident,y,
-A871000,Lyme disease,Read,Cairns,incident,y,
-A871011,Lyme borreliosis,Read,Gold browser,incident,y,
-1JN1.00,Suspected Lyme disease,Read,Gold browser,suspected,y,
-N010A11,Lyme arthritis,Read,Cairns,prevalent,y,
-A871100,Lyme neuroborreliosis,Read,Gold browser,incident,y,
-A871200,Lyme carditis,Read,Gold browser,prevalent,y,
-N010A00,Arthritis in Lyme disease,Read,Gold browser,prevalent,y,
-A871300,Borrelial lymphocytoma,Read,Gold browser,incident,y,
-23502006,Lyme disease,Snomed,Aurum browser,incident,y,
-33937009,Lyme arthritis,Snomed,Aurum browser,prevalent,y,
-76327009,Borrelia burgdorferi,Snomed,Aurum browser,incident,y,
-77863005,Lyme carditis,Snomed,Aurum browser,prevalent,y,
-112277009,Borrelia,Snomed,Aurum browser,incident,y,
-240668005,Borreliosis,Snomed,Aurum browser,incident,y,
-714327004,Suspected Lyme disease,Snomed,Aurum browser,suspected,y,
-715507005,Lyme neuroborreliosis,Snomed,Aurum browser,incident,y,
-718373005,Borrelial lymphocytoma,Snomed,Aurum browser,incident,y,
-AA41.00,Erythema chronicum migrans,Read,Cairns,incident,y,
-AA41.11,Erythema migrans,Read,Gold browser,incident,y,
-69588003,Erythema migrans,Snomed,Aurum browser,incident,y,
+code,description,codetype,source,category
+A69.2,Lyme disease,ICD10,Icd10 browser,incident
+M01.2,Arthritis in Lyme disease,ICD10,Icd10 browser,prevalent
+23502006 ,Lyme disease (disorder),Snomed,Snomed browser,incident
+240668005,Borreliosis (disorder),Snomed,Snomed browser,incident
+735520000,Disseminated infection caused by Borrelia (disorder),Snomed,Snomed browser,incident
+788974002,Late manifestations of infection of skin caused by Borrelia (disorder),Snomed,Snomed browser,incident
+733166004,Infection of skin caused by Borrelia (disorder),Snomed,Snomed browser,incident
+788959004,Infection of eye caused by Borrelia (disorder),Snomed,Snomed browser,incident
+A871000,Lyme disease,Read,Cairns,incident
+A871011,Lyme borreliosis,Read,Gold browser,incident
+1JN1.00,Suspected Lyme disease,Read,Gold browser,suspected
+N010A11,Lyme arthritis,Read,Cairns,prevalent
+A871100,Lyme neuroborreliosis,Read,Gold browser,incident
+A871200,Lyme carditis,Read,Gold browser,prevalent
+N010A00,Arthritis in Lyme disease,Read,Gold browser,prevalent
+A871300,Borrelial lymphocytoma,Read,Gold browser,incident
+23502006,Lyme disease,Snomed,Aurum browser,incident
+33937009,Lyme arthritis,Snomed,Aurum browser,prevalent
+76327009,Borrelia burgdorferi,Snomed,Aurum browser,incident
+77863005,Lyme carditis,Snomed,Aurum browser,prevalent
+112277009,Borrelia,Snomed,Aurum browser,incident
+240668005,Borreliosis,Snomed,Aurum browser,incident
+714327004,Suspected Lyme disease,Snomed,Aurum browser,suspected
+715507005,Lyme neuroborreliosis,Snomed,Aurum browser,incident
+718373005,Borrelial lymphocytoma,Snomed,Aurum browser,incident
+AA41.00,Erythema chronicum migrans,Read,Cairns,incident
+AA41.11,Erythema migrans,Read,Gold browser,incident
+69588003,Erythema migrans,Snomed,Aurum browser,incident

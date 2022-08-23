@@ -1,0 +1,9 @@
+{
+"condition": "Polycystic ovary syndrome",
+"sex": {"incl_men": false, "incl_women": true},
+"age": {"min":13, "max":null},
+"excl_comorbidities": null,
+"other": {"description": null}
+}
+
+

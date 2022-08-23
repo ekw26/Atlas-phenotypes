@@ -1,0 +1,9 @@
+{
+"condition": "Lyme disease",
+"sex": {"incl_men": true, "incl_women": true},
+"age": {"min":16, "max":null},
+"excl_comorbidities": null,
+"other": {"description": "Lyme disease or infections caused by borrelia"}
+}
+
+

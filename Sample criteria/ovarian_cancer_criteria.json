@@ -1,0 +1,9 @@
+{
+"condition": "Ovarian cancer",
+"sex": {"incl_men": true, "incl_women": true},
+"age": {"min":30, "max":null},
+"excl_comorbidities": null,
+"other": {"description": "Primary malignancy of ovary"}
+}
+
+

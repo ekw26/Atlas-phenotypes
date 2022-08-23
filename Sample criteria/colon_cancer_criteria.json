@@ -1,0 +1,9 @@
+{
+"condition": "Colon cancer",
+"sex": {"incl_men": true, "incl_women": true},
+"age": {"min":30, "max":null},
+"excl_comorbidities": null,
+"other": {"description": "Primary malignancy of colon. Does not include ICD codes C19-21."}
+}
+
+

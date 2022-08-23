@@ -1,0 +1,9 @@
+{
+"condition": "Coronary Heart Disease",
+"sex": {"incl_men": true, "incl_women": true},
+"age": {"min":30, "max":null},
+"excl_comorbidities": null,
+"other": {"description": "Coronary Heart Disease, Ischaemic Heart Disease or Acute Myocardial Infarction"}
+}
+
+

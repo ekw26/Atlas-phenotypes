@@ -1,0 +1,9 @@
+{
+"condition": "Subacute bacterial endocarditis",
+"sex": {"incl_men": true, "incl_women": true},
+"age": {"min":16, "max":null},
+"excl_comorbidities": null,
+"other": {"description": ""}
+}
+
+

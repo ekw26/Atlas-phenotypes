@@ -1,0 +1,9 @@
+{
+"condition": "Brain tumours",
+"sex": {"incl_men": true, "incl_women": true},
+"age": {"min":13, "max":null},
+"excl_comorbidities": null,
+"other": {"description": "Primary intracranial tumours"}
+}
+
+

@@ -1,0 +1,9 @@
+{
+"condition": "Rheumatoid Arthritis",
+"sex": {"incl_men": true, "incl_women": true},
+"age": {"min":16, "max":null},
+"excl_comorbidities": [{"condition": "Ankylosing Spondylitis", "codelist": "AS.csv"}],
+"other": {"description": null}
+}
+
+

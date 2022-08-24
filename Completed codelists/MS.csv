@@ -30,9 +30,8 @@ G35,Multiple sclerosis,ICD10,Caliber,incident
 759171000000105,Multiple sclerosis monitoring third letter,Snomed,Head,prevalent
 905781000006102,[RFC] Multiple sclerosis,Snomed,Head,incident
 908811000006108,[RFC] Multiple sclerosis,Snomed,Head,incident
-1747821000006101,multiple sclerosis monitoring administration,Snomed,Head,prevalent
-1747831000006103,multiple sclerosis monitoring first letter,Snomed,Head,prevalent
-1747841000006108,multiple sclerosis monitoring second letter,Snomed,Head,prevalent
+1747821000006101,Multiple sclerosis monitoring administration,Snomed,Head,prevalent
+1747831000006103,Multiple sclerosis monitoring first letter,Snomed,Head,prevalent
 198491000000106,Multiple sclerosis review,Snomed,Head,prevalent
 205631000000104,Multiple sclerosis multidisciplinary review,Snomed,Head,prevalent
 811881000000109,Multiple sclerosis care plan agreed,Snomed,Head,prevalent
@@ -63,7 +62,6 @@ G35,Multiple sclerosis,ICD10,Caliber,incident
 724778008,Progressive relapsing multiple sclerosis,Snomed,Aurum browser,incident
 367651000000108,Management of multiple sclerosis in progressive disability phase,Snomed,Aurum browser,prevalent
 759131000000108,Multiple sclerosis monitoring telephone invitation,Snomed,Aurum browser,prevalent
-759171000000105,Multiple sclerosis monitoring third letter,Snomed,Aurum browser,prevalent
 1747861000006107,Multiple sclerosis monitoring telephone invite,Snomed,Aurum browser,prevalent
 1858501000006105,Suspected multiple sclerosis,Snomed,Aurum browser,suspected
 F213.00,Clinically isolated syndrome,Read,Gold browser,incident

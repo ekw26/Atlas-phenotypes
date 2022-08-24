@@ -234,7 +234,7 @@ E102200,Chronic catatonic schizophrenia,Read,Launders,incident
 E102300,Acute exacerbation of subchronic catatonic schizophrenia,Read,Launders,prevalent
 E106.11,Restzustand - schizophrenia,Read,Launders,incident
 Eu20512,[X]Restzustand schizophrenic,Read,Launders,incident
-Eu20y.11,[X]Cenesthopathic schizophrenia,Read,Launders,incident
+Eu20y11,[X]Cenesthopathic schizophrenia,Read,Launders,incident
 161464003,[V]Personal history of schizophrenia,Snomed,Aurum browser,prevalent
 191564007,Acute exacerbation of chronic latent schizophrenia,Snomed,Aurum browser,prevalent
 191547009,Acute exacerbation of subchronic catatonic schizophrenia,Snomed,Aurum browser,prevalent

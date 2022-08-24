@@ -70,74 +70,46 @@ Ayu1700,"[X]Acute miliary tuberculosis, unspecified",Read,Breathe,incident
 Ayu1800,[X]Other miliary tuberculosis,Read,Breathe,incident
 Ayu1900,"[X]Miliary tuberculosis, unspecified",Read,Breathe,incident
 AyuJ400,[X]Sequelae of respiratory and unspecified tuberculosis,Read,Breathe,prevalent
-128905016,Isolated tracheal tuberculosis,Snomed,Breathe,incident
-130160016,Tuberculosis of intrathoracic lymph nodes,Snomed,Breathe,incident
-132741012,Isolated bronchial tuberculosis,Snomed,Breathe,incident
-1760211000006110,Mycobacterium tuberculosis,Snomed,Breathe,incident
-1788181018,Nodular lung tuberculosis,Snomed,Breathe,incident
-1834101000006110,Sputum culture mycobacterium tuberculosis positive,Snomed,Breathe,incident
-239551014,Pulmonary tuberculosis,Snomed,Breathe,incident
-2437721000000110,Extensively drug resistant tuberculosis,Snomed,Breathe,incident
-2533735010,Streptomycin resistant tuberculosis,Snomed,Breathe,incident
-2533736011,Rifampicin resistant tuberculosis,Snomed,Breathe,incident
-2533737019,Pyrazinamide resistant tuberculosis,Snomed,Breathe,incident
-2533738012,Isoniazid resistant tuberculosis,Snomed,Breathe,incident
-2533739016,Ethionamide resistant tuberculosis,Snomed,Breathe,incident
-2533740019,Ethambutol resistant tuberculosis,Snomed,Breathe,incident
-2533741015,Ciprofloxacin resistant tuberculosis,Snomed,Breathe,incident
-2646197017,Multidrug resistant tuberculosis,Snomed,Breathe,incident
-281631019,Disseminated tuberculosis,Snomed,Breathe,incident
-286214019,Tuberculous pleurisy in primary progressive tuberculosis,Snomed,Breathe,incident
-286215018,Other primary progressive tuberculosis,Snomed,Breathe,incident
-286217014,Infiltrative lung tuberculosis,Snomed,Breathe,incident
-286219012,Tuberculosis of lung with cavitation,Snomed,Breathe,incident
-286220018,Tuberculosis of bronchus,Snomed,Breathe,incident
-286221019,Other specified pulmonary tuberculosis,Snomed,Breathe,incident
-286222014,Pulmonary tuberculosis NOS,Snomed,Breathe,incident
-286223016,Other respiratory tuberculosis,Snomed,Breathe,incident
-286224010,Tuberculosis of pleura,Snomed,Breathe,incident
-286231014,Tuberculosis of intrathoracic lymph nodes NOS,Snomed,Breathe,incident
-286232019,Isolated tracheal or bronchial tuberculosis,Snomed,Breathe,incident
-286235017,Isolated tracheal or bronchial tuberculosis NOS,Snomed,Breathe,incident
-286238015,"Tuberculosis of lung, confirmed by culture only",Snomed,Breathe,incident
-286239011,"Tuberculosis of lung, confirmed histologically",Snomed,Breathe,incident
-286242017,"Tuberculosis of lung, confirmed by unspecified means",Snomed,Breathe,incident
-286252018,Other specified respiratory tuberculosis,Snomed,Breathe,incident
-286257012,Other specified respiratory tuberculosis NOS,Snomed,Breathe,incident
-286332017,Acute miliary tuberculosis,Snomed,Breathe,incident
-286333010,Acute miliary tuberculosis of a single specified site,Snomed,Breathe,incident
-286334016,Acute miliary tuberculosis of multiple sites,Snomed,Breathe,incident
-286335015,Other specified miliary tuberculosis,Snomed,Breathe,incident
-286336019,Miliary tuberculosis NOS,Snomed,Breathe,incident
-287959013,Late effects of respiratory tuberculosis,Snomed,Breathe,incident
-288006011,"[X]Acute miliary tuberculosis, unspecified",Snomed,Breathe,incident
-288007019,[X]Other miliary tuberculosis,Snomed,Breathe,incident
-288008012,"[X]Miliary tuberculosis, unspecified",Snomed,Breathe,incident
-288298014,[X]Sequelae of respiratory and unspecified tuberculosis,Snomed,Breathe,prevalent
-301563019,Pneumoconiosis associated with tuberculosis,Snomed,Breathe,prevalent
-3269821000006110,MTB - Miliary tuberculosis,Snomed,Breathe,incident
-3421371000006110,TB - Tuberculosis,Snomed,Breathe,incident
-3529611000006110,Primary tuberculosis,Snomed,Breathe,incident
-3529631000006110,Primary (TB) tuberculosis,Snomed,Breathe,incident
-3643901000006110,Laryngeal tuberculosis,Snomed,Breathe,incident
-3643911000006110,Tuberculosis (TB) with laryngitis,Snomed,Breathe,incident
-3763601000006110,Tuberculosis of trachea,Snomed,Breathe,incident
-3811041000006110,Nodular tuberculosis of lung,Snomed,Breathe,incident
-429601000006111,[X]Tuberculosis,Snomed,Breathe,incident
-4514601000006110,PTB - Pulmonary tuberculosis,Snomed,Breathe,incident
-4514611000006110,TB - Pulmonary tuberculosis,Snomed,Breathe,incident
-4711621000006110,Generalized tuberculosis,Snomed,Breathe,incident
-4711631000006110,Generalised tuberculosis,Snomed,Breathe,incident
-4740991000006110,Primary progressive tuberculosis with tuberculous pleurisy,Snomed,Breathe,incident
-4741011000006110,Infiltrative tuberculosis of lung,Snomed,Breathe,incident
-732921000006113,Lung tuberculosis,Snomed,Breathe,incident
-878951000006115,Primary tuberculosis infection,Snomed,Breathe,incident
-89091000006114,Tuberculosis lung bact and histological examin not done,Snomed,Breathe,incident
-89391000006112,"Tuberculosis of larynx, trachea & bronchus conf bact/hist'y",Snomed,Breathe,incident
-89451000006113,"Tuberculosis of lung, bacteriologically & histolog'y neg",Snomed,Breathe,incident
-907551000006110,[RFC] Tuberculosis,Snomed,Breathe,incident
-93954019,Tuberculosis of nasopharynx,Snomed,Breathe,incident
-94320019,Tuberculosis,Snomed,Breathe,incident
+77668003,Isolated tracheal tuberculosis,Snomed,Breathe,incident
+78436002,Tuberculosis of intrathoracic lymph nodes,Snomed,Breathe,incident
+80010008,Isolated bronchial tuberculosis,Snomed,Breathe,incident
+113861009,Mycobacterium tuberculosis,Snomed,Breathe,incident
+80602006,Nodular lung tuberculosis,Snomed,Breathe,incident
+1834101000006107,Sputum culture mycobacterium tuberculosis positive,Snomed,Breathe,incident
+154283005,Pulmonary tuberculosis,Snomed,Breathe,incident
+710106005,Extensively drug resistant tuberculosis,Snomed,Breathe,incident
+415622003,Streptomycin resistant tuberculosis,Snomed,Breathe,incident
+415345001,Rifampicin resistant tuberculosis,Snomed,Breathe,incident
+415222009,Pyrazinamide resistant tuberculosis,Snomed,Breathe,incident
+414546009,Isoniazid resistant tuberculosis,Snomed,Breathe,incident
+414149006,Ethionamide resistant tuberculosis,Snomed,Breathe,incident
+414146004,Ethambutol resistant tuberculosis,Snomed,Breathe,incident
+413852006,Ciprofloxacin resistant tuberculosis,Snomed,Breathe,incident
+423092005,Multidrug resistant tuberculosis,Snomed,Breathe,incident
+182159002,Disseminated tuberculosis,Snomed,Breathe,incident
+186172004,Tuberculous pleurisy in primary progressive tuberculosis,Snomed,Breathe,incident
+111832004,Other primary progressive tuberculosis,Snomed,Breathe,incident
+186175002,Infiltrative lung tuberculosis,Snomed,Breathe,incident
+186177005,Tuberculosis of lung with cavitation,Snomed,Breathe,incident
+186178000,Tuberculosis of bronchus,Snomed,Breathe,incident
+186182003,Tuberculosis of pleura,Snomed,Breathe,incident
+700273003,Isolated tracheal or bronchial tuberculosis,Snomed,Breathe,incident
+186194007,"Tuberculosis of lung, confirmed by culture only",Snomed,Breathe,incident
+186195008,"Tuberculosis of lung, confirmed histologically",Snomed,Breathe,incident
+186276006,Acute miliary tuberculosis,Snomed,Breathe,incident
+186278007,Acute miliary tuberculosis of multiple sites,Snomed,Breathe,incident
+47604008,Other specified miliary tuberculosis,Snomed,Breathe,incident
+187252008,Late effects of respiratory tuberculosis,Snomed,Breathe,incident
+187251001,[X]Sequelae of respiratory and unspecified tuberculosis,Snomed,Breathe,prevalent
+196017002,Pneumoconiosis associated with tuberculosis,Snomed,Breathe,prevalent
+56717001,TB - Tuberculosis,Snomed,Breathe,incident
+63309002,Primary tuberculosis,Snomed,Breathe,incident
+70341005,Laryngeal tuberculosis,Snomed,Breathe,incident
+186204008,Tuberculosis lung bact and histological examin not done,Snomed,Breathe,incident
+186199002,"Tuberculosis of larynx, trachea & bronchus conf bact/hist'y",Snomed,Breathe,incident
+186203002,"Tuberculosis of lung, bacteriologically & histolog'y neg",Snomed,Breathe,incident
+907551000006106,[RFC] Tuberculosis,Snomed,Breathe,incident
+56498009,Tuberculosis of nasopharynx,Snomed,Breathe,incident
 H450.00,Pneumoconiosis associated with tuberculosis,Read,Caliber,prevalent
 J65,Pneumoconiosis associated with tuberculosis,ICD10,Breathe,prevalent
 A121100,Tuberculosis of mediastinal lymph nodes,Read,Gold browser,incident
@@ -155,50 +127,14 @@ A12y.00,Other specified respiratory tuberculosis,Read,Gold browser,incident
 ZV12A00,[V] Personal history of pulmonary tuberculosis,Read,Gold browser,prevalent
 A1y..00,Other specified tuberculosis,Read,Gold browser,incident
 A11y.00,Other specified pulmonary tuberculosis,Read,Gold browser,incident
-113861009,Mycobacterium tuberculosis,Snomed,Aurum browser,incident
-80602006,Nodular lung tuberculosis,Snomed,Aurum browser,incident
 186202007,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Snomed,Aurum browser,incident
-80010008,Isolated bronchial tuberculosis,Snomed,Aurum browser,incident
 473151000,History of tuberculosis drug therapy,Snomed,Aurum browser,prevalent
-186175002,Infiltrative lung tuberculosis,Snomed,Aurum browser,incident
-182159002,Disseminated tuberculosis,Snomed,Aurum browser,incident
 82495004,Tuberculosis of mediastinal lymph nodes,Snomed,Aurum browser,incident
 11999007,Latent tuberculosis,Snomed,Aurum browser,incident
-78436002,Tuberculosis of intrathoracic lymph nodes NOS,Snomed,Aurum browser,incident
-77668003,Isolated tracheal tuberculosis,Snomed,Aurum browser,incident
-423092005,Multidrug resistant tuberculosis,Snomed,Aurum browser,incident
-186276006,"[X]Acute miliary tuberculosis, unspecified",Snomed,Aurum browser,incident
-47604008,"[X]Miliary tuberculosis, unspecified",Snomed,Aurum browser,incident
-187252008,Late effects of respiratory tuberculosis,Snomed,Aurum browser,incident
 186201000,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",Snomed,Aurum browser,incident
-187251001,Sequelae of tuberculosis,Snomed,Aurum browser,prevalent
 74387008,Tuberculosis of hilar lymph nodes,Snomed,Aurum browser,incident
 83784000,Tuberculosis of mediastinum,Snomed,Aurum browser,incident
-186195008,"Tuberculosis of lung, confirmed histologically",Snomed,Aurum browser,incident
-111832004,Primary progressive tuberculosis,Snomed,Aurum browser,incident
-56717001,TB - Tuberculosis,Snomed,Aurum browser,incident
-63309002,Primary tuberculosis,Snomed,Aurum browser,incident
-186178000,Tuberculosis of bronchus,Snomed,Aurum browser,incident
-414146004,Ethambutol resistant tuberculosis,Snomed,Aurum browser,incident
-186194007,"Tuberculosis of lung, confirmed by culture only",Snomed,Aurum browser,incident
 113858008,Mycobacterium tuberculosis complex,Snomed,Aurum browser,incident
-56498009,Tuberculosis of nasopharynx,Snomed,Aurum browser,incident
-414546009,Isoniazid resistant tuberculosis,Snomed,Aurum browser,incident
-186199002,"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically",Snomed,Aurum browser,incident
-907551000006106,[RFC] Tuberculosis,Snomed,Aurum browser,incident
 85692003,Tuberculosis of tracheobronchial lymph nodes,Snomed,Aurum browser,incident
-186172004,Tuberculous pleurisy in primary progressive tuberculosis,Snomed,Aurum browser,incident
-413852006,Ciprofloxacin resistant tuberculosis,Snomed,Aurum browser,incident
-186204008,"Tuberculosis of lung, bacteriological and histological examination not done",Snomed,Aurum browser,incident
-415345001,Rifampicin resistant tuberculosis,Snomed,Aurum browser,incident
-196017002,Pneumoconiosis associated with tuberculosis,Snomed,Aurum browser,incident
-700273003,Isolated tracheal or bronchial tuberculosis NOS,Snomed,Aurum browser,incident
 186193001,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",Snomed,Aurum browser,incident
-186177005,Tuberculosis of lung with cavitation,Snomed,Aurum browser,incident
-186182003,Tuberculosis of pleura,Snomed,Aurum browser,incident
-415622003,Streptomycin resistant tuberculosis,Snomed,Aurum browser,incident
 161414005,History of tuberculosis,Snomed,Aurum browser,prevalent
-186278007,Acute miliary tuberculosis of multiple sites,Snomed,Aurum browser,incident
-415222009,Pyrazinamide resistant tuberculosis,Snomed,Aurum browser,incident
-186203002,"Tuberculosis of lung, bacteriologically and histologically negative",Snomed,Aurum browser,incident
-154283005,TB - Pulmonary tuberculosis,Snomed,Aurum browser,incident

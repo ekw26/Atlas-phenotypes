@@ -1,11 +1,12 @@
 code,description,codetype,source,category
 6648000,Coeliac disease annual review,Read,Caliber,prevalent
-6648,Coeliac disease monitoring,Read,Caliber,prevalent
+6648.00,Coeliac disease monitoring,Read,Caliber,prevalent
 8IAp.00,Coeliac disease annual review declined,Read,Caliber,prevalent
 9mB1.00,Coeliac disease monitoring invitation first letter,Read,Caliber,prevalent
 9mB..00,Coeliac disease monitoring invitation,Read,Caliber,prevalent
-JC90000,Congenital coeliac disease,Read,Caliber,incident
+J690000,Congenital coeliac disease,Read,Caliber,incident
 J690100,Acquired coeliac disease,Read,Caliber,incident
+J690.00,Coeliac disease,Read,Caliber,incident
 J690.11,Coeliac rickets,Read,Caliber,incident
 J690.12,Gee-Herter disese,Read,Caliber,incident
 J690.13,Gluten enteropathy,Read,Caliber,incident
@@ -25,7 +26,6 @@ K90.0,Coeliac disease,ICD10,Caliber,incident
 396331005,Coeliac disease,Snomed,Head,incident
 275404008,Coeliac rickets,Snomed,Head,incident
 45259000,Gee-Herter disese,Snomed,Head,incident
-396331005,Gluten enteropathy,Snomed,Head,incident
 66187002,Steatorrhea - idiopathic,Snomed,Head,incident
 197478000,Congenital coeliac disease,Snomed,Head,incident
 197479008,Acquired coeliac disease,Snomed,Head,incident
@@ -41,3 +41,4 @@ K90.0,Coeliac disease,ICD10,Caliber,incident
 1745871000006106,Coeliac disease monitoring 3rd letter,Snomed,Aurum browser,prevalent
 1745881000006109,Coeliac disease monitoring phone invite,Snomed,Aurum browser,prevalent
 289134009,Coeliac disease diet education,Snomed,Aurum browser,prevalent
+9mB2.00,Coeliac disease monitoring invitation second letter,Read,Gold browser,prevalent

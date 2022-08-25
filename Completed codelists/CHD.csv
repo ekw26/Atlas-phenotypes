@@ -269,7 +269,6 @@ G340100,Double coronary vessel disease,Read,Zghebi,incident
 9Ob8.00,Coronary heart disease monitoring check done,Read,Zghebi,prevalent
 G311.13,Unstable angina,Read,Zghebi,incident
 Gyu3000,[X]Other forms of angina pectoris,Read,Zghebi,incident
-G30Z000,Acute ST segment elevation myocardial infarction,Read,Zghebi,emergency
 9Ob9.00,Coronary heart disease monitoring telephone invite,Read,Zghebi,prevalent
 662N.00,CHO monitoring,Read,Zghebi,prevalent
 662K100,Angina control - poor,Read,Zghebi,prevalent

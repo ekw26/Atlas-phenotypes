@@ -29,7 +29,7 @@ B51y.00,Malignant neoplasm of other parts of brain,Read,Caliber,incident
 B51yz00,Malignant neoplasm of other part of brain NOS,Read,Caliber,incident
 B51z.00,Malignant neoplasm of brain NOS,Read,Caliber,incident
 B520100,Malignant neoplasm of optic nerve,Read,Caliber,incident
-B521200,Malignant neoplasm of cerebral pia mater,Read,Caliber,incident
+B521200,Malignant neoplasm of cerebral pia mater,Read,Caliber,incident meningeal
 B521.00,Malignant neoplasm of cerebral meninges,Read,Caliber,incident meningeal
 B521z00,Malignant neoplasm of cerebral meninges NOS,Read,Caliber,incident meningeal
 74532006,[m]glioma nos,Snomed,Head,incident
@@ -57,7 +57,7 @@ B521z00,Malignant neoplasm of cerebral meninges NOS,Read,Caliber,incident mening
 109912006,"Malignant neoplasm, overlapping lesion of brain",Snomed,Head,incident
 363498002,Malignant neoplasm of optic nerve,Snomed,Head,incident
 363474009,Malignant neoplasm of cerebral meninges,Snomed,Head,incident meningeal
-188315007,Malignant neoplasm of cerebral pia mater,Snomed,Head,incident
+188315007,Malignant neoplasm of cerebral pia mater,Snomed,Head,incident meningeal
 BBbB.00,[M]Astrocytoma NOS,Read,Caliber,incident
 BBbB.11,[M]Astrocytic glioma,Read,Caliber,incident
 BBbC.00,"[M]Astrocytoma, anaplastic type",Read,Caliber,incident
@@ -122,6 +122,7 @@ C71.6,Malignant neoplasm of brain - Cerebellum,ICD10,Chu,incident
 C71.7,Malignant neoplasm of brain - Brain stem,ICD10,Chu,incident
 C71.8,Malignant neoplasm of brain - Overlapping lesion of brain,ICD10,Chu,incident
 C71.9,"Malignant neoplasm of brain - Brain, unspecified",ICD10,Chu,incident
+C72.3,"Malignant neoplasm of spinal cord, cranial nerves and other parts of CNS - Optic nerve",ICD10,Chu,incident
 BBb6.00,"[M]Choroid plexus papilloma, malignant",Read,Gold browser,incident
 B515z00,Malignant neoplasm of cerebral ventricle NOS,Read,Gold browser,incident
 9Np1.00,Seen in fast track suspected brain tumour clinic,Read,Gold browser,suspected
@@ -175,7 +176,6 @@ BBb2.11,[M]Mixed glioma,Read,Gold browser,incident
 253071005,[M]Mixed glioma,Snomed,Aurum browser,incident
 22217002,Mixed glioma,Snomed,Aurum browser,incident
 73348003,"Oligodendroglioma, no ICD10-O subtype",Snomed,Aurum browser,incident
-307829004,Excision of nasal glioma,Snomed,Aurum browser,prevalent
 404664002,Malignant optic glioma,Snomed,Aurum browser,incident
 428954009,Low-grade glioma,Snomed,Aurum browser,incident
 443936004,Oligodendroglioma,Snomed,Aurum browser,incident
@@ -199,3 +199,68 @@ BBb2.11,[M]Mixed glioma,Read,Gold browser,incident
 722718001,Primary malignant meningioma,Snomed,Aurum browser,incident meningeal
 109915008,Primary malignant neoplasm of meninges,Snomed,Aurum browser,incident meningeal
 414647009,Malignant meningeal neoplasm,Snomed,Aurum browser,incident meningeal
+D32.0,Benign neoplasm of meninges - Cerebral meninges,ICD10,Nygaard,incident meningeal
+D32.9,"Benign neoplasm of meninges - Meninges, unspecified",ICD10,Nygaard,incident meningeal
+D33.0,"Benign neoplasm of brain and other parts of central nervous system - Brain, supratentorial",ICD10,Nygaard,incident
+D33.1,"Benign neoplasm of brain and other parts of central nervous system - Brain, infratentorial",ICD10,Nygaard,incident
+D33.2,"Benign neoplasm of brain and other parts of central nervous system - Brain, unspecified",ICD10,Nygaard,incident
+B7F0000,"Benign neoplasm of brain, supratentorial",Read,Caliber,incident
+B7F0.00,Benign neoplasm of brain,Read,Caliber,incident
+B7F0.11,Cerebral tumour - benign,Read,Caliber,incident
+B7F2.00,Benign neoplasm of cerebral meninges,Read,Caliber,incident meningeal
+B7F2z00,Benign neoplasm of cerebral meninges NOS,Read,Caliber,incident meningeal
+B7FX.00,"Benign neoplasm of meninges, unspecified",Read,Caliber,incident meningeal
+BBb5.00,[M]Choroid plexus papilloma NOS,Read,Caliber,incident
+BBd0.00,[M]Meningioma NOS,Read,Caliber,incident meningeal
+BBd3.00,[M]Meningotheliomatous meningioma,Read,Caliber,incident meningeal
+BBd3.11,[M]Endotheliomatous meningioma,Read,Caliber,incident meningeal
+BBd4.00,[M]Fibrous meningioma,Read,Caliber,incident meningeal
+BBd5.00,[M]Psammomatous meningioma,Read,Caliber,incident meningeal
+BBd6.00,[M]Angiomatous meningioma,Read,Caliber,incident meningeal
+BBd7.00,[M]Haemangioblastic meningioma,Read,Caliber,incident meningeal
+BBd7.11,[M]Angioblastic meningioma,Read,Caliber,incident meningeal
+BBd8.00,[M]Haemangiopericytic meningioma,Read,Caliber,incident meningeal
+BBd9.00,[M]Transitional meningioma,Read,Caliber,incident meningeal
+BBd..00,[M]Meningiomas,Read,Caliber,incident meningeal
+BBdz.00,[M]Meningioma NOS,Read,Caliber,incident meningeal
+1586004,[M]Subependymal giant cell astrocytoma,Snomed,Aurum browser,incident
+266987004,[V]Personal history of malignant neoplasm of brain,Snomed,Aurum browser,prevalent
+92030004,Benign neoplasm of brain,Snomed,Aurum browser,incident
+92051001,Benign neoplasm of cerebral meninges,Snomed,Aurum browser,incident meningeal
+511008,Fibrous meningioma,Snomed,Aurum browser,incident meningeal
+1586004,Subependymal giant cell astrocytoma,Snomed,Aurum browser,incident
+188312005,Malignant neoplasm of cerebral dura mater,Snomed,Aurum browser,incident
+188313000,Malignant neoplasm of cerebral arachnoid mater,Snomed,Aurum browser,incident
+189162003,"Benign neoplasm of brain, supratentorial",Snomed,Aurum browser,incident
+92051001,Benign neoplasm of cerebral meninges NOS,Snomed,Aurum browser,incident meningeal
+36060005,[M]Haemangiopericytic meningioma,Snomed,Aurum browser,incident meningeal
+35701008,[M]Angioblastic meningioma,Snomed,Aurum browser,incident meningeal
+73918009,[M]Angiomatous meningioma,Snomed,Aurum browser,incident meningeal
+35701008,Haemangioblastic meningioma,Snomed,Aurum browser,incident meningeal
+511008,[M]Fibrous meningioma,Snomed,Aurum browser,incident meningeal
+35701008,[M]Haemangioblastic meningioma,Snomed,Aurum browser,incident meningeal
+38431002,Psammomatous meningioma,Snomed,Aurum browser,incident meningeal
+64967004,[M]Mixed meningioma,Snomed,Aurum browser,incident meningeal
+55094006,[M]Protoplasmic astrocytoma,Snomed,Aurum browser,incident meningeal
+38431002,[M]Psammomatous meningioma,Snomed,Aurum browser,incident meningeal
+40935003,Multiple meningiomas,Snomed,Aurum browser,incident meningeal
+4553004,Subependymal glioma,Snomed,Aurum browser,incident
+4553004,Subependymal glioma,Snomed,Aurum browser,incident
+4553004,[M]Subependymal glioma,Snomed,Aurum browser,incident
+64967004,Transitional meningioma,Snomed,Aurum browser,incident meningeal
+55094006,Protoplasmic astrocytoma,Snomed,Aurum browser,incident
+73918009,Angiomatous meningioma,Snomed,Aurum browser,incident meningeal
+92030004,Benign brain tumour,Snomed,Aurum browser,incident
+128914005,Atypical meningioma,Snomed,Aurum browser,incident meningeal
+109913001,"Benign neoplasm of meninges, unspecified",Snomed,Aurum browser,incident meningeal
+275269004,Cerebral tumour - benign,Snomed,Aurum browser,incident
+275269004,Benign cerebral tumour,Snomed,Aurum browser,incident
+397381007,Diffuse astrocytoma,Snomed,Aurum browser,incident
+363497007,"Malignant neoplasm of meninges, unspecified",Snomed,Aurum browser,incident meningeal
+446307000,Total excision of meningioma,Snomed,Aurum browser,prevalent meningeal
+446307000,Complete excision of meningioma,Snomed,Aurum browser,prevalent meningeal
+446309002,Partial excision of meningioma,Snomed,Aurum browser,prevalent meningeal
+446868001,Excision of meningioma by supratentorial approach,Snomed,Aurum browser,prevalent meningeal
+447107001,Craniotomy and excision of neoplasm of brain,Snomed,Aurum browser,prevalent
+724171006,Benign meningioma,Snomed,Aurum browser,incident meningeal
+B521000,Malignant neoplasm of cerebral dura mater,Gold browser,incident meningeal

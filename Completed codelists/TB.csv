@@ -1,6 +1,6 @@
 code,description,codetype,source,category
 A15,Respiratory tuberculosis bacteriologically and histologically confirmed,ICD10,Miller,incident
-A15.0,Tuberculosis of lung - confirmed by sputum microscopy with or withour culture,ICD10,Miller,incident
+A15.0,Tuberculosis of lung - confirmed by sputum microscopy with or without culture,ICD10,Miller,incident
 A15.1,Tuberculosis of lung - confirmed by culture only,ICD10,Miller,incident
 A15.2,Tuberculosis of lung - confirmed histologically,ICD10,Miller,incident
 A15.3,Tuberculosis of lung - confirmed by unspecified means,ICD10,Miller,incident

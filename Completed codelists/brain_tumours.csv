@@ -263,4 +263,4 @@ BBdz.00,[M]Meningioma NOS,Read,Caliber,incident meningeal
 446868001,Excision of meningioma by supratentorial approach,Snomed,Aurum browser,prevalent meningeal
 447107001,Craniotomy and excision of neoplasm of brain,Snomed,Aurum browser,prevalent
 724171006,Benign meningioma,Snomed,Aurum browser,incident meningeal
-B521000,Malignant neoplasm of cerebral dura mater,Gold browser,incident meningeal
+B521000,Malignant neoplasm of cerebral dura mater,Read,Gold browser,incident meningeal

@@ -1,44 +1,55 @@
 code,description,codetype,source,category
-2377.00,O/E - ankyl.spondyl.chest def.,Read,Caliber,incident
-388p.00,BASDAI - Bath ankylosing spondylitis disease activity index,Read,Caliber,incident
-N100.00,Ankylosing spondylitis,Read,Caliber,incident
-N100.11,Marie - Strumpell spondylitis,Read,Caliber,incident
-M45,Ankylosing spondylitis,ICD10,Caliber,incident
-162930007,o/e - ankyl.spondyl.chest def.,Snomed,Head,incident
-441562009,BASDAI - Bath ankylosing spondylitis disease activity index,Snomed,Head,incident
-9631008,Ankylosing spondylitis,Snomed,Head,incident
-N14z.11,Ankylosis of spine NOS,Read,Muller,incident
-N148.00,Ankylosis/instability of cervical thoracic or lumbar spine,Read,Muller,incident
-N148100,Atlanto-axial ankylosis,Read,Muller,incident
-N10z.00,Spondylitis NOS,Read,Muller,incident
-N148800,Atlanto-axial instability,Read,Muller,incident
-N148000,Atlanto-occipital ankylosis,Read,Muller,incident
-N148700,Atlanto-occipital instability,Read,Muller,incident
-N148200,Cervical spine ankylosis,Read,Muller,incident
-N148900,Cervical spine instability,Read,Muller,incident
-N148300,Cervico-thoracic ankylosis,Read,Muller,incident
-N148A00,Cervico-thoracic instability,Read,Muller,incident
-N148600,Lumbar spine ankylosis,Read,Muller,incident
-N148C00,Lumbar spine instability,Read,Muller,incident
-N146000,Lumbosacral ankylosis,Read,Muller,incident
-N146200,Sacral ankylosis NOS,Read,Muller,incident
-N146100,Sacroiliac ankylosis,Read,Muller,incident
-N148400,Thoracic spine ankylosis,Read,Muller,incident
-N148B00,Thoracic spine instability,Read,Muller,incident
-N148500,Thoraco-lumbar ankylosis,Read,Muller,incident
-441680005,Bath ankylosing spondylitis functional index score,Snomed,Aurum browser,incident
-441930001,Bath ankylosing spondylitis metrology index score,Snomed,Aurum browser,incident
-429712009,BASDAI - Bath ankylosing spondylitis disease activity index,Snomed,Aurum browser,incident
-904311000000100,BASFI - Bath Ankylosing Spondylitis Functional Index,Snomed,Aurum browser,incident
-904511000000108,BASMI - Bath Ankylosing Spondylitis Metrology Index,Snomed,Aurum browser,incident
-16065006,Ankylosis of sacroiliac joint,Snomed,Aurum browser,incident
-202812007,Atlanto-occipital ankylosis,Snomed,Aurum browser,incident
-202814008,Cervical spine ankylosis,Snomed,Aurum browser,incident
-202816005,Thoracic spine ankylosis,Snomed,Aurum browser,incident
-202818006,Lumbar spine ankylosis,Snomed,Aurum browser,incident
-47049007,"Ankylosis/instability of cervical,thoracic or lumbar spine",Snomed,Aurum browser,incident
-87823004,Lumbosacral ankylosis,Snomed,Aurum browser,incident
-202813002,Atlantoaxial ankylosis,Snomed,Aurum browser,incident
-202815009,Cervicothoracic ankylosis,Snomed,Aurum browser,incident
-38QL.00,Bath Ankylosing Spondylitis Metrology Index,Read,Gold browser,incident
-388p000,Bath Ankylosing Spondylitis Functional Index,Read,Gold browser,incident
+M45,Ankylosing spondylitis,ICD10,Caliber,Incident ankylosing spondylitis
+M45.X0,Ankylosing spondylitis - Multiple sites in spine,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X1,Ankylosing spondylitis - Occipito-atlanto-axial region,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X2,Ankylosing spondylitis - Cervical region,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X3,Ankylosing spondylitis - Cervicothoracic region,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X4,Ankylosing spondylitis - Thoracic region,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X5,Ankylosing spondylitis - Thoracolumbar region,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X6,Ankylosing spondylitis - Lumbar region,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X7,Ankylosing spondylitis - Lumbosacral region,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X8,Ankylosing spondylitis - Sacral and sacrococcygeal region,ICD10,ICD10 browser,Incident ankylosing spondylitis
+M45.X9,Ankylosing spondylitis - Site unspecified,ICD10,ICD10 browser,Incident ankylosing spondylitis
+720.0,Ankylosing spondylitis,ICD9,ICD9 browser,Incident ankylosing spondylitis
+2377.00,O/E - ankyl.spondyl.chest def.,Read,Caliber,Incident ankylosing spondylitis
+388p.00,BASDAI - Bath ankylosing spondylitis disease activity index,Read,Caliber,Incident ankylosing spondylitis
+N100.00,Ankylosing spondylitis,Read,Caliber,Incident ankylosing spondylitis
+N100.11,Marie - Strumpell spondylitis,Read,Caliber,Incident ankylosing spondylitis
+388p000,Bath Ankylosing Spondylitis Functional Index,Read,Gold browser,Incident ankylosing spondylitis
+38QL.00,Bath Ankylosing Spondylitis Metrology Index,Read,Gold browser,Incident ankylosing spondylitis
+N10z.00,Spondylitis NOS,Read,Muller,Incident ankylosing spondylitis
+N146000,Lumbosacral ankylosis,Read,Muller,Incident ankylosing spondylitis
+N146100,Sacroiliac ankylosis,Read,Muller,Incident ankylosing spondylitis
+N146200,Sacral ankylosis NOS,Read,Muller,Incident ankylosing spondylitis
+N148.00,Ankylosis/instability of cervical thoracic or lumbar spine,Read,Muller,Incident ankylosing spondylitis
+N148000,Atlanto-occipital ankylosis,Read,Muller,Incident ankylosing spondylitis
+N148100,Atlanto-axial ankylosis,Read,Muller,Incident ankylosing spondylitis
+N148200,Cervical spine ankylosis,Read,Muller,Incident ankylosing spondylitis
+N148300,Cervico-thoracic ankylosis,Read,Muller,Incident ankylosing spondylitis
+N148400,Thoracic spine ankylosis,Read,Muller,Incident ankylosing spondylitis
+N148500,Thoraco-lumbar ankylosis,Read,Muller,Incident ankylosing spondylitis
+N148600,Lumbar spine ankylosis,Read,Muller,Incident ankylosing spondylitis
+N148700,Atlanto-occipital instability,Read,Muller,Incident ankylosing spondylitis
+N148800,Atlanto-axial instability,Read,Muller,Incident ankylosing spondylitis
+N148900,Cervical spine instability,Read,Muller,Incident ankylosing spondylitis
+N148A00,Cervico-thoracic instability,Read,Muller,Incident ankylosing spondylitis
+N148B00,Thoracic spine instability,Read,Muller,Incident ankylosing spondylitis
+N148C00,Lumbar spine instability,Read,Muller,Incident ankylosing spondylitis
+N14z.11,Ankylosis of spine NOS,Read,Muller,Incident ankylosing spondylitis
+16065006,Ankylosis of sacroiliac joint,Snomed,Aurum browser,Incident ankylosing spondylitis
+202812007,Atlanto-occipital ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
+202813002,Atlantoaxial ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
+202814008,Cervical spine ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
+202815009,Cervicothoracic ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
+202816005,Thoracic spine ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
+202818006,Lumbar spine ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
+429712009,BASDAI - Bath ankylosing spondylitis disease activity index,Snomed,Aurum browser,Incident ankylosing spondylitis
+441680005,Bath ankylosing spondylitis functional index score,Snomed,Aurum browser,Incident ankylosing spondylitis
+441930001,Bath ankylosing spondylitis metrology index score,Snomed,Aurum browser,Incident ankylosing spondylitis
+47049007,"Ankylosis/instability of cervical,thoracic or lumbar spine",Snomed,Aurum browser,Incident ankylosing spondylitis
+87823004,Lumbosacral ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
+904311000000100,BASFI - Bath Ankylosing Spondylitis Functional Index,Snomed,Aurum browser,Incident ankylosing spondylitis
+904511000000108,BASMI - Bath Ankylosing Spondylitis Metrology Index,Snomed,Aurum browser,Incident ankylosing spondylitis
+162930007,o/e - ankyl.spondyl.chest def.,Snomed,Head,Incident ankylosing spondylitis
+441562009,BASDAI - Bath ankylosing spondylitis disease activity index,Snomed,Head,Incident ankylosing spondylitis
+9631008,Ankylosing spondylitis,Snomed,Head,Incident ankylosing spondylitis

@@ -1,14 +1,15 @@
 code,description,codetype,source,category
-C164.12,Stein - Leventhal syndrome,Read,Caliber,incident
-C165.00,Polycystic ovarian syndrome,Read,Caliber,incident
-E28.2,Polycystic ovarian syndrome,ICD10,Caliber,incident
-69878008,Polycystic ovarian syndrome,Snomed,Head,incident
-C164.00,Polycystic ovaries,Read,Rees,incident
-237055002,Polycystic ovary syndrome,Snomed,Aurum browser,incident
-781067001,Polycystic ovary,Snomed,Aurum browser,incident
-830047004,Polycystic left ovary,Snomed,Aurum browser,incident
-830048009,Polycystic right ovary,Snomed,Aurum browser,incident
-830049001,Polycystic bilateral ovaries,Snomed,Aurum browser,incident
-830053004,PCOS (polycystic ovary syndrome) of left ovary,Snomed,Aurum browser,incident
-830054005,PCOS (polycystic ovary syndrome) of bilateral ovaries,Snomed,Aurum browser,incident
-830052009,PCOS (polycystic ovary syndrome) of right ovary,Snomed,Snomed browser,incident
+E28.2,Polycystic ovarian syndrome,ICD10,Caliber,Incident polycystic ovary syndrome
+256.4,Polycystic ovaries,ICD9,ICD9 browser,Incident polycystic ovary syndrome
+C164.12,Stein - Leventhal syndrome,Read,Caliber,Incident polycystic ovary syndrome
+C165.00,Polycystic ovarian syndrome,Read,Caliber,Incident polycystic ovary syndrome
+C164.00,Polycystic ovaries,Read,Rees,Incident polycystic ovary syndrome
+237055002,Polycystic ovary syndrome,Snomed,Aurum browser,Incident polycystic ovary syndrome
+781067001,Polycystic ovary,Snomed,Aurum browser,Incident polycystic ovary syndrome
+830047004,Polycystic left ovary,Snomed,Aurum browser,Incident polycystic ovary syndrome
+830048009,Polycystic right ovary,Snomed,Aurum browser,Incident polycystic ovary syndrome
+830049001,Polycystic bilateral ovaries,Snomed,Aurum browser,Incident polycystic ovary syndrome
+830053004,PCOS (polycystic ovary syndrome) of left ovary,Snomed,Aurum browser,Incident polycystic ovary syndrome
+830054005,PCOS (polycystic ovary syndrome) of bilateral ovaries,Snomed,Aurum browser,Incident polycystic ovary syndrome
+69878008,Polycystic ovarian syndrome,Snomed,Head,Incident polycystic ovary syndrome
+830052009,PCOS (polycystic ovary syndrome) of right ovary,Snomed,Snomed browser,Incident polycystic ovary syndrome

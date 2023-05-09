@@ -1,70 +1,71 @@
 code,description,codetype,source,category
-666A.00,Multiple sclerosis review,Read,Caliber,prevalent
-666B.00,Multiple sclerosis multidisciplinary review,Read,Caliber,prevalent
-8Cc0.00,Management of multiple sclerosis in onset phase,Read,Caliber,incident
-8Cc1.00,Management of multiple sclerosis in early disease phase,Read,Caliber,incident
-8Cc2.00,Management of multiple sclerosis in stable disability phase,Read,Caliber,prevalent
-8Cc4.00,Management of multiple sclerosis in palliative phase,Read,Caliber,prevalent
-8CS1.00,Multiple sclerosis care plan agreed,Read,Caliber,prevalent
-8IAb.00,Multiple sclerosis review declined,Read,Caliber,prevalent
-9kG..00,Spec serv for pat with multiple sclerosis - enh serv admin,Read,Caliber,prevalent
-9mD0.00,Multiple sclerosis monitoring first letter,Read,Caliber,prevalent
-9mD1.00,Multiple sclerosis monitoring second letter,Read,Caliber,prevalent
-9mD..00,Multiple sclerosis monitoring administration,Read,Caliber,prevalent
-F200.00,Multiple sclerosis of the brain stem,Read,Caliber,incident
-F201.00,Multiple sclerosis of the spinal cord,Read,Caliber,incident
-F202.00,Generalised multiple sclerosis,Read,Caliber,incident
-F203.00,Exacerbation of multiple sclerosis,Read,Caliber,prevalent
-F204.00,Benign multiple sclerosis,Read,Caliber,incident
-F206.00,Primary progressive multiple sclerosis,Read,Caliber,incident
-F207.00,Relapsing and remitting multiple sclerosis,Read,Caliber,incident
-F208.00,Secondary progressive multiple sclerosis,Read,Caliber,incident
-F20..00,Multiple sclerosis,Read,Caliber,incident
-F20..11,Disseminated sclerosis,Read,Caliber,incident
-F20z.00,Multiple sclerosis NOS,Read,Caliber,incident
-G35,Multiple sclerosis,ICD10,Caliber,incident
-983261000006103,Multiple sclerosis - personal health plan,Snomed,Head,prevalent
-983291000006106,Multiple sclerosis - primary progressive,Snomed,Head,incident
-983311000006105,Multiple sclerosis - relapsing remitting,Snomed,Head,incident
-983301000006107,Multiple sclerosis - secondary progressive,Snomed,Head,incident
-759171000000105,Multiple sclerosis monitoring third letter,Snomed,Head,prevalent
-905781000006102,[RFC] Multiple sclerosis,Snomed,Head,incident
-908811000006108,[RFC] Multiple sclerosis,Snomed,Head,incident
-1747821000006101,Multiple sclerosis monitoring administration,Snomed,Head,prevalent
-1747831000006103,Multiple sclerosis monitoring first letter,Snomed,Head,prevalent
-198491000000106,Multiple sclerosis review,Snomed,Head,prevalent
-205631000000104,Multiple sclerosis multidisciplinary review,Snomed,Head,prevalent
-811881000000109,Multiple sclerosis care plan agreed,Snomed,Head,prevalent
-367561000000107,Management of multiple sclerosis in onset phase,Snomed,Head,incident
-367591000000101,Management of multiple sclerosis in early disease phase,Snomed,Head,incident
-367621000000103,Management of multiple sclerosis in stable disability phase,Snomed,Head,prevalent
-367681000000102,Management of multiple sclerosis in palliative phase,Snomed,Head,prevalent
-515931000000104,Multiple sclerosis review declined,Snomed,Head,prevalent
-166411000000100,Spec serv for pat with multiple sclerosis - enh serv admin,Snomed,Head,prevalent
-758981000000100,Multiple sclerosis monitoring administration,Snomed,Head,prevalent
-759051000000102,Multiple sclerosis monitoring first letter,Snomed,Head,prevalent
-759091000000105,Multiple sclerosis monitoring second letter,Snomed,Head,prevalent
-24700007,Multiple sclerosis,Snomed,Head,incident
-192926004,Multiple sclerosis of the brain stem,Snomed,Head,incident
-192927008,Multiple sclerosis of the spinal cord,Snomed,Head,incident
-192928003,Generalised multiple sclerosis,Snomed,Head,incident
-192929006,Exacerbation of multiple sclerosis,Snomed,Head,prevalent
-438511000,Benign multiple sclerosis,Snomed,Head,incident
-428700003,Primary progressive multiple sclerosis,Snomed,Head,incident
-426373005,Relapsing and remitting multiple sclerosis,Snomed,Head,incident
-425500002,Secondary progressive multiple sclerosis,Snomed,Head,incident
-1JA3.00,Suspected multiple sclerosis,Read,Gold browser,suspected
-9mD2.00,Multiple sclerosis monitoring telephone invitation,Read,Gold browser,prevalent
-230373008,Chronic progressive multiple sclerosis,Snomed,Aurum browser,incident
-230374002,Remittent-progressive multiple sclerosis,Snomed,Aurum browser,incident
-698626001,Dementia associated with multiple sclerosis,Snomed,Aurum browser,prevalent
-700409000,Suspected multiple sclerosis,Snomed,Aurum browser,suspected
-724778008,Progressive relapsing multiple sclerosis,Snomed,Aurum browser,incident
-367651000000108,Management of multiple sclerosis in progressive disability phase,Snomed,Aurum browser,prevalent
-759131000000108,Multiple sclerosis monitoring telephone invitation,Snomed,Aurum browser,prevalent
-1747861000006107,Multiple sclerosis monitoring telephone invite,Snomed,Aurum browser,prevalent
-1858501000006105,Suspected multiple sclerosis,Snomed,Aurum browser,suspected
-F213.00,Clinically isolated syndrome,Read,Gold browser,incident
-445967004,Clinically isolated syndrome,Snomed,Aurum browser,incident
-703621006,Polysymptomatic clinically isolated syndrome,Snomed,Aurum browser,incident
-703622004,Monofocal clinically isolated syndrome,Snomed,Snomed browser,incident
+G35,Multiple sclerosis,ICD10,Caliber,Incident multiple sclerosis
+340,Multiple sclerosis,ICD9,ICD9 browser,Incident multiple sclerosis
+8Cc0.00,Management of multiple sclerosis in onset phase,Read,Caliber,Incident multiple sclerosis
+8Cc1.00,Management of multiple sclerosis in early disease phase,Read,Caliber,Incident multiple sclerosis
+F20..00,Multiple sclerosis,Read,Caliber,Incident multiple sclerosis
+F20..11,Disseminated sclerosis,Read,Caliber,Incident multiple sclerosis
+F200.00,Multiple sclerosis of the brain stem,Read,Caliber,Incident multiple sclerosis
+F201.00,Multiple sclerosis of the spinal cord,Read,Caliber,Incident multiple sclerosis
+F202.00,Generalised multiple sclerosis,Read,Caliber,Incident multiple sclerosis
+F204.00,Benign multiple sclerosis,Read,Caliber,Incident multiple sclerosis
+F206.00,Primary progressive multiple sclerosis,Read,Caliber,Incident multiple sclerosis
+F207.00,Relapsing and remitting multiple sclerosis,Read,Caliber,Incident multiple sclerosis
+F208.00,Secondary progressive multiple sclerosis,Read,Caliber,Incident multiple sclerosis
+F20z.00,Multiple sclerosis NOS,Read,Caliber,Incident multiple sclerosis
+666A.00,Multiple sclerosis review,Read,Caliber,Prevalent multiple sclerosis
+666B.00,Multiple sclerosis multidisciplinary review,Read,Caliber,Prevalent multiple sclerosis
+8CS1.00,Multiple sclerosis care plan agreed,Read,Caliber,Prevalent multiple sclerosis
+8Cc2.00,Management of multiple sclerosis in stable disability phase,Read,Caliber,Prevalent multiple sclerosis
+8Cc4.00,Management of multiple sclerosis in palliative phase,Read,Caliber,Prevalent multiple sclerosis
+8IAb.00,Multiple sclerosis review declined,Read,Caliber,Prevalent multiple sclerosis
+9kG..00,Spec serv for pat with multiple sclerosis - enh serv admin,Read,Caliber,Prevalent multiple sclerosis
+9mD..00,Multiple sclerosis monitoring administration,Read,Caliber,Prevalent multiple sclerosis
+9mD0.00,Multiple sclerosis monitoring first letter,Read,Caliber,Prevalent multiple sclerosis
+9mD1.00,Multiple sclerosis monitoring second letter,Read,Caliber,Prevalent multiple sclerosis
+F203.00,Exacerbation of multiple sclerosis,Read,Caliber,Prevalent multiple sclerosis
+F213.00,Clinically isolated syndrome,Read,Gold browser,Incident multiple sclerosis
+9mD2.00,Multiple sclerosis monitoring telephone invitation,Read,Gold browser,Prevalent multiple sclerosis
+1JA3.00,Suspected multiple sclerosis,Read,Gold browser,Suspected multiple sclerosis
+230373008,Chronic progressive multiple sclerosis,Snomed,Aurum browser,Incident multiple sclerosis
+230374002,Remittent-progressive multiple sclerosis,Snomed,Aurum browser,Incident multiple sclerosis
+445967004,Clinically isolated syndrome,Snomed,Aurum browser,Incident multiple sclerosis
+703621006,Polysymptomatic clinically isolated syndrome,Snomed,Aurum browser,Incident multiple sclerosis
+724778008,Progressive relapsing multiple sclerosis,Snomed,Aurum browser,Incident multiple sclerosis
+1747861000006107,Multiple sclerosis monitoring telephone invite,Snomed,Aurum browser,Prevalent multiple sclerosis
+367651000000108,Management of multiple sclerosis in progressive disability phase,Snomed,Aurum browser,Prevalent multiple sclerosis
+698626001,Dementia associated with multiple sclerosis,Snomed,Aurum browser,Prevalent multiple sclerosis
+759131000000108,Multiple sclerosis monitoring telephone invitation,Snomed,Aurum browser,Prevalent multiple sclerosis
+1858501000006105,Suspected multiple sclerosis,Snomed,Aurum browser,Suspected multiple sclerosis
+700409000,Suspected multiple sclerosis,Snomed,Aurum browser,Suspected multiple sclerosis
+192926004,Multiple sclerosis of the brain stem,Snomed,Head,Incident multiple sclerosis
+192927008,Multiple sclerosis of the spinal cord,Snomed,Head,Incident multiple sclerosis
+192928003,Generalised multiple sclerosis,Snomed,Head,Incident multiple sclerosis
+24700007,Multiple sclerosis,Snomed,Head,Incident multiple sclerosis
+367561000000107,Management of multiple sclerosis in onset phase,Snomed,Head,Incident multiple sclerosis
+367591000000101,Management of multiple sclerosis in early disease phase,Snomed,Head,Incident multiple sclerosis
+425500002,Secondary progressive multiple sclerosis,Snomed,Head,Incident multiple sclerosis
+426373005,Relapsing and remitting multiple sclerosis,Snomed,Head,Incident multiple sclerosis
+428700003,Primary progressive multiple sclerosis,Snomed,Head,Incident multiple sclerosis
+438511000,Benign multiple sclerosis,Snomed,Head,Incident multiple sclerosis
+905781000006102,[RFC] Multiple sclerosis,Snomed,Head,Incident multiple sclerosis
+908811000006108,[RFC] Multiple sclerosis,Snomed,Head,Incident multiple sclerosis
+983291000006106,Multiple sclerosis - primary progressive,Snomed,Head,Incident multiple sclerosis
+983301000006107,Multiple sclerosis - secondary progressive,Snomed,Head,Incident multiple sclerosis
+983311000006105,Multiple sclerosis - relapsing remitting,Snomed,Head,Incident multiple sclerosis
+166411000000100,Spec serv for pat with multiple sclerosis - enh serv admin,Snomed,Head,Prevalent multiple sclerosis
+1747821000006101,Multiple sclerosis monitoring administration,Snomed,Head,Prevalent multiple sclerosis
+1747831000006103,Multiple sclerosis monitoring first letter,Snomed,Head,Prevalent multiple sclerosis
+192929006,Exacerbation of multiple sclerosis,Snomed,Head,Prevalent multiple sclerosis
+198491000000106,Multiple sclerosis review,Snomed,Head,Prevalent multiple sclerosis
+205631000000104,Multiple sclerosis multidisciplinary review,Snomed,Head,Prevalent multiple sclerosis
+367621000000103,Management of multiple sclerosis in stable disability phase,Snomed,Head,Prevalent multiple sclerosis
+367681000000102,Management of multiple sclerosis in palliative phase,Snomed,Head,Prevalent multiple sclerosis
+515931000000104,Multiple sclerosis review declined,Snomed,Head,Prevalent multiple sclerosis
+758981000000100,Multiple sclerosis monitoring administration,Snomed,Head,Prevalent multiple sclerosis
+759051000000102,Multiple sclerosis monitoring first letter,Snomed,Head,Prevalent multiple sclerosis
+759091000000105,Multiple sclerosis monitoring second letter,Snomed,Head,Prevalent multiple sclerosis
+759171000000105,Multiple sclerosis monitoring third letter,Snomed,Head,Prevalent multiple sclerosis
+811881000000109,Multiple sclerosis care plan agreed,Snomed,Head,Prevalent multiple sclerosis
+983261000006103,Multiple sclerosis - personal health plan,Snomed,Head,Prevalent multiple sclerosis
+703622004,Monofocal clinically isolated syndrome,Snomed,Snomed browser,Incident multiple sclerosis

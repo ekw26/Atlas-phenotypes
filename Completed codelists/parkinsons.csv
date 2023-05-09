@@ -1,21 +1,23 @@
 code,description,codetype,source,category
-147F.00,History of Parkinson's disease,Read,Caliber,prevalent
-Eu02300,[X]Dementia in Parkinson's disease,Read,Caliber,prevalent
-F11x900,Cerebral degeneration in Parkinson's disease,Read,Caliber,prevalent
-F120.00,Paralysis agitans,Read,Caliber,incident
-F12..00,Parkinson's disease,Read,Caliber,incident
-F12z.00,Parkinson's disease NOS,Read,Caliber,incident
-F02.3,Dementia in Parkinson's disease,ICD10,Caliber,prevalent
-G20,Parkinson's disease,ICD10,Caliber,incident
-49049000,Parkinson's disease,Snomed,Head,incident
-905821000006108,[RFC] Parkinson's disease,Snomed,Head,incident
-909021000006101,[RFC] Parkinson's disease,Snomed,Head,incident
-425390006,[X]Dementia in Parkinson's disease,Snomed,Head,prevalent
-341551000000108,Cerebral degeneration in Parkinson's disease,Snomed,Head,prevalent
-101421000119107,Dementia due to Parkinson's disease (disorder),Snomed,Nhs,prevalent
-32798002,Parkinsonism,Snomed,Aurum browser,incident
-715345007,Eary onset parkinson disease,Snomed,Aurum browser,incident
-F130300,Parkinsonism with orthostatic hypotension,Read,Gold browser,incident
-720466001,Adult-onset dystonia parkinsonism,Snomed,Aurum browser,incident
-722964001,Atypical parkinsonism,Snomed,Aurum browser,incident
-515841000000104,History of Parkinson's disease,Snomed,Aurum browser,prevalent
+G20,Parkinson's disease,ICD10,Caliber,Incident Parkinson's disease
+F02.3,Dementia in Parkinson's disease,ICD10,Caliber,Prevalent Parkinson's disease
+332,Parkinson's disease,ICD9,ICD9 browser,Incident Parkinson's disease
+332.0,Paralysis agitans,ICD9,ICD9 browser,Incident Parkinson's disease
+F12..00,Parkinson's disease,Read,Caliber,Incident Parkinson's disease
+F120.00,Paralysis agitans,Read,Caliber,Incident Parkinson's disease
+F12z.00,Parkinson's disease NOS,Read,Caliber,Incident Parkinson's disease
+147F.00,History of Parkinson's disease,Read,Caliber,Prevalent Parkinson's disease
+Eu02300,[X]Dementia in Parkinson's disease,Read,Caliber,Prevalent Parkinson's disease
+F11x900,Cerebral degeneration in Parkinson's disease,Read,Caliber,Prevalent Parkinson's disease
+F130300,Parkinsonism with orthostatic hypotension,Read,Gold browser,Incident Parkinson's disease
+32798002,Parkinsonism,Snomed,Aurum browser,Incident Parkinson's disease
+715345007,Eary onset parkinson disease,Snomed,Aurum browser,Incident Parkinson's disease
+720466001,Adult-onset dystonia parkinsonism,Snomed,Aurum browser,Incident Parkinson's disease
+722964001,Atypical parkinsonism,Snomed,Aurum browser,Incident Parkinson's disease
+515841000000104,History of Parkinson's disease,Snomed,Aurum browser,Prevalent Parkinson's disease
+49049000,Parkinson's disease,Snomed,Head,Incident Parkinson's disease
+905821000006108,[RFC] Parkinson's disease,Snomed,Head,Incident Parkinson's disease
+909021000006101,[RFC] Parkinson's disease,Snomed,Head,Incident Parkinson's disease
+341551000000108,Cerebral degeneration in Parkinson's disease,Snomed,Head,Prevalent Parkinson's disease
+425390006,[X]Dementia in Parkinson's disease,Snomed,Head,Prevalent Parkinson's disease
+101421000119107,Dementia due to Parkinson's disease (disorder),Snomed,Nhs,Prevalent Parkinson's disease

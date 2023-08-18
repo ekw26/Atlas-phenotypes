@@ -68,8 +68,6 @@ A chronological map of 308 physical and mental health conditions from 4 million 
 The Lancet Digital Health, 1(2), e63-e77. https://doi.org/10.1016/S2589-7500(19)30012-3
 
 <a id="2">[2]</a>
-Denaxas et al. (2019) <br/>
-Chronological map phenotypes v.2.2 <br/>
 https://doi.org/10.5281/zenodo.3547540
 
 <a id="3">[3]</a>

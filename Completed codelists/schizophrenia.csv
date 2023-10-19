@@ -1,433 +1,433 @@
 code,term,codetype,category,source
-1974511000006109,"Paranoid schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia    ,Head
-755301000000102,[X]Paranoid state in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-755301000000102,Paranoid state in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-191526005,Schizophrenic disorders,Snomed Concept,Incident schizophrenia     ,Head
-191526005,Schizophrenic psychoses NOS,Snomed Concept,Incident schizophrenia     ,Head
-191526005,Schizophrenic psychoses,Snomed Concept,Incident schizophrenia     ,Head
-480111000000107,[X]Chronic hallucinatory psychosis,Snomed Concept,Incident schizophrenia     ,Head
-417601000000102,"[X]Schizophrenia, schizotypal and delusional disorders",Snomed Concept,Incident schizophrenia     ,Head
-417601000000102,"[X]Schizophrenia, schizotypal and delusional disorders",Snomed Concept,Incident schizophrenia     ,Head
-285521000000103,Schizophrenia resolved,Snomed Concept,Prevalent schizophrenia    ,Head
-285551000000108,Psychosis resolved,Snomed Concept,Prevalent schizophrenia    ,Head
-268957000,"Neurotic condition, insight present",Snomed Concept,Incident schizophrenia     ,Head
-268957000,"Psychotic condition, insight present",Snomed Concept,Incident schizophrenia     ,Head
-12200008,Impaired insight,Snomed Concept,Incident schizophrenia     ,Head
-12200008,Poor insight into psychotic condition,Snomed Concept,Incident schizophrenia     ,Head
-191525009,Non-organic psychoses,Snomed Concept,Incident schizophrenia     ,Head
-191525009,Other specified non-organic psychoses,Snomed Concept,Incident schizophrenia     ,Head
-191525009,Non-organic psychosis NOS,Snomed Concept,Incident schizophrenia     ,Head
-191525009,[X]Unspecified nonorganic psychosis,Snomed Concept,Incident schizophrenia     ,Head
-191525009,Other nonorganic psychoses,Snomed Concept,Incident schizophrenia     ,Head
-191525009,Non-organic psychosis,Snomed Concept,Incident schizophrenia     ,Head
-191525009,[X]Other nonorganic psychotic disorders,Snomed Concept,Incident schizophrenia     ,Head
-191527001,Schizophrenia simplex,Snomed Concept,Incident schizophrenia     ,Head
-191527001,Simple schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191527001,Simple schizophrenia NOS,Snomed Concept,Incident schizophrenia     ,Head
-191527001,[X]Simple schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-58214004,Unspecified schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-58214004,Other schizophrenia NOS,Snomed Concept,Incident schizophrenia     ,Head
-58214004,Schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-58214004,"[X]Schizophrenia, unspecified",Snomed Concept,Incident schizophrenia     ,Head
-58214004,Other schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-58214004,[X]Other schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-58214004,[X]Cenesthopathic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-58214004,[X]Schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-58214004,[X]Schizophreniform disord NOS,Snomed Concept,Incident schizophrenia     ,Head
-58214004,[X]Schizophrenifrm psychos NOS,Snomed Concept,Incident schizophrenia     ,Head
-16990005,Subchronic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-83746006,Chronic schizophrenic,Snomed Concept,Incident schizophrenia     ,Head
-83746006,Chronic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-111482003,Acute exacerbation of subchronic schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-191531007,Acute exacerbation of chronic schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-4926007,Schizophrenia in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-35252006,Unspecified hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-35252006,Hebephrenic schizophrenia NOS,Snomed Concept,Incident schizophrenia     ,Head
-35252006,[X]Disorganised schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-35252006,[X]Hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-35252006,Hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-35252006,Disorganised schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191539009,Acute exacerbation of chronic hebephrenic schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-191539009,Acute exacerbation of chronic disorganised schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-31373002,Hebephrenic schizophrenia in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-191542003,Catatonic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191542003,[X]Schizophrenic flexibilatis cerea,Snomed Concept,Incident schizophrenia     ,Head
-191542003,Unspecified catatonic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191542003,Catatonic schizophrenia NOS,Snomed Concept,Incident schizophrenia     ,Head
-191542003,[X]Catatonic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191542003,[X]Catatonic stupor,Snomed Concept,Incident schizophrenia     ,Head
-191542003,[X]Schizophrenic catalepsy,Snomed Concept,Incident schizophrenia     ,Head
-191542003,[X]Schizophrenic catatonia,Snomed Concept,Incident schizophrenia     ,Head
-42868002,Subchronic catatonic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191548004,Acute exacerbation of chronic catatonic schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-111483008,Catatonic schizophrenia in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-64905009,Paranoid schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-64905009,Unspecified paranoid schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-64905009,Paranoid schizophrenia NOS,Snomed Concept,Incident schizophrenia     ,Head
-64905009,[X]Paranoid schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-64905009,[X]Paraphrenic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-79866005,Subchronic paranoid schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-31658008,Chronic paranoid schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191554003,Acute exacerbation of subchronic paranoid schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-191555002,Acute exacerbation of chronic paranoid schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-63181006,Paranoid schizophrenia in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-191559008,Latent schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191559008,Unspecified latent schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191559008,Latent schizophrenia NOS,Snomed Concept,Incident schizophrenia     ,Head
-191559008,[X]Latent schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191559008,[X]Latent schizophrenic reaction,Snomed Concept,Incident schizophrenia     ,Head
-191562006,Chronic latent schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191565008,Latent schizophrenia in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-26025008,Residual schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-26025008,Restzustand - schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-26025008,[X]Residual schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-26025008,[X]Restzustand schizophrenic,Snomed Concept,Incident schizophrenia     ,Head
-191569002,Subchronic schizo-affective schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191570001,Chronic schizoaffective schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191571002,Acute exacerbation subchronic schizo-affective schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-191571002,Acute exacerbation of subchronic schizoaffective schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-191572009,Acute exacerbation of chronic schizo-affective schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-191572009,Acute exacerbation of chronic schizoaffective schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Head
-191574005,Schizoaffective schizophrenia in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-191577003,Coenesthopathic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191577003,Cenesthopathic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-111484002,Undifferentiated schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-111484002,Atypical schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-111484002,[X]Atypical schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-111484002,[X]Chronic undifferentiated schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-191667009,Other paranoid states,Snomed Concept,Incident schizophrenia     ,Head
-191667009,Other paranoid states NOS,Snomed Concept,Incident schizophrenia     ,Head
-191667009,Paranoid psychosis,Snomed Concept,Incident schizophrenia     ,Head
-191667009,[X]Paranoid psychosis,Snomed Concept,Incident schizophrenia     ,Head
-191667009,Paranoid disorder,Snomed Concept,Incident schizophrenia     ,Head
-191667009,[X]Paranoid state,Snomed Concept,Incident schizophrenia     ,Head
-191667009,Paranoia,Snomed Concept,Incident schizophrenia     ,Head
-191667009,Paranoia,Snomed Concept,Incident schizophrenia     ,Head
-191668004,Simple paranoid state,Snomed Concept,Incident schizophrenia     ,Head
-268622001,Chronic paranoid psychosis,Snomed Concept,Incident schizophrenia     ,Head
-268622001,Sander's disease,Snomed Concept,Incident schizophrenia     ,Head
-26472000,Paraphrenia,Snomed Concept,Incident schizophrenia     ,Head
-191672000,Paranoia querulans,Snomed Concept,Incident schizophrenia     ,Head
-231485007,[X]Post-schizophrenic depression,Snomed Concept,Prevalent schizophrenia    ,Head
-231485007,Post-schizophrenic depression,Snomed Concept,Prevalent schizophrenia    ,Head
-31027006,Schizotypal personality disorder,Snomed Concept,Incident schizophrenia     ,Head
-31027006,Schizotypal personality,Snomed Concept,Incident schizophrenia     ,Head
-31027006,[X]Pseudoneurotic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-31027006,[X]Pseudopsychopathic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-31027006,[X]Schizotypal personality disorder,Snomed Concept,Incident schizophrenia     ,Head
-31027006,Schizoptypal disorder,Snomed Concept,Incident schizophrenia     ,Head
-274952002,Borderline schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-247804008,Prepsychotic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-247804008,Prodromal schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-247804008,Schizophrenic prodrome,Snomed Concept,Incident schizophrenia     ,Head
-231487004,"[X]Persistent delusional disorder, unspecified",Snomed Concept,Incident schizophrenia     ,Head
-231487004,[X]Other persistent delusional disorders,Snomed Concept,Incident schizophrenia     ,Head
-231487004,[X]Delusional dysmorphophobia,Snomed Concept,Incident schizophrenia     ,Head
-231487004,[X]Involutional paranoid state,Snomed Concept,Incident schizophrenia     ,Head
-231487004,[X]Paranoia querulans,Snomed Concept,Incident schizophrenia     ,Head
-231487004,Persistent delusional disorder,Snomed Concept,Incident schizophrenia     ,Head
-48500005,Delusional disorder,Snomed Concept,Incident schizophrenia     ,Head
-38295006,Late paraphrenia,Snomed Concept,Incident schizophrenia     ,Head
-38295006,Involutional paraphrenia,Snomed Concept,Incident schizophrenia     ,Head
-41189006,Ideas of reference,Snomed Concept,Incident schizophrenia     ,Head
-41189006,[X]Sensitiver Beziehungswahn,Snomed Concept,Incident schizophrenia     ,Head
-417233008,Paranoid ideation,Snomed Concept,Incident schizophrenia     ,Head
-417233008,[X]Paranoia,Snomed Concept,Incident schizophrenia     ,Head
-44906001,[X]Capgras syndrome,Snomed Concept,Incident schizophrenia     ,Head
-44906001,[X]Delusional misidentification syndrome,Snomed Concept,Incident schizophrenia     ,Head
-44906001,Capgras syndrome,Snomed Concept,Incident schizophrenia     ,Head
-357705009,[X]Cotard syndrome,Snomed Concept,Incident schizophrenia     ,Head
-68890003,[X]Other schizoaffective disorders,Snomed Concept,Incident schizophrenia     ,Head
-68890003,"[X]Schizoaffective disorder, unspecified",Snomed Concept,Incident schizophrenia     ,Head
-68890003,Schizoaffective disorder,Snomed Concept,Incident schizophrenia     ,Head
-68890003,[X]Schizoaffective psychosis NOS,Snomed Concept,Incident schizophrenia     ,Head
-271428004,"Schizoaffective disorder, manic type",Snomed Concept,Incident schizophrenia     ,Head
-271428004,"[X]Schizoaffective psychosis, manic type",Snomed Concept,Incident schizophrenia     ,Head
-271428004,"[X]Schizophreniform psychosis, manic type",Snomed Concept,Incident schizophrenia     ,Head
-84760002,"Schizoaffective disorder, depressive type",Snomed Concept,Incident schizophrenia     ,Head
-84760002,"[X]Schizoaffective psychosis, depressive type",Snomed Concept,Incident schizophrenia     ,Head
-84760002,"[X]Schizophreniform psychosis, depressive type",Snomed Concept,Incident schizophrenia     ,Head
-270901009,[X]Cyclic schizophrenia,Snomed Concept,Incident schizophrenia     ,Head
-270901009,Mixed schizophrenic and affective pschosis,Snomed Concept,Incident schizophrenia     ,Head
-270901009,"Schizoaffective disorder, mixed type",Snomed Concept,Incident schizophrenia     ,Head
-270901009,Mixed schizophrenic and affective psychosis,Snomed Concept,Incident schizophrenia     ,Head
-755311000000100,[X]Nonorganic psychosis in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-755311000000100,Non-organic psychosis in remission,Snomed Concept,Prevalent schizophrenia    ,Head
-69322001,Psychotic disorder,Snomed Concept,Incident schizophrenia     ,Head
-69322001,Psychotic,Snomed Concept,Incident schizophrenia     ,Head
-69322001,Psychosis,Snomed Concept,Incident schizophrenia     ,Head
-161464003,H/O: psychiatric disorder,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161464003,H/O: psychiatric disorder NOS,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161464003,[V]Personal history of mental disorder,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161464003,[V]Personal history of schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161464003,[V]Personal history of neurosis,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161464003,[V]Personal history of other specified mental disorder,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161464003,[V]Personal history of unspecified mental disorder,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161464003,[X]Personal history/other mental and behavioural disorders,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161464003,History of psychiatric disorder,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-191564007,Acute exacerbation of chronic latent schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-191547009,Acute exacerbation of subchronic catatonic schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-14291003,Acute exacerbation of subchronic hebephrenic schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-191563001,Acute exacerbation of subchronic latent schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974891000006101,"Catatonic schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974751000006101,"Catatonic schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974921000006107,"Catatonic schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1974831000006100,"Catatonic schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974781000006109,"Catatonic schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974801000006108,"Catatonic schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974861000006109,"Catatonic schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976901000006105,"Catatonic schizophrenia, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-68995007,Chronic catatonic schizophrenia,Snomed Concept,Incident schizophrenia     ,Aurum browser
-12939007,Chronic hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia     ,Aurum browser
-161468000,H/O: schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-161468000,History of schizophrenia,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974691000006100,"Hebephrenic schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974601000006107,"Hebephrenic schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974721000006105,"Hebephrenic schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1974641000006109,"Hebephrenic schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974611000006105,"Hebephrenic schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974621000006102,"Hebephrenic schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974671000006101,"Hebephrenic schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976891000006106,"Hebephrenic schizophrenia, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-416340002,Late onset schizophrenia,Snomed Concept,Incident schizophrenia     ,Aurum browser
-1975881000006103,"Other schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975751000006100,"Other schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975911000006103,"Other schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1975831000006104,"Other schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975771000006105,"Other schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975801000006107,"Other schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975841000006109,"Other schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976951000006109,"Other schizophrenia, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1974351000006102,"Paranoid schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974541000006108,"Paranoid schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1974451000006109,"Paranoid schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974391000006108,"Paranoid schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974431000006102,"Paranoid schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1974481000006101,"Paranoid schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976881000006108,"Paranoid schizophrenia, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1975301000006100,"Post-schizophrenic depression, complete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975191000006105,"Post-schizophrenic depression, continuous",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975321000006105,"Post-schizophrenic depression, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1975261000006109,"Post-schizophrenic depression, episodic remittent",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975211000006106,"Post-schizophrenic depression, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975231000006100,"Post-schizophrenic depression, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975281000006104,"Post-schizophrenic depression, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976921000006100,"Post-schizophrenic depression, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1975471000006103,"Residual schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975351000006101,"Residual schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975481000006100,"Residual schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1975431000006101,"Residual schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975381000006109,"Residual schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975401000006109,"Residual schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975441000006106,"Residual schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976931000006102,"Residual schizophrenia, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-38368003,"Schizoaffective disorder, bipolar type",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1976151000006107,"Schizophrenia, unspecified, complete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976001000006109,"Schizophrenia, unspecified, continuous",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976171000006102,"Schizophrenia, unspecified, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1976121000006103,"Schizophrenia, unspecified, episodic remittent",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976061000006105,"Schizophrenia, unspecified, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976101000006108,"Schizophrenia, unspecified, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976141000006105,"Schizophrenia, unspecified, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976961000006106,"Schizophrenia, unspecified, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-88975006,Schizophreniform disorder,Snomed Concept,Incident schizophrenia     ,Aurum browser
-1975601000006106,"Simple schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975491000006102,"Simple schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975641000006108,"Simple schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia     ,Aurum browser
-1975551000006109,"Simple schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975501000006105,"Simple schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975521000006100,"Simple schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975571000006104,"Simple schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976941000006107,"Simple schizophrenia, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-27387000,Subchronic hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia     ,Aurum browser
-191561004,Subchronic latent schizophrenia,Snomed Concept,Incident schizophrenia     ,Aurum browser
-39610001,Undifferentiated schizophrenia in remission,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1975051000006103,"Undifferentiated schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1976911000006108,"Undifferentiated schizophrenia, other",Snomed Concept,Incident schizophrenia     ,Aurum browser
-698951002,Delusional disorder in remission,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-278508007,Delusional dysmorphophobia,Snomed Concept,Incident schizophrenia     ,Aurum browser
-416611006,O/E - paranoid delusions,Snomed Concept,Incident schizophrenia     ,Aurum browser
-225452001,Paranoid delusion,Snomed Concept,Incident schizophrenia     ,Aurum browser
-429124005,History of affective disorder,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-429124005,[V]Personal history of manic-depressive psychosis,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-429124005,History of mood disorder,Snomed Concept,Prevalent schizophrenia    ,Aurum browser
-1464.00,H/O: schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-146H.00,H/O: psychosis,Read,Prevalent schizophrenia   ,Caliber
-212W.00,Schizophrenia resolved,Read,Prevalent schizophrenia   ,Caliber
-212X.00,Psychosis resolved,Read,Prevalent schizophrenia   ,Caliber
-285..11,"Psychotic condition, insight present",Read,Incident schizophrenia    ,Caliber
-286..11,Poor insight into psychotic condition,Read,Incident schizophrenia    ,Caliber
-E100000,Unspecified schizophrenia,Read,Incident schizophrenia    ,Caliber
-E100100,Subchronic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E100200,Chronic schizophrenic,Read,Incident schizophrenia    ,Caliber
-E100300,Acute exacerbation of subchronic schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E100400,Acute exacerbation of chronic schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E100500,Schizophrenia in remission,Read,Prevalent schizophrenia   ,Caliber
-E100.00,Simple schizophrenia,Read,Incident schizophrenia    ,Caliber
-E100.11,Schizophrenia simplex,Read,Incident schizophrenia    ,Caliber
-E100z00,Simple schizophrenia NOS,Read,Incident schizophrenia    ,Caliber
-E101000,Unspecified hebephrenic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E101400,Acute exacerbation of chronic hebephrenic schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E101500,Hebephrenic schizophrenia in remission,Read,Prevalent schizophrenia   ,Caliber
-E101.00,Hebephrenic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E101z00,Hebephrenic schizophrenia NOS,Read,Incident schizophrenia    ,Caliber
-E102000,Unspecified catatonic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E102100,Subchronic catatonic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E102400,Acute exacerbation of chronic catatonic schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E102500,Catatonic schizophrenia in remission,Read,Prevalent schizophrenia   ,Caliber
-E102.00,Catatonic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E102z00,Catatonic schizophrenia NOS,Read,Incident schizophrenia    ,Caliber
-E103000,Unspecified paranoid schizophrenia,Read,Incident schizophrenia    ,Caliber
-E103100,Subchronic paranoid schizophrenia,Read,Incident schizophrenia    ,Caliber
-E103200,Chronic paranoid schizophrenia,Read,Incident schizophrenia    ,Caliber
-E103300,Acute exacerbation of subchronic paranoid schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E103400,Acute exacerbation of chronic paranoid schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E103500,Paranoid schizophrenia in remission,Read,Prevalent schizophrenia   ,Caliber
-E103.00,Paranoid schizophrenia,Read,Incident schizophrenia    ,Caliber
-E103z00,Paranoid schizophrenia NOS,Read,Incident schizophrenia    ,Caliber
-E105000,Unspecified latent schizophrenia,Read,Incident schizophrenia    ,Caliber
-E105200,Chronic latent schizophrenia,Read,Incident schizophrenia    ,Caliber
-E105500,Latent schizophrenia in remission,Read,Prevalent schizophrenia   ,Caliber
-E105.00,Latent schizophrenia,Read,Incident schizophrenia    ,Caliber
-E105z00,Latent schizophrenia NOS,Read,Incident schizophrenia    ,Caliber
-E106.00,Residual schizophrenia,Read,Incident schizophrenia    ,Caliber
-E107000,Unspecified schizo-affective schizophrenia,Read,Incident schizophrenia    ,Caliber
-E107100,Subchronic schizo-affective schizophrenia,Read,Incident schizophrenia    ,Caliber
-E107200,Chronic schizo-affective schizophrenia,Read,Incident schizophrenia    ,Caliber
-E107300,Acute exacerbation subchronic schizo-affective schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E107400,Acute exacerbation of chronic schizo-affective schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E107500,Schizo-affective schizophrenia in remission,Read,Prevalent schizophrenia   ,Caliber
-E107.00,Schizo-affective schizophrenia,Read,Incident schizophrenia    ,Caliber
-E107.11,Cyclic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E107z00,Schizo-affective schizophrenia NOS,Read,Incident schizophrenia    ,Caliber
-E10..00,Schizophrenic disorders,Read,Incident schizophrenia    ,Caliber
-E10y000,Atypical schizophrenia,Read,Incident schizophrenia    ,Caliber
-E10y100,Coenesthopathic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E10y.00,Other schizophrenia,Read,Incident schizophrenia    ,Caliber
-E10y.11,Cenesthopathic schizophrenia,Read,Incident schizophrenia    ,Caliber
-E10yz00,Other schizophrenia NOS,Read,Incident schizophrenia    ,Caliber
-E10z.00,Schizophrenia NOS,Read,Incident schizophrenia    ,Caliber
-E120.00,Simple paranoid state,Read,Incident schizophrenia    ,Caliber
-E121.00,Chronic paranoid psychosis,Read,Incident schizophrenia    ,Caliber
-E121.11,Sander's disease,Read,Incident schizophrenia    ,Caliber
-E122.00,Paraphrenia,Read,Incident schizophrenia    ,Caliber
-E12..00,Paranoid states,Read,Incident schizophrenia    ,Caliber
-E12y000,Paranoia querulans,Read,Incident schizophrenia    ,Caliber
-E12y.00,Other paranoid states,Read,Incident schizophrenia    ,Caliber
-E12yz00,Other paranoid states NOS,Read,Incident schizophrenia    ,Caliber
-E12z.00,Paranoid psychosis NOS,Read,Incident schizophrenia    ,Caliber
-E1...00,Non-organic psychoses,Read,Incident schizophrenia    ,Caliber
-E1y..00,Other specified non-organic psychoses,Read,Incident schizophrenia    ,Caliber
-E1z..00,Non-organic psychosis NOS,Read,Incident schizophrenia    ,Caliber
-Eu20000,[X]Paranoid schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20011,[X]Paraphrenic schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20100,[X]Hebephrenic schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20111,[X]Disorganised schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20200,[X]Catatonic schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20211,[X]Catatonic stupor,Read,Incident schizophrenia    ,Caliber
-Eu20212,[X]Schizophrenic catalepsy,Read,Incident schizophrenia    ,Caliber
-Eu20213,[X]Schizophrenic catatonia,Read,Incident schizophrenia    ,Caliber
-Eu20214,[X]Schizophrenic flexibilatis cerea,Read,Incident schizophrenia    ,Caliber
-Eu20300,[X]Undifferentiated schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20311,[X]Atypical schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20400,[X]Post-schizophrenic depression,Read,Prevalent schizophrenia   ,Caliber
-Eu20500,[X]Residual schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20511,[X]Chronic undifferentiated schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20600,[X]Simple schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20.00,[X]Schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20y00,[X]Other schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu20y12,[X]Schizophreniform disord NOS,Read,Incident schizophrenia    ,Caliber
-Eu20y13,[X]Schizophrenifrm psychos NOS,Read,Incident schizophrenia    ,Caliber
-Eu20z00,"[X]Schizophrenia, unspecified",Read,Incident schizophrenia    ,Caliber
-Eu21.00,[X]Schizotypal disorder,Read,Incident schizophrenia    ,Caliber
-Eu21.11,[X]Latent schizophrenic reaction,Read,Incident schizophrenia    ,Caliber
-Eu21.12,[X]Borderline schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu21.13,[X]Latent schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu21.14,[X]Prepsychotic schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu21.15,[X]Prodromal schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu21.16,[X]Pseudoneurotic schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu21.17,[X]Pseudopsychopathic schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu22000,[X]Delusional disorder,Read,Incident schizophrenia    ,Caliber
-Eu22011,[X]Paranoid psychosis,Read,Incident schizophrenia    ,Caliber
-Eu22012,[X]Paranoid state,Read,Incident schizophrenia    ,Caliber
-Eu22013,[X]Paraphrenia - late,Read,Incident schizophrenia    ,Caliber
-Eu22014,[X]Sensitiver Beziehungswahn,Read,Incident schizophrenia    ,Caliber
-Eu22015,[X]Paranoia,Read,Incident schizophrenia    ,Caliber
-Eu22100,[X]Delusional misidentification syndrome,Read,Incident schizophrenia    ,Caliber
-Eu22111,[X]Capgras syndrome,Read,Incident schizophrenia    ,Caliber
-Eu22200,[X]Cotard syndrome,Read,Incident schizophrenia    ,Caliber
-Eu22300,[X]Paranoid state in remission,Read,Incident schizophrenia    ,Caliber
-Eu22.00,[X]Persistent delusional disorders,Read,Incident schizophrenia    ,Caliber
-Eu22y00,[X]Other persistent delusional disorders,Read,Incident schizophrenia    ,Caliber
-Eu22y11,[X]Delusional dysmorphophobia,Read,Incident schizophrenia    ,Caliber
-Eu22y12,[X]Involutional paranoid state,Read,Incident schizophrenia    ,Caliber
-Eu22y13,[X]Paranoia querulans,Read,Incident schizophrenia    ,Caliber
-Eu22z00,"[X]Persistent delusional disorder, unspecified",Read,Incident schizophrenia    ,Caliber
-Eu25000,"[X]Schizoaffective disorder, manic type",Read,Incident schizophrenia    ,Caliber
-Eu25011,"[X]Schizoaffective psychosis, manic type",Read,Incident schizophrenia    ,Caliber
-Eu25012,"[X]Schizophreniform psychosis, manic type",Read,Incident schizophrenia    ,Caliber
-Eu25100,"[X]Schizoaffective disorder, depressive type",Read,Incident schizophrenia    ,Caliber
-Eu25111,"[X]Schizoaffective psychosis, depressive type",Read,Incident schizophrenia    ,Caliber
-Eu25112,"[X]Schizophreniform psychosis, depressive type",Read,Incident schizophrenia    ,Caliber
-Eu25200,"[X]Schizoaffective disorder, mixed type",Read,Incident schizophrenia    ,Caliber
-Eu25211,[X]Cyclic schizophrenia,Read,Incident schizophrenia    ,Caliber
-Eu25212,[X]Mixed schizophrenic and affective psychosis,Read,Incident schizophrenia    ,Caliber
-Eu25.00,[X]Schizoaffective disorders,Read,Incident schizophrenia    ,Caliber
-Eu25y00,[X]Other schizoaffective disorders,Read,Incident schizophrenia    ,Caliber
-Eu25z00,"[X]Schizoaffective disorder, unspecified",Read,Incident schizophrenia    ,Caliber
-Eu25z11,[X]Schizoaffective psychosis NOS,Read,Incident schizophrenia    ,Caliber
-Eu26.00,[X]Nonorganic psychosis in remission,Read,Prevalent schizophrenia   ,Caliber
-Eu2..00,"[X]Schizophrenia, schizotypal and delusional disorders",Read,Incident schizophrenia    ,Caliber
-Eu2y.00,[X]Other nonorganic psychotic disorders,Read,Incident schizophrenia    ,Caliber
-Eu2y.11,[X]Chronic hallucinatory psychosis,Read,Incident schizophrenia    ,Caliber
-Eu2z.00,[X]Unspecified nonorganic psychosis,Read,Incident schizophrenia    ,Caliber
-Eu2z.11,[X]Psychosis NOS,Read,Incident schizophrenia    ,Caliber
-ZV11000,[V]Personal history of schizophrenia,Read,Prevalent schizophrenia   ,Caliber
-E105400,Acute exacerbation of chronic latent schizophrenia,Read,Prevalent schizophrenia   ,Launders
-E13..00,Other nonorganic psychoses,Read,Incident schizophrenia    ,Launders
-E13z.00,Nonorganic psychosis NOS,Read,Incident schizophrenia    ,Launders
-E13z.11,Psychotic episode NOS,Read,Incident schizophrenia    ,Launders
-Eu21.18,[X]Schizotypal personality disorder,Read,Incident schizophrenia    ,Launders
-E101200,Chronic hebephrenic schizophrenia,Read,Incident schizophrenia    ,Launders
-E102200,Chronic catatonic schizophrenia,Read,Incident schizophrenia    ,Launders
-E212200,Schizotypal personality,Read,Incident schizophrenia    ,Gold browser
-295,Schizophrenic disorders,ICD9,Incident schizophrenia ,ICD9 browser
-295.5,Latent schizophrenia,ICD9,Incident schizophrenia ,ICD9 browser
-297,Delusional disorders,ICD9,Incident schizophrenia ,ICD9 browser
-295.7,Schizoaffective disorder,ICD9,Incident schizophrenia ,ICD9 browser
-297.8,Other specified paranoid states,ICD9,Incident schizophrenia ,ICD9 browser
-297.9,Unspecified paranoid state,ICD9,Incident schizophrenia ,ICD9 browser
-295.3,Paranoid schizophrenia,ICD9,Incident schizophrenia ,ICD9 browser
-295.1,Hebephrenic schizophrenia,ICD9,Incident schizophrenia ,ICD9 browser
-295.2,Catatonic schizophrenia,ICD9,Incident schizophrenia ,ICD9 browser
-295.8,Other specified types of schizophrenia,ICD9,Incident schizophrenia ,ICD9 browser
-295.6,Residual schizophrenia,ICD9,Incident schizophrenia ,ICD9 browser
-295.0,Simple type schizophrenia,ICD9,Incident schizophrenia ,ICD9 browser
-295.4,Schizophreniform disorder,ICD9,Incident schizophrenia ,ICD9 browser
-295.9,Unspecified schizophrenia,ICD9,Incident schizophrenia ,ICD9 browser
-297.1,Delusional disorder,ICD9,Incident schizophrenia ,ICD9 browser
-297.0,"Paranoid state, simple",ICD9,Incident schizophrenia ,ICD9 browser
-297.2,Paraphrenia,ICD9,Incident schizophrenia ,ICD9 browser
-F20,Schizophrenia,ICD10,Incident schizophrenia ,Caliber
-F21,Schizotypal disorder,ICD10,Incident schizophrenia ,Caliber
-F22,Persistent delusional disorders,ICD10,Incident schizophrenia ,Caliber
-F25,Schizoaffective disorders,ICD10,Incident schizophrenia ,Caliber
-F28,Other nonorganic psychotic disorders,ICD10,Incident schizophrenia ,Caliber
-F29,Unspecified nonorganic psychosis,ICD10,Incident schizophrenia ,Caliber
-F200,Paranoid schizophrenia,ICD10,Incident schizophrenia ,
-F201,Hebephrenic schizophrenia,ICD10,Incident schizophrenia ,
-F202,Catatonic schizophrenia,ICD10,Incident schizophrenia ,
-F203,Undifferentiated schizophrenia,ICD10,Incident schizophrenia ,
-F204,Post-schizophrenic depression,ICD10,Prevalent schizophrenia,
-F205,Residual schizophrenia,ICD10,Incident schizophrenia ,
-F206,Simple schizophrenia,ICD10,Incident schizophrenia ,
-F208,Other schizophrenia,ICD10,Incident schizophrenia ,
-F209,Schizophrenia unspecified,ICD10,Incident schizophrenia ,
-F220,Delusional disorder,ICD10,Incident schizophrenia ,
-F228,Other persistent delusional disorders,ICD10,Incident schizophrenia ,
-F229,Persistent delusional disorder - unspecified,ICD10,Incident schizophrenia ,
-F250,Schizoaffective disorder - manic type,ICD10,Incident schizophrenia ,
-F251,Schizoaffective disorder - depressive type,ICD10,Incident schizophrenia ,
-F252,Schizoaffective disorder - mixed type,ICD10,Incident schizophrenia ,
-F258,Other schizoaffective disorders,ICD10,Incident schizophrenia ,
-F259,Schizoaffective disorder - unspecified,ICD10,Incident schizophrenia ,
+1974511000006109,"Paranoid schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia,Head
+755301000000102,[X]Paranoid state in remission,Snomed Concept,Prevalent schizophrenia,Head
+755301000000102,Paranoid state in remission,Snomed Concept,Prevalent schizophrenia,Head
+191526005,Schizophrenic disorders,Snomed Concept,Incident schizophrenia,Head
+191526005,Schizophrenic psychoses NOS,Snomed Concept,Incident schizophrenia,Head
+191526005,Schizophrenic psychoses,Snomed Concept,Incident schizophrenia,Head
+480111000000107,[X]Chronic hallucinatory psychosis,Snomed Concept,Incident schizophrenia,Head
+417601000000102,"[X]Schizophrenia, schizotypal and delusional disorders",Snomed Concept,Incident schizophrenia,Head
+417601000000102,"[X]Schizophrenia, schizotypal and delusional disorders",Snomed Concept,Incident schizophrenia,Head
+285521000000103,Schizophrenia resolved,Snomed Concept,Prevalent schizophrenia,Head
+285551000000108,Psychosis resolved,Snomed Concept,Prevalent schizophrenia,Head
+268957000,"Neurotic condition, insight present",Snomed Concept,Incident schizophrenia,Head
+268957000,"Psychotic condition, insight present",Snomed Concept,Incident schizophrenia,Head
+12200008,Impaired insight,Snomed Concept,Incident schizophrenia,Head
+12200008,Poor insight into psychotic condition,Snomed Concept,Incident schizophrenia,Head
+191525009,Non-organic psychoses,Snomed Concept,Incident schizophrenia,Head
+191525009,Other specified non-organic psychoses,Snomed Concept,Incident schizophrenia,Head
+191525009,Non-organic psychosis NOS,Snomed Concept,Incident schizophrenia,Head
+191525009,[X]Unspecified nonorganic psychosis,Snomed Concept,Incident schizophrenia,Head
+191525009,Other nonorganic psychoses,Snomed Concept,Incident schizophrenia,Head
+191525009,Non-organic psychosis,Snomed Concept,Incident schizophrenia,Head
+191525009,[X]Other nonorganic psychotic disorders,Snomed Concept,Incident schizophrenia,Head
+191527001,Schizophrenia simplex,Snomed Concept,Incident schizophrenia,Head
+191527001,Simple schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191527001,Simple schizophrenia NOS,Snomed Concept,Incident schizophrenia,Head
+191527001,[X]Simple schizophrenia,Snomed Concept,Incident schizophrenia,Head
+58214004,Unspecified schizophrenia,Snomed Concept,Incident schizophrenia,Head
+58214004,Other schizophrenia NOS,Snomed Concept,Incident schizophrenia,Head
+58214004,Schizophrenia,Snomed Concept,Incident schizophrenia,Head
+58214004,"[X]Schizophrenia, unspecified",Snomed Concept,Incident schizophrenia,Head
+58214004,Other schizophrenia,Snomed Concept,Incident schizophrenia,Head
+58214004,[X]Other schizophrenia,Snomed Concept,Incident schizophrenia,Head
+58214004,[X]Cenesthopathic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+58214004,[X]Schizophrenia,Snomed Concept,Incident schizophrenia,Head
+58214004,[X]Schizophreniform disord NOS,Snomed Concept,Incident schizophrenia,Head
+58214004,[X]Schizophrenifrm psychos NOS,Snomed Concept,Incident schizophrenia,Head
+16990005,Subchronic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+83746006,Chronic schizophrenic,Snomed Concept,Incident schizophrenia,Head
+83746006,Chronic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+111482003,Acute exacerbation of subchronic schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+191531007,Acute exacerbation of chronic schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+4926007,Schizophrenia in remission,Snomed Concept,Prevalent schizophrenia,Head
+35252006,Unspecified hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+35252006,Hebephrenic schizophrenia NOS,Snomed Concept,Incident schizophrenia,Head
+35252006,[X]Disorganised schizophrenia,Snomed Concept,Incident schizophrenia,Head
+35252006,[X]Hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+35252006,Hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+35252006,Disorganised schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191539009,Acute exacerbation of chronic hebephrenic schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+191539009,Acute exacerbation of chronic disorganised schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+31373002,Hebephrenic schizophrenia in remission,Snomed Concept,Prevalent schizophrenia,Head
+191542003,Catatonic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191542003,[X]Schizophrenic flexibilatis cerea,Snomed Concept,Incident schizophrenia,Head
+191542003,Unspecified catatonic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191542003,Catatonic schizophrenia NOS,Snomed Concept,Incident schizophrenia,Head
+191542003,[X]Catatonic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191542003,[X]Catatonic stupor,Snomed Concept,Incident schizophrenia,Head
+191542003,[X]Schizophrenic catalepsy,Snomed Concept,Incident schizophrenia,Head
+191542003,[X]Schizophrenic catatonia,Snomed Concept,Incident schizophrenia,Head
+42868002,Subchronic catatonic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191548004,Acute exacerbation of chronic catatonic schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+111483008,Catatonic schizophrenia in remission,Snomed Concept,Prevalent schizophrenia,Head
+64905009,Paranoid schizophrenia,Snomed Concept,Incident schizophrenia,Head
+64905009,Unspecified paranoid schizophrenia,Snomed Concept,Incident schizophrenia,Head
+64905009,Paranoid schizophrenia NOS,Snomed Concept,Incident schizophrenia,Head
+64905009,[X]Paranoid schizophrenia,Snomed Concept,Incident schizophrenia,Head
+64905009,[X]Paraphrenic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+79866005,Subchronic paranoid schizophrenia,Snomed Concept,Incident schizophrenia,Head
+31658008,Chronic paranoid schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191554003,Acute exacerbation of subchronic paranoid schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+191555002,Acute exacerbation of chronic paranoid schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+63181006,Paranoid schizophrenia in remission,Snomed Concept,Prevalent schizophrenia,Head
+191559008,Latent schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191559008,Unspecified latent schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191559008,Latent schizophrenia NOS,Snomed Concept,Incident schizophrenia,Head
+191559008,[X]Latent schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191559008,[X]Latent schizophrenic reaction,Snomed Concept,Incident schizophrenia,Head
+191562006,Chronic latent schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191565008,Latent schizophrenia in remission,Snomed Concept,Prevalent schizophrenia,Head
+26025008,Residual schizophrenia,Snomed Concept,Incident schizophrenia,Head
+26025008,Restzustand - schizophrenia,Snomed Concept,Incident schizophrenia,Head
+26025008,[X]Residual schizophrenia,Snomed Concept,Incident schizophrenia,Head
+26025008,[X]Restzustand schizophrenic,Snomed Concept,Incident schizophrenia,Head
+191569002,Subchronic schizo-affective schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191570001,Chronic schizoaffective schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191571002,Acute exacerbation subchronic schizo-affective schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+191571002,Acute exacerbation of subchronic schizoaffective schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+191572009,Acute exacerbation of chronic schizo-affective schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+191572009,Acute exacerbation of chronic schizoaffective schizophrenia,Snomed Concept,Prevalent schizophrenia,Head
+191574005,Schizoaffective schizophrenia in remission,Snomed Concept,Prevalent schizophrenia,Head
+191577003,Coenesthopathic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191577003,Cenesthopathic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+111484002,Undifferentiated schizophrenia,Snomed Concept,Incident schizophrenia,Head
+111484002,Atypical schizophrenia,Snomed Concept,Incident schizophrenia,Head
+111484002,[X]Atypical schizophrenia,Snomed Concept,Incident schizophrenia,Head
+111484002,[X]Chronic undifferentiated schizophrenia,Snomed Concept,Incident schizophrenia,Head
+191667009,Other paranoid states,Snomed Concept,Incident schizophrenia,Head
+191667009,Other paranoid states NOS,Snomed Concept,Incident schizophrenia,Head
+191667009,Paranoid psychosis,Snomed Concept,Incident schizophrenia,Head
+191667009,[X]Paranoid psychosis,Snomed Concept,Incident schizophrenia,Head
+191667009,Paranoid disorder,Snomed Concept,Incident schizophrenia,Head
+191667009,[X]Paranoid state,Snomed Concept,Incident schizophrenia,Head
+191667009,Paranoia,Snomed Concept,Incident schizophrenia,Head
+191667009,Paranoia,Snomed Concept,Incident schizophrenia,Head
+191668004,Simple paranoid state,Snomed Concept,Incident schizophrenia,Head
+268622001,Chronic paranoid psychosis,Snomed Concept,Incident schizophrenia,Head
+268622001,Sander's disease,Snomed Concept,Incident schizophrenia,Head
+26472000,Paraphrenia,Snomed Concept,Incident schizophrenia,Head
+191672000,Paranoia querulans,Snomed Concept,Incident schizophrenia,Head
+231485007,[X]Post-schizophrenic depression,Snomed Concept,Prevalent schizophrenia,Head
+231485007,Post-schizophrenic depression,Snomed Concept,Prevalent schizophrenia,Head
+31027006,Schizotypal personality disorder,Snomed Concept,Incident schizophrenia,Head
+31027006,Schizotypal personality,Snomed Concept,Incident schizophrenia,Head
+31027006,[X]Pseudoneurotic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+31027006,[X]Pseudopsychopathic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+31027006,[X]Schizotypal personality disorder,Snomed Concept,Incident schizophrenia,Head
+31027006,Schizoptypal disorder,Snomed Concept,Incident schizophrenia,Head
+274952002,Borderline schizophrenia,Snomed Concept,Incident schizophrenia,Head
+247804008,Prepsychotic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+247804008,Prodromal schizophrenia,Snomed Concept,Incident schizophrenia,Head
+247804008,Schizophrenic prodrome,Snomed Concept,Incident schizophrenia,Head
+231487004,"[X]Persistent delusional disorder, unspecified",Snomed Concept,Incident schizophrenia,Head
+231487004,[X]Other persistent delusional disorders,Snomed Concept,Incident schizophrenia,Head
+231487004,[X]Delusional dysmorphophobia,Snomed Concept,Incident schizophrenia,Head
+231487004,[X]Involutional paranoid state,Snomed Concept,Incident schizophrenia,Head
+231487004,[X]Paranoia querulans,Snomed Concept,Incident schizophrenia,Head
+231487004,Persistent delusional disorder,Snomed Concept,Incident schizophrenia,Head
+48500005,Delusional disorder,Snomed Concept,Incident schizophrenia,Head
+38295006,Late paraphrenia,Snomed Concept,Incident schizophrenia,Head
+38295006,Involutional paraphrenia,Snomed Concept,Incident schizophrenia,Head
+41189006,Ideas of reference,Snomed Concept,Incident schizophrenia,Head
+41189006,[X]Sensitiver Beziehungswahn,Snomed Concept,Incident schizophrenia,Head
+417233008,Paranoid ideation,Snomed Concept,Incident schizophrenia,Head
+417233008,[X]Paranoia,Snomed Concept,Incident schizophrenia,Head
+44906001,[X]Capgras syndrome,Snomed Concept,Incident schizophrenia,Head
+44906001,[X]Delusional misidentification syndrome,Snomed Concept,Incident schizophrenia,Head
+44906001,Capgras syndrome,Snomed Concept,Incident schizophrenia,Head
+357705009,[X]Cotard syndrome,Snomed Concept,Incident schizophrenia,Head
+68890003,[X]Other schizoaffective disorders,Snomed Concept,Incident schizophrenia,Head
+68890003,"[X]Schizoaffective disorder, unspecified",Snomed Concept,Incident schizophrenia,Head
+68890003,Schizoaffective disorder,Snomed Concept,Incident schizophrenia,Head
+68890003,[X]Schizoaffective psychosis NOS,Snomed Concept,Incident schizophrenia,Head
+271428004,"Schizoaffective disorder, manic type",Snomed Concept,Incident schizophrenia,Head
+271428004,"[X]Schizoaffective psychosis, manic type",Snomed Concept,Incident schizophrenia,Head
+271428004,"[X]Schizophreniform psychosis, manic type",Snomed Concept,Incident schizophrenia,Head
+84760002,"Schizoaffective disorder, depressive type",Snomed Concept,Incident schizophrenia,Head
+84760002,"[X]Schizoaffective psychosis, depressive type",Snomed Concept,Incident schizophrenia,Head
+84760002,"[X]Schizophreniform psychosis, depressive type",Snomed Concept,Incident schizophrenia,Head
+270901009,[X]Cyclic schizophrenia,Snomed Concept,Incident schizophrenia,Head
+270901009,Mixed schizophrenic and affective pschosis,Snomed Concept,Incident schizophrenia,Head
+270901009,"Schizoaffective disorder, mixed type",Snomed Concept,Incident schizophrenia,Head
+270901009,Mixed schizophrenic and affective psychosis,Snomed Concept,Incident schizophrenia,Head
+755311000000100,[X]Nonorganic psychosis in remission,Snomed Concept,Prevalent schizophrenia,Head
+755311000000100,Non-organic psychosis in remission,Snomed Concept,Prevalent schizophrenia,Head
+69322001,Psychotic disorder,Snomed Concept,Incident schizophrenia,Head
+69322001,Psychotic,Snomed Concept,Incident schizophrenia,Head
+69322001,Psychosis,Snomed Concept,Incident schizophrenia,Head
+161464003,H/O: psychiatric disorder,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161464003,H/O: psychiatric disorder NOS,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161464003,[V]Personal history of mental disorder,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161464003,[V]Personal history of schizophrenia,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161464003,[V]Personal history of neurosis,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161464003,[V]Personal history of other specified mental disorder,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161464003,[V]Personal history of unspecified mental disorder,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161464003,[X]Personal history/other mental and behavioural disorders,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161464003,History of psychiatric disorder,Snomed Concept,Prevalent schizophrenia,Aurum browser
+191564007,Acute exacerbation of chronic latent schizophrenia,Snomed Concept,Prevalent schizophrenia,Aurum browser
+191547009,Acute exacerbation of subchronic catatonic schizophrenia,Snomed Concept,Prevalent schizophrenia,Aurum browser
+14291003,Acute exacerbation of subchronic hebephrenic schizophrenia,Snomed Concept,Prevalent schizophrenia,Aurum browser
+191563001,Acute exacerbation of subchronic latent schizophrenia,Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974891000006101,"Catatonic schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974751000006101,"Catatonic schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974921000006107,"Catatonic schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia,Aurum browser
+1974831000006100,"Catatonic schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974781000006109,"Catatonic schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974801000006108,"Catatonic schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974861000006109,"Catatonic schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976901000006105,"Catatonic schizophrenia, other",Snomed Concept,Incident schizophrenia,Aurum browser
+68995007,Chronic catatonic schizophrenia,Snomed Concept,Incident schizophrenia,Aurum browser
+12939007,Chronic hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia,Aurum browser
+161468000,H/O: schizophrenia,Snomed Concept,Prevalent schizophrenia,Aurum browser
+161468000,History of schizophrenia,Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974691000006100,"Hebephrenic schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974601000006107,"Hebephrenic schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974721000006105,"Hebephrenic schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia,Aurum browser
+1974641000006109,"Hebephrenic schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974611000006105,"Hebephrenic schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974621000006102,"Hebephrenic schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974671000006101,"Hebephrenic schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976891000006106,"Hebephrenic schizophrenia, other",Snomed Concept,Incident schizophrenia,Aurum browser
+416340002,Late onset schizophrenia,Snomed Concept,Incident schizophrenia,Aurum browser
+1975881000006103,"Other schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975751000006100,"Other schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975911000006103,"Other schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia,Aurum browser
+1975831000006104,"Other schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975771000006105,"Other schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975801000006107,"Other schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975841000006109,"Other schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976951000006109,"Other schizophrenia, other",Snomed Concept,Incident schizophrenia,Aurum browser
+1974351000006102,"Paranoid schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974541000006108,"Paranoid schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia,Aurum browser
+1974451000006109,"Paranoid schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974391000006108,"Paranoid schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974431000006102,"Paranoid schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1974481000006101,"Paranoid schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976881000006108,"Paranoid schizophrenia, other",Snomed Concept,Incident schizophrenia,Aurum browser
+1975301000006100,"Post-schizophrenic depression, complete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975191000006105,"Post-schizophrenic depression, continuous",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975321000006105,"Post-schizophrenic depression, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia,Aurum browser
+1975261000006109,"Post-schizophrenic depression, episodic remittent",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975211000006106,"Post-schizophrenic depression, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975231000006100,"Post-schizophrenic depression, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975281000006104,"Post-schizophrenic depression, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976921000006100,"Post-schizophrenic depression, other",Snomed Concept,Incident schizophrenia,Aurum browser
+1975471000006103,"Residual schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975351000006101,"Residual schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975481000006100,"Residual schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia,Aurum browser
+1975431000006101,"Residual schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975381000006109,"Residual schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975401000006109,"Residual schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975441000006106,"Residual schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976931000006102,"Residual schizophrenia, other",Snomed Concept,Incident schizophrenia,Aurum browser
+38368003,"Schizoaffective disorder, bipolar type",Snomed Concept,Incident schizophrenia,Aurum browser
+1976151000006107,"Schizophrenia, unspecified, complete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976001000006109,"Schizophrenia, unspecified, continuous",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976171000006102,"Schizophrenia, unspecified, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia,Aurum browser
+1976121000006103,"Schizophrenia, unspecified, episodic remittent",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976061000006105,"Schizophrenia, unspecified, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976101000006108,"Schizophrenia, unspecified, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976141000006105,"Schizophrenia, unspecified, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976961000006106,"Schizophrenia, unspecified, other",Snomed Concept,Incident schizophrenia,Aurum browser
+88975006,Schizophreniform disorder,Snomed Concept,Incident schizophrenia,Aurum browser
+1975601000006106,"Simple schizophrenia, complete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975491000006102,"Simple schizophrenia, continuous",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975641000006108,"Simple schizophrenia, course uncertain, period of observation too short",Snomed Concept,Incident schizophrenia,Aurum browser
+1975551000006109,"Simple schizophrenia, episodic remittent",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975501000006105,"Simple schizophrenia, episodic with progressive deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975521000006100,"Simple schizophrenia, episodic with stable deficit",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975571000006104,"Simple schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976941000006107,"Simple schizophrenia, other",Snomed Concept,Incident schizophrenia,Aurum browser
+27387000,Subchronic hebephrenic schizophrenia,Snomed Concept,Incident schizophrenia,Aurum browser
+191561004,Subchronic latent schizophrenia,Snomed Concept,Incident schizophrenia,Aurum browser
+39610001,Undifferentiated schizophrenia in remission,Snomed Concept,Prevalent schizophrenia,Aurum browser
+1975051000006103,"Undifferentiated schizophrenia, incomplete remission",Snomed Concept,Prevalent schizophrenia,Aurum browser
+1976911000006108,"Undifferentiated schizophrenia, other",Snomed Concept,Incident schizophrenia,Aurum browser
+698951002,Delusional disorder in remission,Snomed Concept,Prevalent schizophrenia,Aurum browser
+278508007,Delusional dysmorphophobia,Snomed Concept,Incident schizophrenia,Aurum browser
+416611006,O/E - paranoid delusions,Snomed Concept,Incident schizophrenia,Aurum browser
+225452001,Paranoid delusion,Snomed Concept,Incident schizophrenia,Aurum browser
+429124005,History of affective disorder,Snomed Concept,Prevalent schizophrenia,Aurum browser
+429124005,[V]Personal history of manic-depressive psychosis,Snomed Concept,Prevalent schizophrenia,Aurum browser
+429124005,History of mood disorder,Snomed Concept,Prevalent schizophrenia,Aurum browser
+1464.00,H/O: schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+146H.00,H/O: psychosis,Read,Prevalent schizophrenia  ,Caliber
+212W.00,Schizophrenia resolved,Read,Prevalent schizophrenia  ,Caliber
+212X.00,Psychosis resolved,Read,Prevalent schizophrenia  ,Caliber
+285..11,"Psychotic condition, insight present",Read,Incident schizophrenia,Caliber
+286..11,Poor insight into psychotic condition,Read,Incident schizophrenia,Caliber
+E100000,Unspecified schizophrenia,Read,Incident schizophrenia,Caliber
+E100100,Subchronic schizophrenia,Read,Incident schizophrenia,Caliber
+E100200,Chronic schizophrenic,Read,Incident schizophrenia,Caliber
+E100300,Acute exacerbation of subchronic schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E100400,Acute exacerbation of chronic schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E100500,Schizophrenia in remission,Read,Prevalent schizophrenia  ,Caliber
+E100.00,Simple schizophrenia,Read,Incident schizophrenia,Caliber
+E100.11,Schizophrenia simplex,Read,Incident schizophrenia,Caliber
+E100z00,Simple schizophrenia NOS,Read,Incident schizophrenia,Caliber
+E101000,Unspecified hebephrenic schizophrenia,Read,Incident schizophrenia,Caliber
+E101400,Acute exacerbation of chronic hebephrenic schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E101500,Hebephrenic schizophrenia in remission,Read,Prevalent schizophrenia  ,Caliber
+E101.00,Hebephrenic schizophrenia,Read,Incident schizophrenia,Caliber
+E101z00,Hebephrenic schizophrenia NOS,Read,Incident schizophrenia,Caliber
+E102000,Unspecified catatonic schizophrenia,Read,Incident schizophrenia,Caliber
+E102100,Subchronic catatonic schizophrenia,Read,Incident schizophrenia,Caliber
+E102400,Acute exacerbation of chronic catatonic schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E102500,Catatonic schizophrenia in remission,Read,Prevalent schizophrenia  ,Caliber
+E102.00,Catatonic schizophrenia,Read,Incident schizophrenia,Caliber
+E102z00,Catatonic schizophrenia NOS,Read,Incident schizophrenia,Caliber
+E103000,Unspecified paranoid schizophrenia,Read,Incident schizophrenia,Caliber
+E103100,Subchronic paranoid schizophrenia,Read,Incident schizophrenia,Caliber
+E103200,Chronic paranoid schizophrenia,Read,Incident schizophrenia,Caliber
+E103300,Acute exacerbation of subchronic paranoid schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E103400,Acute exacerbation of chronic paranoid schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E103500,Paranoid schizophrenia in remission,Read,Prevalent schizophrenia  ,Caliber
+E103.00,Paranoid schizophrenia,Read,Incident schizophrenia,Caliber
+E103z00,Paranoid schizophrenia NOS,Read,Incident schizophrenia,Caliber
+E105000,Unspecified latent schizophrenia,Read,Incident schizophrenia,Caliber
+E105200,Chronic latent schizophrenia,Read,Incident schizophrenia,Caliber
+E105500,Latent schizophrenia in remission,Read,Prevalent schizophrenia  ,Caliber
+E105.00,Latent schizophrenia,Read,Incident schizophrenia,Caliber
+E105z00,Latent schizophrenia NOS,Read,Incident schizophrenia,Caliber
+E106.00,Residual schizophrenia,Read,Incident schizophrenia,Caliber
+E107000,Unspecified schizo-affective schizophrenia,Read,Incident schizophrenia,Caliber
+E107100,Subchronic schizo-affective schizophrenia,Read,Incident schizophrenia,Caliber
+E107200,Chronic schizo-affective schizophrenia,Read,Incident schizophrenia,Caliber
+E107300,Acute exacerbation subchronic schizo-affective schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E107400,Acute exacerbation of chronic schizo-affective schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E107500,Schizo-affective schizophrenia in remission,Read,Prevalent schizophrenia  ,Caliber
+E107.00,Schizo-affective schizophrenia,Read,Incident schizophrenia,Caliber
+E107.11,Cyclic schizophrenia,Read,Incident schizophrenia,Caliber
+E107z00,Schizo-affective schizophrenia NOS,Read,Incident schizophrenia,Caliber
+E10..00,Schizophrenic disorders,Read,Incident schizophrenia,Caliber
+E10y000,Atypical schizophrenia,Read,Incident schizophrenia,Caliber
+E10y100,Coenesthopathic schizophrenia,Read,Incident schizophrenia,Caliber
+E10y.00,Other schizophrenia,Read,Incident schizophrenia,Caliber
+E10y.11,Cenesthopathic schizophrenia,Read,Incident schizophrenia,Caliber
+E10yz00,Other schizophrenia NOS,Read,Incident schizophrenia,Caliber
+E10z.00,Schizophrenia NOS,Read,Incident schizophrenia,Caliber
+E120.00,Simple paranoid state,Read,Incident schizophrenia,Caliber
+E121.00,Chronic paranoid psychosis,Read,Incident schizophrenia,Caliber
+E121.11,Sander's disease,Read,Incident schizophrenia,Caliber
+E122.00,Paraphrenia,Read,Incident schizophrenia,Caliber
+E12..00,Paranoid states,Read,Incident schizophrenia,Caliber
+E12y000,Paranoia querulans,Read,Incident schizophrenia,Caliber
+E12y.00,Other paranoid states,Read,Incident schizophrenia,Caliber
+E12yz00,Other paranoid states NOS,Read,Incident schizophrenia,Caliber
+E12z.00,Paranoid psychosis NOS,Read,Incident schizophrenia,Caliber
+E1...00,Non-organic psychoses,Read,Incident schizophrenia,Caliber
+E1y..00,Other specified non-organic psychoses,Read,Incident schizophrenia,Caliber
+E1z..00,Non-organic psychosis NOS,Read,Incident schizophrenia,Caliber
+Eu20000,[X]Paranoid schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20011,[X]Paraphrenic schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20100,[X]Hebephrenic schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20111,[X]Disorganised schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20200,[X]Catatonic schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20211,[X]Catatonic stupor,Read,Incident schizophrenia,Caliber
+Eu20212,[X]Schizophrenic catalepsy,Read,Incident schizophrenia,Caliber
+Eu20213,[X]Schizophrenic catatonia,Read,Incident schizophrenia,Caliber
+Eu20214,[X]Schizophrenic flexibilatis cerea,Read,Incident schizophrenia,Caliber
+Eu20300,[X]Undifferentiated schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20311,[X]Atypical schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20400,[X]Post-schizophrenic depression,Read,Prevalent schizophrenia  ,Caliber
+Eu20500,[X]Residual schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20511,[X]Chronic undifferentiated schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20600,[X]Simple schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20.00,[X]Schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20y00,[X]Other schizophrenia,Read,Incident schizophrenia,Caliber
+Eu20y12,[X]Schizophreniform disord NOS,Read,Incident schizophrenia,Caliber
+Eu20y13,[X]Schizophrenifrm psychos NOS,Read,Incident schizophrenia,Caliber
+Eu20z00,"[X]Schizophrenia, unspecified",Read,Incident schizophrenia,Caliber
+Eu21.00,[X]Schizotypal disorder,Read,Incident schizophrenia,Caliber
+Eu21.11,[X]Latent schizophrenic reaction,Read,Incident schizophrenia,Caliber
+Eu21.12,[X]Borderline schizophrenia,Read,Incident schizophrenia,Caliber
+Eu21.13,[X]Latent schizophrenia,Read,Incident schizophrenia,Caliber
+Eu21.14,[X]Prepsychotic schizophrenia,Read,Incident schizophrenia,Caliber
+Eu21.15,[X]Prodromal schizophrenia,Read,Incident schizophrenia,Caliber
+Eu21.16,[X]Pseudoneurotic schizophrenia,Read,Incident schizophrenia,Caliber
+Eu21.17,[X]Pseudopsychopathic schizophrenia,Read,Incident schizophrenia,Caliber
+Eu22000,[X]Delusional disorder,Read,Incident schizophrenia,Caliber
+Eu22011,[X]Paranoid psychosis,Read,Incident schizophrenia,Caliber
+Eu22012,[X]Paranoid state,Read,Incident schizophrenia,Caliber
+Eu22013,[X]Paraphrenia - late,Read,Incident schizophrenia,Caliber
+Eu22014,[X]Sensitiver Beziehungswahn,Read,Incident schizophrenia,Caliber
+Eu22015,[X]Paranoia,Read,Incident schizophrenia,Caliber
+Eu22100,[X]Delusional misidentification syndrome,Read,Incident schizophrenia,Caliber
+Eu22111,[X]Capgras syndrome,Read,Incident schizophrenia,Caliber
+Eu22200,[X]Cotard syndrome,Read,Incident schizophrenia,Caliber
+Eu22300,[X]Paranoid state in remission,Read,Incident schizophrenia,Caliber
+Eu22.00,[X]Persistent delusional disorders,Read,Incident schizophrenia,Caliber
+Eu22y00,[X]Other persistent delusional disorders,Read,Incident schizophrenia,Caliber
+Eu22y11,[X]Delusional dysmorphophobia,Read,Incident schizophrenia,Caliber
+Eu22y12,[X]Involutional paranoid state,Read,Incident schizophrenia,Caliber
+Eu22y13,[X]Paranoia querulans,Read,Incident schizophrenia,Caliber
+Eu22z00,"[X]Persistent delusional disorder, unspecified",Read,Incident schizophrenia,Caliber
+Eu25000,"[X]Schizoaffective disorder, manic type",Read,Incident schizophrenia,Caliber
+Eu25011,"[X]Schizoaffective psychosis, manic type",Read,Incident schizophrenia,Caliber
+Eu25012,"[X]Schizophreniform psychosis, manic type",Read,Incident schizophrenia,Caliber
+Eu25100,"[X]Schizoaffective disorder, depressive type",Read,Incident schizophrenia,Caliber
+Eu25111,"[X]Schizoaffective psychosis, depressive type",Read,Incident schizophrenia,Caliber
+Eu25112,"[X]Schizophreniform psychosis, depressive type",Read,Incident schizophrenia,Caliber
+Eu25200,"[X]Schizoaffective disorder, mixed type",Read,Incident schizophrenia,Caliber
+Eu25211,[X]Cyclic schizophrenia,Read,Incident schizophrenia,Caliber
+Eu25212,[X]Mixed schizophrenic and affective psychosis,Read,Incident schizophrenia,Caliber
+Eu25.00,[X]Schizoaffective disorders,Read,Incident schizophrenia,Caliber
+Eu25y00,[X]Other schizoaffective disorders,Read,Incident schizophrenia,Caliber
+Eu25z00,"[X]Schizoaffective disorder, unspecified",Read,Incident schizophrenia,Caliber
+Eu25z11,[X]Schizoaffective psychosis NOS,Read,Incident schizophrenia,Caliber
+Eu26.00,[X]Nonorganic psychosis in remission,Read,Prevalent schizophrenia  ,Caliber
+Eu2..00,"[X]Schizophrenia, schizotypal and delusional disorders",Read,Incident schizophrenia,Caliber
+Eu2y.00,[X]Other nonorganic psychotic disorders,Read,Incident schizophrenia,Caliber
+Eu2y.11,[X]Chronic hallucinatory psychosis,Read,Incident schizophrenia,Caliber
+Eu2z.00,[X]Unspecified nonorganic psychosis,Read,Incident schizophrenia,Caliber
+Eu2z.11,[X]Psychosis NOS,Read,Incident schizophrenia,Caliber
+ZV11000,[V]Personal history of schizophrenia,Read,Prevalent schizophrenia  ,Caliber
+E105400,Acute exacerbation of chronic latent schizophrenia,Read,Prevalent schizophrenia  ,Launders
+E13..00,Other nonorganic psychoses,Read,Incident schizophrenia,Launders
+E13z.00,Nonorganic psychosis NOS,Read,Incident schizophrenia,Launders
+E13z.11,Psychotic episode NOS,Read,Incident schizophrenia,Launders
+Eu21.18,[X]Schizotypal personality disorder,Read,Incident schizophrenia,Launders
+E101200,Chronic hebephrenic schizophrenia,Read,Incident schizophrenia,Launders
+E102200,Chronic catatonic schizophrenia,Read,Incident schizophrenia,Launders
+E212200,Schizotypal personality,Read,Incident schizophrenia,Gold browser
+295,Schizophrenic disorders,ICD9,Incident schizophrenia,ICD9 browser
+295.5,Latent schizophrenia,ICD9,Incident schizophrenia,ICD9 browser
+297,Delusional disorders,ICD9,Incident schizophrenia,ICD9 browser
+295.7,Schizoaffective disorder,ICD9,Incident schizophrenia,ICD9 browser
+297.8,Other specified paranoid states,ICD9,Incident schizophrenia,ICD9 browser
+297.9,Unspecified paranoid state,ICD9,Incident schizophrenia,ICD9 browser
+295.3,Paranoid schizophrenia,ICD9,Incident schizophrenia,ICD9 browser
+295.1,Hebephrenic schizophrenia,ICD9,Incident schizophrenia,ICD9 browser
+295.2,Catatonic schizophrenia,ICD9,Incident schizophrenia,ICD9 browser
+295.8,Other specified types of schizophrenia,ICD9,Incident schizophrenia,ICD9 browser
+295.6,Residual schizophrenia,ICD9,Incident schizophrenia,ICD9 browser
+295.0,Simple type schizophrenia,ICD9,Incident schizophrenia,ICD9 browser
+295.4,Schizophreniform disorder,ICD9,Incident schizophrenia,ICD9 browser
+295.9,Unspecified schizophrenia,ICD9,Incident schizophrenia,ICD9 browser
+297.1,Delusional disorder,ICD9,Incident schizophrenia,ICD9 browser
+297.0,"Paranoid state, simple",ICD9,Incident schizophrenia,ICD9 browser
+297.2,Paraphrenia,ICD9,Incident schizophrenia,ICD9 browser
+F20,Schizophrenia,ICD10,Incident schizophrenia,Caliber
+F21,Schizotypal disorder,ICD10,Incident schizophrenia,Caliber
+F22,Persistent delusional disorders,ICD10,Incident schizophrenia,Caliber
+F25,Schizoaffective disorders,ICD10,Incident schizophrenia,Caliber
+F28,Other nonorganic psychotic disorders,ICD10,Incident schizophrenia,Caliber
+F29,Unspecified nonorganic psychosis,ICD10,Incident schizophrenia,Caliber
+F200,Paranoid schizophrenia,ICD10,Incident schizophrenia,Caliber
+F201,Hebephrenic schizophrenia,ICD10,Incident schizophrenia,Caliber
+F202,Catatonic schizophrenia,ICD10,Incident schizophrenia,Caliber
+F203,Undifferentiated schizophrenia,ICD10,Incident schizophrenia,Caliber
+F204,Post-schizophrenic depression,ICD10,Prevalent schizophrenia,Caliber
+F205,Residual schizophrenia,ICD10,Incident schizophrenia,Caliber
+F206,Simple schizophrenia,ICD10,Incident schizophrenia,Caliber
+F208,Other schizophrenia,ICD10,Incident schizophrenia,Caliber
+F209,Schizophrenia unspecified,ICD10,Incident schizophrenia,Caliber
+F220,Delusional disorder,ICD10,Incident schizophrenia,Caliber
+F228,Other persistent delusional disorders,ICD10,Incident schizophrenia,Caliber
+F229,Persistent delusional disorder - unspecified,ICD10,Incident schizophrenia,Caliber
+F250,Schizoaffective disorder - manic type,ICD10,Incident schizophrenia,Caliber
+F251,Schizoaffective disorder - depressive type,ICD10,Incident schizophrenia,Caliber
+F252,Schizoaffective disorder - mixed type,ICD10,Incident schizophrenia,Caliber
+F258,Other schizoaffective disorders,ICD10,Incident schizophrenia,Caliber
+F259,Schizoaffective disorder - unspecified,ICD10,Incident schizophrenia,Caliber

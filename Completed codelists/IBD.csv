@@ -1,181 +1,181 @@
 code,term,codetype,category,source
-906051000006102,[RFC] Crohns disease,Snomed Concept,Incident Crohn's disease            ,Head
-196578009,Orofacial Crohn's disease,Snomed Concept,Incident Crohn's disease            ,Head
-196578009,Crohn's disease of oral soft tissues,Snomed Concept,Incident Crohn's disease            ,Head
-196578009,Oral Crohn's disease,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,Crohn's disease,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,Granulomatous enteritis,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,Regional enteritis NOS,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,[X]Other Crohn's disease,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,Crohn's disease NOS,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,Crohn's regional enteritis,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,Regional enteritis - Crohn,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,CD - Crohn's disease,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,Crohn disease,Snomed Concept,Incident Crohn's disease            ,Head
-34000006,Crohns disease,Snomed Concept,Incident Crohn's disease            ,Head
-196977009,Crohn's disease of terminal ileum,Snomed Concept,Incident Crohn's disease            ,Head
-196977009,Crohn disease of terminal ileum,Snomed Concept,Incident Crohn's disease            ,Head
-38106008,Crohn's disease of the ileum unspecified,Snomed Concept,Incident Crohn's disease            ,Head
-38106008,Crohn's disease of ileum,Snomed Concept,Incident Crohn's disease            ,Head
-38106008,Crohn's ileitis,Snomed Concept,Incident Crohn's disease            ,Head
-38106008,Crohn disease of ileum,Snomed Concept,Incident Crohn's disease            ,Head
-414154002,Exacerbation of Crohn's disease of small intestine,Snomed Concept,Prevalent Crohn's disease           ,Head
-414154002,Exacerbation of Crohn disease of small intestine,Snomed Concept,Prevalent Crohn's disease           ,Head
-56689002,Crohn's disease of small intestine,Snomed Concept,Incident Crohn's disease            ,Head
-56689002,Regional enteritis of the small bowel,Snomed Concept,Incident Crohn's disease            ,Head
-56689002,"Crohns disease, small intestine",Snomed Concept,Incident Crohn's disease            ,Head
-414153008,Exacerbation of Crohn's disease of large intestine,Snomed Concept,Prevalent Crohn's disease           ,Head
-414153008,Exacerbation of Crohn disease of large intestine,Snomed Concept,Prevalent Crohn's disease           ,Head
-7620006,Crohn's disease of large bowel,Snomed Concept,Incident Crohn's disease            ,Head
-7620006,Regional enteritis of the large bowel,Snomed Concept,Incident Crohn's disease            ,Head
-50440006,Regional enteritis of the colon,Snomed Concept,Incident Crohn's disease            ,Head
-50440006,CC - Crohn's colitis,Snomed Concept,Incident Crohn's disease            ,Head
-50440006,Crohn's disease of colon,Snomed Concept,Incident Crohn's disease            ,Head
-50440006,Granulomatous colitis,Snomed Concept,Incident Crohn's disease            ,Head
-50440006,"Crohns disease, colon",Snomed Concept,Incident Crohn's disease            ,Head
-196983007,Regional ileocolitis,Snomed Concept,Incident Crohn's disease            ,Head
-201728006,Arthropathy in Crohn's disease,Snomed Concept,Prevalent Crohn's disease           ,Head
-201728006,Arthropathy in Crohn disease,Snomed Concept,Prevalent Crohn's disease           ,Head
-201805000,Juvenile arthritis in Crohn's disease,Snomed Concept,Prevalent Crohn's disease           ,Head
-201805000,Juvenile arthritis in Crohn disease,Snomed Concept,Prevalent Crohn's disease           ,Head
-43752006,Enterocolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-43752006,Mucous colitis and/or proctitis,Snomed Concept,Incident ulcerative colitis         ,Head
-295046003,Ulcerative proctocolitis NOS,Snomed Concept,Incident ulcerative colitis         ,Head
-295046003,Ulcerative proctocolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-295046003,Ulcerative colitis and/or proctitis,Snomed Concept,Incident ulcerative colitis         ,Head
-196987008,Ulcerative ileocolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-196987008,Ulcerative (chronic) ileocolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-64766004,Ulcerative colitis,Snomed Concept,Incident ulcerative colitis         ,Head
-64766004,Idiopathic proctocolitis NOS,Snomed Concept,Incident ulcerative colitis         ,Head
-64766004,[X]Other ulcerative colitis,Snomed Concept,Incident ulcerative colitis         ,Head
-64766004,Idiopathic proctocolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-64766004,UC - Ulcerative colitis,Snomed Concept,Incident ulcerative colitis         ,Head
-52506002,Ulcerative rectosigmoiditis,Snomed Concept,Incident ulcerative colitis         ,Head
-52506002,Chronic ulcerative proctosigmoiditis,Snomed Concept,Incident ulcerative colitis         ,Head
-52506002,Ulcerative colitis confined to rectum and sigmoid colon,Snomed Concept,Incident ulcerative colitis         ,Head
-52506002,Ulcerative proctosigmoiditis,Snomed Concept,Incident ulcerative colitis         ,Head
-52231000,Ulcerative proctitis,Snomed Concept,Incident ulcerative colitis         ,Head
-52231000,Chronic ulcerative proctitis,Snomed Concept,Incident ulcerative colitis         ,Head
-52231000,Ulcerative colitis confined to rectum,Snomed Concept,Incident ulcerative colitis         ,Head
-52231000,Idiopathic proctitis,Snomed Concept,Incident ulcerative colitis         ,Head
-414156000,Exacerbation of ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis        ,Head
-235714007,Ulcerative enterocolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-444548001,Ulcerative pancolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-418130002,Other idiopathic proctocolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-418130002,Other idiopathic proctocolitis NOS,Snomed Concept,Incident ulcerative colitis         ,Head
-418130002,Proctocolitis,Snomed Concept,Incident ulcerative colitis         ,Head
-418130002,Coloproctitis,Snomed Concept,Incident ulcerative colitis         ,Head
-201727001,Arthropathy in ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis        ,Head
-201807008,Juvenile arthritis in ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis        ,Head
+906051000006102,[RFC] Crohns disease,Snomed Concept,Incident Crohn's disease,Head
+196578009,Orofacial Crohn's disease,Snomed Concept,Incident Crohn's disease,Head
+196578009,Crohn's disease of oral soft tissues,Snomed Concept,Incident Crohn's disease,Head
+196578009,Oral Crohn's disease,Snomed Concept,Incident Crohn's disease,Head
+34000006,Crohn's disease,Snomed Concept,Incident Crohn's disease,Head
+34000006,Granulomatous enteritis,Snomed Concept,Incident Crohn's disease,Head
+34000006,Regional enteritis NOS,Snomed Concept,Incident Crohn's disease,Head
+34000006,[X]Other Crohn's disease,Snomed Concept,Incident Crohn's disease,Head
+34000006,Crohn's disease NOS,Snomed Concept,Incident Crohn's disease,Head
+34000006,Crohn's regional enteritis,Snomed Concept,Incident Crohn's disease,Head
+34000006,Regional enteritis - Crohn,Snomed Concept,Incident Crohn's disease,Head
+34000006,CD - Crohn's disease,Snomed Concept,Incident Crohn's disease,Head
+34000006,Crohn disease,Snomed Concept,Incident Crohn's disease,Head
+34000006,Crohns disease,Snomed Concept,Incident Crohn's disease,Head
+196977009,Crohn's disease of terminal ileum,Snomed Concept,Incident Crohn's disease,Head
+196977009,Crohn disease of terminal ileum,Snomed Concept,Incident Crohn's disease,Head
+38106008,Crohn's disease of the ileum unspecified,Snomed Concept,Incident Crohn's disease,Head
+38106008,Crohn's disease of ileum,Snomed Concept,Incident Crohn's disease,Head
+38106008,Crohn's ileitis,Snomed Concept,Incident Crohn's disease,Head
+38106008,Crohn disease of ileum,Snomed Concept,Incident Crohn's disease,Head
+414154002,Exacerbation of Crohn's disease of small intestine,Snomed Concept,Prevalent Crohn's disease,Head
+414154002,Exacerbation of Crohn disease of small intestine,Snomed Concept,Prevalent Crohn's disease,Head
+56689002,Crohn's disease of small intestine,Snomed Concept,Incident Crohn's disease,Head
+56689002,Regional enteritis of the small bowel,Snomed Concept,Incident Crohn's disease,Head
+56689002,"Crohns disease, small intestine",Snomed Concept,Incident Crohn's disease,Head
+414153008,Exacerbation of Crohn's disease of large intestine,Snomed Concept,Prevalent Crohn's disease,Head
+414153008,Exacerbation of Crohn disease of large intestine,Snomed Concept,Prevalent Crohn's disease,Head
+7620006,Crohn's disease of large bowel,Snomed Concept,Incident Crohn's disease,Head
+7620006,Regional enteritis of the large bowel,Snomed Concept,Incident Crohn's disease,Head
+50440006,Regional enteritis of the colon,Snomed Concept,Incident Crohn's disease,Head
+50440006,CC - Crohn's colitis,Snomed Concept,Incident Crohn's disease,Head
+50440006,Crohn's disease of colon,Snomed Concept,Incident Crohn's disease,Head
+50440006,Granulomatous colitis,Snomed Concept,Incident Crohn's disease,Head
+50440006,"Crohns disease, colon",Snomed Concept,Incident Crohn's disease,Head
+196983007,Regional ileocolitis,Snomed Concept,Incident Crohn's disease,Head
+201728006,Arthropathy in Crohn's disease,Snomed Concept,Prevalent Crohn's disease,Head
+201728006,Arthropathy in Crohn disease,Snomed Concept,Prevalent Crohn's disease,Head
+201805000,Juvenile arthritis in Crohn's disease,Snomed Concept,Prevalent Crohn's disease,Head
+201805000,Juvenile arthritis in Crohn disease,Snomed Concept,Prevalent Crohn's disease,Head
+43752006,Enterocolitis,Snomed Concept,Incident ulcerative colitis,Head
+43752006,Mucous colitis and/or proctitis,Snomed Concept,Incident ulcerative colitis,Head
+295046003,Ulcerative proctocolitis NOS,Snomed Concept,Incident ulcerative colitis,Head
+295046003,Ulcerative proctocolitis,Snomed Concept,Incident ulcerative colitis,Head
+295046003,Ulcerative colitis and/or proctitis,Snomed Concept,Incident ulcerative colitis,Head
+196987008,Ulcerative ileocolitis,Snomed Concept,Incident ulcerative colitis,Head
+196987008,Ulcerative (chronic) ileocolitis,Snomed Concept,Incident ulcerative colitis,Head
+64766004,Ulcerative colitis,Snomed Concept,Incident ulcerative colitis,Head
+64766004,Idiopathic proctocolitis NOS,Snomed Concept,Incident ulcerative colitis,Head
+64766004,[X]Other ulcerative colitis,Snomed Concept,Incident ulcerative colitis,Head
+64766004,Idiopathic proctocolitis,Snomed Concept,Incident ulcerative colitis,Head
+64766004,UC - Ulcerative colitis,Snomed Concept,Incident ulcerative colitis,Head
+52506002,Ulcerative rectosigmoiditis,Snomed Concept,Incident ulcerative colitis,Head
+52506002,Chronic ulcerative proctosigmoiditis,Snomed Concept,Incident ulcerative colitis,Head
+52506002,Ulcerative colitis confined to rectum and sigmoid colon,Snomed Concept,Incident ulcerative colitis,Head
+52506002,Ulcerative proctosigmoiditis,Snomed Concept,Incident ulcerative colitis,Head
+52231000,Ulcerative proctitis,Snomed Concept,Incident ulcerative colitis,Head
+52231000,Chronic ulcerative proctitis,Snomed Concept,Incident ulcerative colitis,Head
+52231000,Ulcerative colitis confined to rectum,Snomed Concept,Incident ulcerative colitis,Head
+52231000,Idiopathic proctitis,Snomed Concept,Incident ulcerative colitis,Head
+414156000,Exacerbation of ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis,Head
+235714007,Ulcerative enterocolitis,Snomed Concept,Incident ulcerative colitis,Head
+444548001,Ulcerative pancolitis,Snomed Concept,Incident ulcerative colitis,Head
+418130002,Other idiopathic proctocolitis,Snomed Concept,Incident ulcerative colitis,Head
+418130002,Other idiopathic proctocolitis NOS,Snomed Concept,Incident ulcerative colitis,Head
+418130002,Proctocolitis,Snomed Concept,Incident ulcerative colitis,Head
+418130002,Coloproctitis,Snomed Concept,Incident ulcerative colitis,Head
+201727001,Arthropathy in ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis,Head
+201807008,Juvenile arthritis in ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis,Head
 24526004,Inflammatory bowel disease,Snomed Concept,Incident inflammatory bowel disease ,Snomed browser
 24526004,IBD - Inflammatory bowel disease,Snomed Concept,Incident inflammatory bowel disease ,Snomed browser
 608844008,History of inflammatory bowel disease,Snomed Concept,Prevalent inflammatory bowel disease,Snomed browser
 9350004,Enteropathic arthritis,Snomed Concept,Prevalent inflammatory bowel disease,Snomed browser
 239814006,Seronegative arthritis secondary to inflammatory bowel disease,Snomed Concept,Prevalent inflammatory bowel disease,Snomed browser
-235796008,Perianal Crohn's disease,Snomed Concept,Incident Crohn's disease            ,Snomed browser
-3815005,Regional enteritis of the rectum,Snomed Concept,Incident Crohn's disease            ,Snomed browser
-3815005,Crohn's disease of rectum,Snomed Concept,Incident Crohn's disease            ,Snomed browser
-3815005,Crohn's proctitis,Snomed Concept,Incident Crohn's disease            ,Snomed browser
-112561000119108,History of Crohns disease,Snomed Concept,Prevalent Crohn's disease           ,Snomed browser
-56287005,Regional enteritis of the duodenum,Snomed Concept,Incident Crohn's disease            ,Snomed browser
-56287005,Crohn's disease of duodenum,Snomed Concept,Incident Crohn's disease            ,Snomed browser
-8161000119106,Crohn's disease with arthritis,Snomed Concept,Prevalent Crohn's disease           ,Snomed browser
-733533008,Perianal fistula due to Crohn's disease,Snomed Concept,Prevalent Crohn's disease           ,Snomed browser
-444546002,Chronic ulcerative colitis,Snomed Concept,Incident ulcerative colitis         ,Snomed browser
-14311001,Severe chronic ulcerative colitis,Snomed Concept,Incident ulcerative colitis         ,Snomed browser
-275549008,H/O: ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis        ,Snomed browser
-275549008,History of ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis        ,Snomed browser
-445243001,Left sided ulcerative colitis,Snomed Concept,Incident ulcerative colitis         ,Snomed browser
-697969008,Ulcerative colitis in remission,Snomed Concept,Prevalent ulcerative colitis        ,Snomed browser
-78324009,Mild chronic ulcerative colitis,Snomed Concept,Incident ulcerative colitis         ,Snomed browser
-442159003,Chronic ulcerative pancolitis,Snomed Concept,Incident ulcerative colitis         ,Snomed browser
-J08z900,Orofacial Crohn's disease,Read,Incident Crohn's disease            ,Caliber
-J400000,Regional enteritis of the duodenum,Read,Incident Crohn's disease            ,Caliber
-J400100,Regional enteritis of the jejunum,Read,Incident Crohn's disease            ,Caliber
-J400200,Crohn's disease of the terminal ileum,Read,Incident Crohn's disease            ,Caliber
-J400300,Crohn's disease of the ileum unspecified,Read,Incident Crohn's disease            ,Caliber
-J400400,Crohn's disease of the ileum NOS,Read,Incident Crohn's disease            ,Caliber
-J400500,Exacerbation of Crohn's disease of small intestine,Read,Incident Crohn's disease            ,Caliber
-J400.00,Regional enteritis of the small bowel,Read,Incident Crohn's disease            ,Caliber
-J400z00,Crohn's disease of the small bowel NOS,Read,Incident Crohn's disease            ,Caliber
-J401000,Regional enteritis of the colon,Read,Incident Crohn's disease            ,Caliber
-J401100,Regional enteritis of the rectum,Read,Incident Crohn's disease            ,Caliber
-J401200,Exacerbation of Crohn's disease of large intestine,Read,Prevalent Crohn's disease           ,Caliber
-J401.00,Regional enteritis of the large bowel,Read,Incident Crohn's disease            ,Caliber
-J401z00,Crohn's disease of the large bowel NOS,Read,Incident Crohn's disease            ,Caliber
-J401z11,Crohn's colitis,Read,Incident Crohn's disease            ,Caliber
-J402.00,Regional ileocolitis,Read,Incident Crohn's disease            ,Caliber
-J40..00,Regional enteritis - Crohn's disease,Read,Incident Crohn's disease            ,Caliber
-J40..11,Crohn's disease,Read,Incident Crohn's disease            ,Caliber
-J40..12,Granulomatous enteritis,Read,Incident Crohn's disease            ,Caliber
-J40z.00,Regional enteritis NOS,Read,Incident Crohn's disease            ,Caliber
-J40z.11,Crohn's disease NOS,Read,Incident Crohn's disease            ,Caliber
-Jyu4000,[X]Other Crohn's disease,Read,Incident Crohn's disease            ,Caliber
-N031100,Arthropathy in Crohn's disease,Read,Prevalent Crohn's disease           ,Caliber
-N045300,Juvenile arthritis in Crohn's disease,Read,Prevalent Crohn's disease           ,Caliber
-ZR3S.00,Crohn's disease activity index,Read,Incident Crohn's disease            ,Caliber
-ZR3S.11,CDAI - Crohn's disease activity index,Read,Incident Crohn's disease            ,Caliber
-14C4.11,H/O: ulcerative colitis,Read,Prevalent ulcerative colitis        ,Caliber
-J410000,Ulcerative ileocolitis,Read,Incident ulcerative colitis         ,Caliber
-J410100,Ulcerative colitis,Read,Incident ulcerative colitis         ,Caliber
-J410200,Ulcerative rectosigmoiditis,Read,Incident ulcerative colitis         ,Caliber
-J410300,Ulcerative proctitis,Read,Incident ulcerative colitis         ,Caliber
-J410400,Exacerbation of ulcerative colitis,Read,Prevalent ulcerative colitis        ,Caliber
-J410.00,Ulcerative proctocolitis,Read,Incident ulcerative colitis         ,Caliber
-J410z00,Ulcerative proctocolitis NOS,Read,Incident ulcerative colitis         ,Caliber
-J411.00,Ulcerative (chronic) enterocolitis,Read,Incident ulcerative colitis         ,Caliber
-J412.00,Ulcerative (chronic) ileocolitis,Read,Incident ulcerative colitis         ,Caliber
-J413.00,Ulcerative pancolitis,Read,Incident ulcerative colitis         ,Caliber
-J41..00,Idiopathic proctocolitis,Read,Incident ulcerative colitis         ,Caliber
-J41..11,Mucous colitis and/or proctitis,Read,Incident ulcerative colitis         ,Caliber
-J41..12,Ulcerative colitis and/or proctitis,Read,Incident ulcerative colitis         ,Caliber
-J41y.00,Other idiopathic proctocolitis,Read,Incident ulcerative colitis         ,Caliber
-J41yz00,Other idiopathic proctocolitis NOS,Read,Incident ulcerative colitis         ,Caliber
-J41z.00,Idiopathic proctocolitis NOS,Read,Incident ulcerative colitis         ,Caliber
-Jyu4100,[X]Other ulcerative colitis,Read,Incident ulcerative colitis         ,Caliber
-N031000,Arthropathy in ulcerative colitis,Read,Prevalent ulcerative colitis        ,Caliber
-N045400,Juvenile arthritis in ulcerative colitis,Read,Prevalent ulcerative colitis        ,Caliber
+235796008,Perianal Crohn's disease,Snomed Concept,Incident Crohn's disease,Snomed browser
+3815005,Regional enteritis of the rectum,Snomed Concept,Incident Crohn's disease,Snomed browser
+3815005,Crohn's disease of rectum,Snomed Concept,Incident Crohn's disease,Snomed browser
+3815005,Crohn's proctitis,Snomed Concept,Incident Crohn's disease,Snomed browser
+112561000119108,History of Crohns disease,Snomed Concept,Prevalent Crohn's disease,Snomed browser
+56287005,Regional enteritis of the duodenum,Snomed Concept,Incident Crohn's disease,Snomed browser
+56287005,Crohn's disease of duodenum,Snomed Concept,Incident Crohn's disease,Snomed browser
+8161000119106,Crohn's disease with arthritis,Snomed Concept,Prevalent Crohn's disease,Snomed browser
+733533008,Perianal fistula due to Crohn's disease,Snomed Concept,Prevalent Crohn's disease,Snomed browser
+444546002,Chronic ulcerative colitis,Snomed Concept,Incident ulcerative colitis,Snomed browser
+14311001,Severe chronic ulcerative colitis,Snomed Concept,Incident ulcerative colitis,Snomed browser
+275549008,H/O: ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis,Snomed browser
+275549008,History of ulcerative colitis,Snomed Concept,Prevalent ulcerative colitis,Snomed browser
+445243001,Left sided ulcerative colitis,Snomed Concept,Incident ulcerative colitis,Snomed browser
+697969008,Ulcerative colitis in remission,Snomed Concept,Prevalent ulcerative colitis,Snomed browser
+78324009,Mild chronic ulcerative colitis,Snomed Concept,Incident ulcerative colitis,Snomed browser
+442159003,Chronic ulcerative pancolitis,Snomed Concept,Incident ulcerative colitis,Snomed browser
+J08z900,Orofacial Crohn's disease,Read,Incident Crohn's disease,Caliber
+J400000,Regional enteritis of the duodenum,Read,Incident Crohn's disease,Caliber
+J400100,Regional enteritis of the jejunum,Read,Incident Crohn's disease,Caliber
+J400200,Crohn's disease of the terminal ileum,Read,Incident Crohn's disease,Caliber
+J400300,Crohn's disease of the ileum unspecified,Read,Incident Crohn's disease,Caliber
+J400400,Crohn's disease of the ileum NOS,Read,Incident Crohn's disease,Caliber
+J400500,Exacerbation of Crohn's disease of small intestine,Read,Incident Crohn's disease,Caliber
+J400.00,Regional enteritis of the small bowel,Read,Incident Crohn's disease,Caliber
+J400z00,Crohn's disease of the small bowel NOS,Read,Incident Crohn's disease,Caliber
+J401000,Regional enteritis of the colon,Read,Incident Crohn's disease,Caliber
+J401100,Regional enteritis of the rectum,Read,Incident Crohn's disease,Caliber
+J401200,Exacerbation of Crohn's disease of large intestine,Read,Prevalent Crohn's disease,Caliber
+J401.00,Regional enteritis of the large bowel,Read,Incident Crohn's disease,Caliber
+J401z00,Crohn's disease of the large bowel NOS,Read,Incident Crohn's disease,Caliber
+J401z11,Crohn's colitis,Read,Incident Crohn's disease,Caliber
+J402.00,Regional ileocolitis,Read,Incident Crohn's disease,Caliber
+J40..00,Regional enteritis - Crohn's disease,Read,Incident Crohn's disease,Caliber
+J40..11,Crohn's disease,Read,Incident Crohn's disease,Caliber
+J40..12,Granulomatous enteritis,Read,Incident Crohn's disease,Caliber
+J40z.00,Regional enteritis NOS,Read,Incident Crohn's disease,Caliber
+J40z.11,Crohn's disease NOS,Read,Incident Crohn's disease,Caliber
+Jyu4000,[X]Other Crohn's disease,Read,Incident Crohn's disease,Caliber
+N031100,Arthropathy in Crohn's disease,Read,Prevalent Crohn's disease,Caliber
+N045300,Juvenile arthritis in Crohn's disease,Read,Prevalent Crohn's disease,Caliber
+ZR3S.00,Crohn's disease activity index,Read,Incident Crohn's disease,Caliber
+ZR3S.11,CDAI - Crohn's disease activity index,Read,Incident Crohn's disease,Caliber
+14C4.11,H/O: ulcerative colitis,Read,Prevalent ulcerative colitis,Caliber
+J410000,Ulcerative ileocolitis,Read,Incident ulcerative colitis,Caliber
+J410100,Ulcerative colitis,Read,Incident ulcerative colitis,Caliber
+J410200,Ulcerative rectosigmoiditis,Read,Incident ulcerative colitis,Caliber
+J410300,Ulcerative proctitis,Read,Incident ulcerative colitis,Caliber
+J410400,Exacerbation of ulcerative colitis,Read,Prevalent ulcerative colitis,Caliber
+J410.00,Ulcerative proctocolitis,Read,Incident ulcerative colitis,Caliber
+J410z00,Ulcerative proctocolitis NOS,Read,Incident ulcerative colitis,Caliber
+J411.00,Ulcerative (chronic) enterocolitis,Read,Incident ulcerative colitis,Caliber
+J412.00,Ulcerative (chronic) ileocolitis,Read,Incident ulcerative colitis,Caliber
+J413.00,Ulcerative pancolitis,Read,Incident ulcerative colitis,Caliber
+J41..00,Idiopathic proctocolitis,Read,Incident ulcerative colitis,Caliber
+J41..11,Mucous colitis and/or proctitis,Read,Incident ulcerative colitis,Caliber
+J41..12,Ulcerative colitis and/or proctitis,Read,Incident ulcerative colitis,Caliber
+J41y.00,Other idiopathic proctocolitis,Read,Incident ulcerative colitis,Caliber
+J41yz00,Other idiopathic proctocolitis NOS,Read,Incident ulcerative colitis,Caliber
+J41z.00,Idiopathic proctocolitis NOS,Read,Incident ulcerative colitis,Caliber
+Jyu4100,[X]Other ulcerative colitis,Read,Incident ulcerative colitis,Caliber
+N031000,Arthropathy in ulcerative colitis,Read,Prevalent ulcerative colitis,Caliber
+N045400,Juvenile arthritis in ulcerative colitis,Read,Prevalent ulcerative colitis,Caliber
 J4...12,Inflammatory bowel disease,Read,Incident inflammatory bowel disease ,Freeman
-J436.00,Microscopic colitis,Read,Incident ulcerative colitis         ,Freeman
-J436000,Collagenous colitis,Read,Incident ulcerative colitis         ,Freeman
-J436100,Lymphocytic colitis,Read,Incident ulcerative colitis         ,Freeman
-J438.00,Left sided colitis,Read,Incident ulcerative colitis         ,Freeman
-J4z3.00,Non-infective colitis NOS,Read,Incident ulcerative colitis         ,Freeman
-J4z4.00,Non-infective sigmoiditis NOS,Read,Incident ulcerative colitis         ,Freeman
-J4z6.00,Indeterminate colitis,Read,Incident ulcerative colitis         ,Freeman
+J436.00,Microscopic colitis,Read,Incident ulcerative colitis,Freeman
+J436000,Collagenous colitis,Read,Incident ulcerative colitis,Freeman
+J436100,Lymphocytic colitis,Read,Incident ulcerative colitis,Freeman
+J438.00,Left sided colitis,Read,Incident ulcerative colitis,Freeman
+J4z3.00,Non-infective colitis NOS,Read,Incident ulcerative colitis,Freeman
+J4z4.00,Non-infective sigmoiditis NOS,Read,Incident ulcerative colitis,Freeman
+J4z6.00,Indeterminate colitis,Read,Incident ulcerative colitis,Freeman
 8Cc5.11,Management of IBD (inflammatory bowel disease),Read,Prevalent inflammatory bowel disease,Gold browser
 8Cc5.00,Management of inflammatory bowel disease,Read,Prevalent inflammatory bowel disease,Gold browser
-555,Crohn disease,ICD9,Incident Crohn's disease            ,ICD9 browser
-556,Ulcerative colitis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-555.0,Crohn disease of small intestine,ICD9,Incident Crohn's disease            ,ICD9 browser
-555.1,Crohn disease of large intestine,ICD9,Incident Crohn's disease            ,ICD9 browser
-555.2,Crohn disease of small intestine with large intestine,ICD9,Incident Crohn's disease            ,ICD9 browser
-555.9,Crohn disease of unspecified site,ICD9,Incident Crohn's disease            ,ICD9 browser
-556.6,Ulcerative (chronic) pancolitis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-556.2,Ulcerative (chronic) proctitis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-556.3,Ulcerative (chronic) proctosigmoiditis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-556.4,Pseudopolyposis of colon,ICD9,Incident ulcerative colitis         ,ICD9 browser
-556.5,Left sided colitis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-556.8,Other ulcerative colitis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-556.9,Ulcerative colitis unspecified,ICD9,Incident ulcerative colitis         ,ICD9 browser
-556.0,Ulcerative (chronic) enterocolitis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-556.1,Ulcerative (chronic) ileocolitis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-558.9,Other and unspecified noninfectious gastroenteritis and colitis,ICD9,Incident ulcerative colitis         ,ICD9 browser
-K50,Crohn's disease [regional enteritis],ICD10,Incident Crohn's disease            ,Caliber
-K51,Ulcerative colitis,ICD10,Incident ulcerative colitis         ,Caliber
-K500,Crohn disease of small intestine,ICD10,Incident Crohn's disease            ,
-K501,Crohn disease of large intestine,ICD10,Incident Crohn's disease            ,
-K508,Other Crohn disease,ICD10,Incident Crohn's disease            ,
-K509,Crohn disease unspecified,ICD10,Incident Crohn's disease            ,
-K510,Ulcerative (chronic) pancolitis,ICD10,Incident ulcerative colitis         ,
-K512,Ulcerative (chronic) proctitis,ICD10,Incident ulcerative colitis         ,
-K513,Ulcerative (chronic) rectosigmoiditis,ICD10,Incident ulcerative colitis         ,
-K514,Inflammatory polyps,ICD10,Incident ulcerative colitis         ,
-K515,Left sided colitis,ICD10,Incident ulcerative colitis         ,
-K518,Other ulcerative colitis,ICD10,Incident ulcerative colitis         ,
-K519,Ulcerative colitis unspecified,ICD10,Incident ulcerative colitis         ,
-K528,Other specified noninfective gastroenteritis and colitis,ICD10,Incident ulcerative colitis         ,
-M074,Arthropathy in Crohn disease,ICD10,Prevalent Crohn's disease           ,
-M075,Arthropathy in ulcerative colitis,ICD10,Prevalent ulcerative colitis        ,
-M091,Juvenile arthritis in Crohn disease,ICD10,Prevalent Crohn's disease           ,
-M092,Juvenile arthritis in ulcerative colitis,ICD10,Prevalent ulcerative colitis        ,
+555,Crohn disease,ICD9,Incident Crohn's disease,ICD9 browser
+556,Ulcerative colitis,ICD9,Incident ulcerative colitis,ICD9 browser
+555.0,Crohn disease of small intestine,ICD9,Incident Crohn's disease,ICD9 browser
+555.1,Crohn disease of large intestine,ICD9,Incident Crohn's disease,ICD9 browser
+555.2,Crohn disease of small intestine with large intestine,ICD9,Incident Crohn's disease,ICD9 browser
+555.9,Crohn disease of unspecified site,ICD9,Incident Crohn's disease,ICD9 browser
+556.6,Ulcerative (chronic) pancolitis,ICD9,Incident ulcerative colitis,ICD9 browser
+556.2,Ulcerative (chronic) proctitis,ICD9,Incident ulcerative colitis,ICD9 browser
+556.3,Ulcerative (chronic) proctosigmoiditis,ICD9,Incident ulcerative colitis,ICD9 browser
+556.4,Pseudopolyposis of colon,ICD9,Incident ulcerative colitis,ICD9 browser
+556.5,Left sided colitis,ICD9,Incident ulcerative colitis,ICD9 browser
+556.8,Other ulcerative colitis,ICD9,Incident ulcerative colitis,ICD9 browser
+556.9,Ulcerative colitis unspecified,ICD9,Incident ulcerative colitis,ICD9 browser
+556.0,Ulcerative (chronic) enterocolitis,ICD9,Incident ulcerative colitis,ICD9 browser
+556.1,Ulcerative (chronic) ileocolitis,ICD9,Incident ulcerative colitis,ICD9 browser
+558.9,Other and unspecified noninfectious gastroenteritis and colitis,ICD9,Incident ulcerative colitis,ICD9 browser
+K50,Crohn's disease [regional enteritis],ICD10,Incident Crohn's disease,Caliber
+K51,Ulcerative colitis,ICD10,Incident ulcerative colitis,Caliber
+K500,Crohn disease of small intestine,ICD10,Incident Crohn's disease,Caliber
+K501,Crohn disease of large intestine,ICD10,Incident Crohn's disease,Caliber
+K508,Other Crohn disease,ICD10,Incident Crohn's disease,Caliber
+K509,Crohn disease unspecified,ICD10,Incident Crohn's disease,Caliber
+K510,Ulcerative (chronic) pancolitis,ICD10,Incident ulcerative colitis,Caliber
+K512,Ulcerative (chronic) proctitis,ICD10,Incident ulcerative colitis,Caliber
+K513,Ulcerative (chronic) rectosigmoiditis,ICD10,Incident ulcerative colitis,Caliber
+K514,Inflammatory polyps,ICD10,Incident ulcerative colitis,Caliber
+K515,Left sided colitis,ICD10,Incident ulcerative colitis,Caliber
+K518,Other ulcerative colitis,ICD10,Incident ulcerative colitis,Caliber
+K519,Ulcerative colitis unspecified,ICD10,Incident ulcerative colitis,Caliber
+K528,Other specified noninfective gastroenteritis and colitis,ICD10,Incident ulcerative colitis,ICD10 browser
+M074,Arthropathy in Crohn disease,ICD10,Prevalent Crohn's disease,ICD10 browser
+M075,Arthropathy in ulcerative colitis,ICD10,Prevalent ulcerative colitis,ICD10 browser
+M091,Juvenile arthritis in Crohn disease,ICD10,Prevalent Crohn's disease,ICD10 browser
+M092,Juvenile arthritis in ulcerative colitis,ICD10,Prevalent ulcerative colitis,ICD10 browser

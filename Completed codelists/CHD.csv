@@ -1,54 +1,54 @@
 code,term,codetype,category,source
-53741008,Coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-53741008,Coronary arteriosclerosis,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-53741008,CAD - Coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-53741008,CHD - Coronary heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-53741008,Coronary heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-856511000006109,CHD annual review,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-1823891000006109,Coronary heart disease confirmed,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-1895641000006105,On coronary heart disease register,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-908791000006109,[RFC] Coronary heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
+53741008,Coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+53741008,Coronary arteriosclerosis,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+53741008,CAD - Coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+53741008,CHD - Coronary heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+53741008,Coronary heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+856511000006109,CHD annual review,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+1823891000006109,Coronary heart disease confirmed,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+1895641000006105,On coronary heart disease register,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+908791000006109,[RFC] Coronary heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
 699245006,Emergency hospital admission for ischaemic heart disease,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
-643861000000100,Acute/subacute IHD NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-621601000000104,Chr. ischaemic heart dis. NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-315614006,Coronary heart disease annual review,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-390799004,Coronary heart disease review,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-394724007,Coronary heart disease medication review,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-414545008,Other acute and subacute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,Other acute and subacute ischaemic heart disease NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,Other specified ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,Ischaemic heart disease NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,[X]Other forms of acute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,Ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,IHD - Ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,Other acute and subacute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,[X]Ischaemic heart diseases,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,Ischemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-414545008,IHD - Ischemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-443502000,Atherosclerotic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-443502000,Arteriosclerotic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-443502000,Coronary atherosclerosis,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-443502000,Atherosclerosis of coronary artery,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-194821006,Coronary thrombosis not resulting in myocardial infarction,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-194821006,MI - Myocardial infarction aborted,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-194821006,Myocardial infarction aborted,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-194821006,Aborted myocardial infarction,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-46109009,Subendocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-315026000,Transient myocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-413838009,Chronic ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-413838009,Other specified chronic ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-413838009,Other specified chronic ischaemic heart disease NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-413838009,Other chronic ischaemic heart disease NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-413838009,[X]Other forms of chronic ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-413838009,Chronic ischemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-194849004,Ischaemic cardiomyopathy,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-194849004,Generalised ischaemic myocardial dysfunction,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-194849004,Ischemic cardiomyopathy,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-233823002,Silent myocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-233823002,Asymptomatic ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-413844008,Chronic myocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-413844008,Chronic coronary insufficiency,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
-315348000,Asymptomatic coronary heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Head
+643861000000100,Acute/subacute IHD NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+621601000000104,Chr. ischaemic heart dis. NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+315614006,Coronary heart disease annual review,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+390799004,Coronary heart disease review,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+394724007,Coronary heart disease medication review,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+414545008,Other acute and subacute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,Other acute and subacute ischaemic heart disease NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,Other specified ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,Ischaemic heart disease NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,[X]Other forms of acute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,Ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,IHD - Ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,Other acute and subacute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,[X]Ischaemic heart diseases,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,Ischemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+414545008,IHD - Ischemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+443502000,Atherosclerotic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+443502000,Arteriosclerotic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+443502000,Coronary atherosclerosis,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+443502000,Atherosclerosis of coronary artery,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+194821006,Coronary thrombosis not resulting in myocardial infarction,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+194821006,MI - Myocardial infarction aborted,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+194821006,Myocardial infarction aborted,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+194821006,Aborted myocardial infarction,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+46109009,Subendocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+315026000,Transient myocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+413838009,Chronic ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+413838009,Other specified chronic ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+413838009,Other specified chronic ischaemic heart disease NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+413838009,Other chronic ischaemic heart disease NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+413838009,[X]Other forms of chronic ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+413838009,Chronic ischemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+194849004,Ischaemic cardiomyopathy,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+194849004,Generalised ischaemic myocardial dysfunction,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+194849004,Ischemic cardiomyopathy,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+233823002,Silent myocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+233823002,Asymptomatic ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+413844008,Chronic myocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+413844008,Chronic coronary insufficiency,Snomed Concept,Incident coronary/ischaemic heart disease,Head
+315348000,Asymptomatic coronary heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Head
 54329005,Acute anterior myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 54329005,Anterior myocardial infarction NOS,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 54329005,Acute myocardial infarction of anterior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
@@ -68,9 +68,9 @@ code,term,codetype,category,source
 22298006,MI - Myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 22298006,Myocardial infarct,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 905351000006109,[RFC] Myocardial infarction (MI),Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
-66189004,Post-myocardial infarction syndrome,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-66189004,Dressler's syndrome,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-66189004,Postmyocardial infarction syndrome,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
+66189004,Post-myocardial infarction syndrome,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+66189004,Dressler's syndrome,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+66189004,Postmyocardial infarction syndrome,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
 164865005,ECG: myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 164865005,ECG: myocardial infarct NOS,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 164868007,ECG: antero-septal infarct.,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
@@ -84,9 +84,9 @@ code,term,codetype,category,source
 398274000,Thrombosis - coronary,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 398274000,Coronary artery thrombosis,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 398274000,CT - Coronary thrombosis,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
-233847009,Cardiac rupture after acute myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-233843008,Silent myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-233843008,MI - Silent myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
+233847009,Cardiac rupture after acute myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+233843008,Silent myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+233843008,MI - Silent myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
 70211005,Acute anterolateral myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 70211005,Acute myocardial infarction of anterolateral wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 52035003,Acute anteroapical infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
@@ -107,8 +107,8 @@ code,term,codetype,category,source
 73795002,Acute inferior myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 304914007,Acute Q-wave infarct,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 304914007,Acute Q wave myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
-91335003,Mural thrombosis,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-91335003,Mural thrombus of heart,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
+91335003,Mural thrombosis,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+91335003,Mural thrombus of heart,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
 15990001,Acute myocardial infarction of posterolateral wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 401303003,Acute ST segment elevation myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 401303003,STEMI - ST elevation myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
@@ -116,9 +116,9 @@ code,term,codetype,category,source
 10273003,Acute papillary muscle infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 79009004,Acute septal infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 42531007,Microinfarction of heart,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
-1755008,Old myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-1755008,Healed myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-314116003,Post infarct angina,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
+1755008,Old myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+1755008,Healed myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+314116003,Post infarct angina,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
 194856005,Subsequent myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 194856005,Subsequent myocardial infarction of other sites,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 194856005,[X]Subsequent myocardial infarction of other sites,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
@@ -126,15 +126,15 @@ code,term,codetype,category,source
 194856005,Subsequent myocardial infarction of unspecified site,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 194857001,Subsequent myocardial infarction of anterior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 194858006,Subsequent myocardial infarction of inferior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
-371068009,Myocardial infarction with complication,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-194862000,Haemopericardium as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-194863005,Atrial septal defect as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-233846000,Ventricular septal defect as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-233846000,Post-infarction ventricular septal defect,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-194865003,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-194866002,Rupture of chordae tendinae as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-194867006,Rupture of papillary muscle as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
-194868001,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",Snomed Concept,Uncertain coronary/ischaemic heart disease                ,Head
+371068009,Myocardial infarction with complication,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+194862000,Haemopericardium as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+194863005,Atrial septal defect as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+233846000,Ventricular septal defect as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+233846000,Post-infarction ventricular septal defect,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+194865003,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+194866002,Rupture of chordae tendinae as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+194867006,Rupture of papillary muscle as current complication following acute myocardial infarction,Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
+194868001,"Thrombosis of atrium, auricular appendage, and ventricle as current complications following acute myocardial infarction",Snomed Concept,Uncertain coronary/ischaemic heart disease,Head
 129574000,Postoperative myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 129574000,"Postoperative myocardial infarction, unspecified",Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 129574000,Postoperative transmural myocardial infarction other sites,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
@@ -142,198 +142,198 @@ code,term,codetype,category,source
 311792005,Postoperative transmural myocardial infarction of anterior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 311793000,Postoperative transmural myocardial infarction of inferior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
 311796008,Postoperative subendocardial myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Head
-233885007,Post infarction pericarditis,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-233885007,Post-infarction pericarditis,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Head
-399211009,Personal history of myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
-399211009,History of myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
+233885007,Post infarction pericarditis,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+233885007,Post-infarction pericarditis,Snomed Concept,Prevalent coronary/ischaemic heart disease,Head
+399211009,Personal history of myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
+399211009,History of myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
 703360004,Subsequent non-ST segment elevation myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 703360004,Subsequent NSTEMI (non-ST segment elevation myocardial infarction),Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
-413439005,Acute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
+413439005,Acute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
 25106000,Impending infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 233831007,Acute Q wave infarction - inferolateral,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 703164000,Acute anterior ST segment elevation myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 703164000,Acute STEMI (ST elevation myocardial infarction) of anterior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 1089471000000109,Acute transmural myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
-315025001,Refractory angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
+315025001,Refractory angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
 428752002,Recent myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 233829003,Acute Q wave infarction - inferior,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 428196007,Mixed myocardial ischaemia and infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 394659003,Acute coronary syndrome,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 394659003,ACS - Acute coronary syndrome,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
-59021001,Angina decubitus,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-59021001,Angina decubitus NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-59021001,Angina at rest,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-59021001,Angina at rest,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-59021001,Anginal chest pain at rest,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-4557003,Preinfarction syndrome,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-4557003,Unstable angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-4557003,Crescendo angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-4557003,Preinfarction syndrome,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-4557003,Worsening angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-4557003,Unstable angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-4557003,Pre-infarction syndrome,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-429559004,Typical angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,Angina pectoris,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,Stenocardia,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,Angina pectoris NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,[X]Other forms of angina pectoris,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,Angina pectoris NOS,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,Angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,Cardiac angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,Anginal syndrome,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194828000,Ischaemic heart disease - angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-308065005,H/O: Myocardial infarction in last year,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
-414795007,Myocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-371807002,Atypical angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-161503005,H/O: myocardial infarct at greater than 60,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
+59021001,Angina decubitus,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+59021001,Angina decubitus NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+59021001,Angina at rest,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+59021001,Angina at rest,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+59021001,Anginal chest pain at rest,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+4557003,Preinfarction syndrome,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+4557003,Unstable angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+4557003,Crescendo angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+4557003,Preinfarction syndrome,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+4557003,Worsening angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+4557003,Unstable angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+4557003,Pre-infarction syndrome,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+429559004,Typical angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,Angina pectoris,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,Stenocardia,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,Angina pectoris NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,[X]Other forms of angina pectoris,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,Angina pectoris NOS,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,Angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,Cardiac angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,Anginal syndrome,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194828000,Ischaemic heart disease - angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+308065005,H/O: Myocardial infarction in last year,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
+414795007,Myocardial ischaemia,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+371807002,Atypical angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+161503005,H/O: myocardial infarct at greater than 60,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
 314207007,Non-Q wave myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
-161502000,H/O: myocardial infarct at less than 60,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
-225566008,Ischaemic chest pain,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-21470009,Syncope anginosa,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
+161502000,H/O: myocardial infarct at less than 60,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
+225566008,Ischaemic chest pain,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+21470009,Syncope anginosa,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
 15712881000119105,Acute ST segment elevation myocardial infarction of anterolateral wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 12238151000119107,Acute ST segment elevation myocardial infarction of inferoposterior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
-791000119109,Angina associated with type 2 diabetes mellitus,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-233821000,New onset angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-233842003,Old posterior myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
+791000119109,Angina associated with type 2 diabetes mellitus,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+233821000,New onset angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+233842003,Old posterior myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
 194823009,Acute coronary insufficiency,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 194823009,Acute coronary syndrome,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
-371804009,Left main coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-233841005,Old lateral myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
-19057007,Status anginosus,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-371803003,Multi vessel coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194843003,Double coronary vessel disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194843003,Two coronary vessel disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194843003,Double vessel coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-233819005,Stable angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-233840006,Old inferior myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
-194842008,Single coronary vessel disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-194842008,Single vessel coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-233839009,Old anterior myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Nhs
-233817007,Triple vessel disease of the heart,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-233817007,Triple vessel coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-300995000,Angina on effort,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-300995000,Exercise-induced angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-300995000,Exertional angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-300995000,Angina of effort,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
-35928006,Nocturnal angina,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Nhs
+371804009,Left main coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+233841005,Old lateral myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
+19057007,Status anginosus,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+371803003,Multi vessel coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194843003,Double coronary vessel disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194843003,Two coronary vessel disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194843003,Double vessel coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+233819005,Stable angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+233840006,Old inferior myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
+194842008,Single coronary vessel disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+194842008,Single vessel coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+233839009,Old anterior myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Nhs
+233817007,Triple vessel disease of the heart,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+233817007,Triple vessel coronary artery disease,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+300995000,Angina on effort,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+300995000,Exercise-induced angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+300995000,Exertional angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+300995000,Angina of effort,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
+35928006,Nocturnal angina,Snomed Concept,Incident coronary/ischaemic heart disease,Nhs
 703213009,Acute ST segment elevation myocardial infarction of inferior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 703213009,Acute STEMI (ST elevation myocardial infarction) of inferior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 703213009,Acute inferior ST segment elevation myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
 394710008,First myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Nhs
-1576301000006104,Cause of Death- Acute Myocardial Infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+1576301000006104,Cause of Death- Acute Myocardial Infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 15713041000119103,Acute ST segment elevation myocardial infarction of posterior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 16837681000119104,Myocardial infarction due to demand ischaemia,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 703209002,Subsequent ST segment elevation myocardial infarction of inferior wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-32574007,"Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms",Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+32574007,"Past myocardial infarction diagnosed on ECG AND/OR other special investigation, but currently presenting no symptoms",Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 879955009,Myocardial infarction with non-obstructive coronary artery,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-713405002,Subacute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Aurum browser
+713405002,Subacute ischaemic heart disease,Snomed Concept,Incident coronary/ischaemic heart disease,Aurum browser
 703165004,Acute ST segment elevation myocardial infarction of anterior wall involving right ventricle,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-71911007,Old infarct,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-1083131000000100,Coronary heart disease monitoring invitation email,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+71911007,Old infarct,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+1083131000000100,Coronary heart disease monitoring invitation email,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 840316004,Acute ST segment elevation myocardial infarction due to distal left anterior descending coronary artery occlusion,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 840316004,Acute STEMI (ST elevation myocardial infarction) due to distal LAD (left anterior descending) coronary artery occlusion,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-1083121000000102,Coronary heart disease monitoring invitation,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-248461000000107,Coronary heart disease monitoring telephone invite,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-248461000000107,Coronary heart disease monitoring telephone invitation,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-809581000000109,Referral to coronary heart disease clinic,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-401254000,Coronary heart disease monitoring deleted,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-390907003,Coronary heart disease monitoring administration,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+1083121000000102,Coronary heart disease monitoring invitation,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+248461000000107,Coronary heart disease monitoring telephone invite,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+248461000000107,Coronary heart disease monitoring telephone invitation,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+809581000000109,Referral to coronary heart disease clinic,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+401254000,Coronary heart disease monitoring deleted,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+390907003,Coronary heart disease monitoring administration,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 12238111000119106,Acute ST segment elevation myocardial infarction of inferolateral wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-401253006,Coronary heart disease monitoring verbal invitation,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-401252001,Coronary heart disease monitoring 3rd letter,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+401253006,Coronary heart disease monitoring verbal invitation,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+401252001,Coronary heart disease monitoring 3rd letter,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 710031008,Inducible ischaemia manifest on stress test post myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-308068007,H/O: Treatment for ischaemic heart disease,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-308068007,History of treatment for ischaemic heart disease,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-401251008,Coronary heart disease monitoring 2nd letter,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+308068007,H/O: Treatment for ischaemic heart disease,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+308068007,History of treatment for ischaemic heart disease,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+401251008,Coronary heart disease monitoring 2nd letter,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 840312002,Acute ST segment elevation myocardial infarction due to mid left anterior descending coronary artery occlusion,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 840312002,Acute STEMI (ST elevation myocardial infarction) due to mid LAD (left anterior descending) coronary artery occlusion,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-315021005,Coronary heart disease monitoring refused,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-315021005,Refuses coronary heart disease monitoring,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-315021005,Refuses CHD monitoring,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-401250009,Coronary heart disease monitoring 1st letter,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-401250009,Coronary heart disease monitoring first letter,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+315021005,Coronary heart disease monitoring refused,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+315021005,Refuses coronary heart disease monitoring,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+315021005,Refuses CHD monitoring,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+401250009,Coronary heart disease monitoring 1st letter,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+401250009,Coronary heart disease monitoring first letter,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 59063002,Acute myocardial infarction of apical-lateral wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-302049001,[X]Other current complicatns following acute myocard infarct,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-302049001,Sequelae of disorders,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+302049001,[X]Other current complicatns following acute myocard infarct,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+302049001,Sequelae of disorders,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 840609007,Acute ST segment elevation myocardial infarction due to occlusion of anterior descending branch of left coronary artery,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-698593009,History of non-ST segment elevation myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-401248001,Attends coronary heart disease monitoring,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+698593009,History of non-ST segment elevation myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+401248001,Attends coronary heart disease monitoring,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 840309000,Acute ST segment elevation myocardial infarction due to proximal left anterior descending coronary artery occlusion,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 1077002,Septal infarction by electrocardiogram,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-401332000,Coronary heart disease monitoring check done,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-703326006,Mitral valve regurgitation due to acute myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+401332000,Coronary heart disease monitoring check done,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+703326006,Mitral valve regurgitation due to acute myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 64627002,Acute myocardial infarction of high lateral wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-401331007,Coronary heart disease monitoring default,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+401331007,Coronary heart disease monitoring default,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 285981000119103,Acute ST segment elevation myocardial infarction involving left anterior descending coronary artery,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 23311000119105,Acute myocardial infarction due to right coronary artery occlusion,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 15713121000119105,Acute ST segment elevation myocardial infarction due to right coronary artery occlusion,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-190472002,Postinfarction panhypopituitarism,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-285721000119104,History of acute ST segment elevation myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+190472002,Postinfarction panhypopituitarism,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+285721000119104,History of acute ST segment elevation myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 15712921000119103,Acute ST segment elevation myocardial infarction of lateral wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 15712961000119108,Acute ST segment elevation myocardial infarction of anteroseptal wall,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 15960981000119105,Mural thrombus of left ventricle following acute myocardial infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 836295007,Acute myocardial infarction of inferolateral wall with posterior extension,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-827164008,Delayed postmyocardial infarction pericarditis,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-827164008,Dressler's syndrome,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+827164008,Delayed postmyocardial infarction pericarditis,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+827164008,Dressler's syndrome,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 846683001,Acute ST segment elevation myocardial infarction due to occlusion of intermediate artery,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-736368003,Coronary heart disease care plan,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+736368003,Coronary heart disease care plan,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 836293000,Acute myocardial infarction of right ventricle,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 43630006,Anterolateral infarction by EKG,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-164867002,ECG: old myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+164867002,ECG: old myocardial infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 868226001,Acute ST segment elevation myocardial infarction due to occlusion of posterior lateral branch of right coronary artery,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-1576271000006101,Cause of Death- Myocardial Infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-1539331000006102,H/O: coronary heart disease,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-1856401000006105,Coronary heart disease monitoring in secondary care,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
-1856391000006108,Coronary heart disease monitoring in primary care,Snomed Concept,Prevalent coronary/ischaemic heart disease                ,Aurum browser
+1576271000006101,Cause of Death- Myocardial Infarction,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+1539331000006102,H/O: coronary heart disease,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+1856401000006105,Coronary heart disease monitoring in secondary care,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
+1856391000006108,Coronary heart disease monitoring in primary care,Snomed Concept,Prevalent coronary/ischaemic heart disease,Aurum browser
 703212004,Acute myocardial infarction during procedure,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 868220007,Acute ST segment elevation myocardial infarction due to occlusion of mid portion of right coronary artery,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 868225002,Acute STEMI (ST elevation myocardial infarction) due to PDA (posterior descending artery) branch of RCA (right coronary artery) occlusion,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 64662007,Pulmonary infarct,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 64662007,Pulmonary infarction,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
 64662007,Infarct of lung,Snomed Concept,Emergency presentation of coronary/ischaemic heart disease,Aurum browser
-168939002,Coronary arteriography abnormal,Snomed Concept,Incident coronary/ischaemic heart disease                 ,Aurum browser
-14AL.00,H/O: Treatment for ischaemic heart disease,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-6A2..00,Coronary heart disease annual review,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-6A4..00,Coronary heart disease review,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-8B3k.00,Coronary heart disease medication review,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
+168939002,Coronary arteriography abnormal,Snomed Concept,Incident coronary/ischaemic heart disease,Aurum browser
+14AL.00,H/O: Treatment for ischaemic heart disease,Read,Prevalent coronary/ischaemic heart disease,Caliber
+6A2..00,Coronary heart disease annual review,Read,Prevalent coronary/ischaemic heart disease,Caliber
+6A4..00,Coronary heart disease review,Read,Prevalent coronary/ischaemic heart disease,Caliber
+8B3k.00,Coronary heart disease medication review,Read,Prevalent coronary/ischaemic heart disease,Caliber
 8H2V.00,Admit ischaemic heart disease emergency,Read,Emergency presentation of coronary/ischaemic heart disease,Caliber
-G3...00,Ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G3...11,Arteriosclerotic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G3...12,Atherosclerotic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G3...13,IHD - Ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G31..00,Other acute and subacute ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G311000,Myocardial infarction aborted,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G311011,MI - myocardial infarction aborted,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G31y.00,Other acute and subacute ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G31y200,Subendocardial ischaemia,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G31y300,Transient myocardial ischaemia,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G31yz00,Other acute and subacute ischaemic heart disease NOS,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G34..00,Other chronic ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G340.12,Coronary artery disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G343.00,Ischaemic cardiomyopathy,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G344.00,Silent myocardial ischaemia,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G34y.00,Other specified chronic ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G34y100,Chronic myocardial ischaemia,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G34yz00,Other specified chronic ischaemic heart disease NOS,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G34z.00,Other chronic ischaemic heart disease NOS,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G34z000,Asymptomatic coronary heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G3y..00,Other specified ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-G3z..00,Ischaemic heart disease NOS,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-Gyu3.00,[X]Ischaemic heart diseases,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-Gyu3200,[X]Other forms of acute ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-Gyu3300,[X]Other forms of chronic ischaemic heart disease,Read,Incident coronary/ischaemic heart disease                 ,Caliber
-14A3.00,H/O: myocardial infarct <60,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-14A4.00,H/O: myocardial infarct >60,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-14AH.00,H/O: Myocardial infarction in last year,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-G310.00,Postmyocardial infarction syndrome,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-G32..00,Old myocardial infarction,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-G32..11,Healed myocardial infarction,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-G32..12,Personal history of myocardial infarction,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-G33z500,Post infarct angina,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-G30..11,Attack - heart,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G30..14,Heart attack,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G30..17,Silent myocardial infarction,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G30A.00,Mural thrombosis,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
+G3...00,Ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G3...11,Arteriosclerotic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G3...12,Atherosclerotic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G3...13,IHD - Ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G31..00,Other acute and subacute ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G311000,Myocardial infarction aborted,Read,Incident coronary/ischaemic heart disease,Caliber
+G311011,MI - myocardial infarction aborted,Read,Incident coronary/ischaemic heart disease,Caliber
+G31y.00,Other acute and subacute ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G31y200,Subendocardial ischaemia,Read,Incident coronary/ischaemic heart disease,Caliber
+G31y300,Transient myocardial ischaemia,Read,Incident coronary/ischaemic heart disease,Caliber
+G31yz00,Other acute and subacute ischaemic heart disease NOS,Read,Incident coronary/ischaemic heart disease,Caliber
+G34..00,Other chronic ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G340.12,Coronary artery disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G343.00,Ischaemic cardiomyopathy,Read,Incident coronary/ischaemic heart disease,Caliber
+G344.00,Silent myocardial ischaemia,Read,Incident coronary/ischaemic heart disease,Caliber
+G34y.00,Other specified chronic ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G34y100,Chronic myocardial ischaemia,Read,Incident coronary/ischaemic heart disease,Caliber
+G34yz00,Other specified chronic ischaemic heart disease NOS,Read,Incident coronary/ischaemic heart disease,Caliber
+G34z.00,Other chronic ischaemic heart disease NOS,Read,Incident coronary/ischaemic heart disease,Caliber
+G34z000,Asymptomatic coronary heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G3y..00,Other specified ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+G3z..00,Ischaemic heart disease NOS,Read,Incident coronary/ischaemic heart disease,Caliber
+Gyu3.00,[X]Ischaemic heart diseases,Read,Incident coronary/ischaemic heart disease,Caliber
+Gyu3200,[X]Other forms of acute ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+Gyu3300,[X]Other forms of chronic ischaemic heart disease,Read,Incident coronary/ischaemic heart disease,Caliber
+14A3.00,H/O: myocardial infarct <60,Read,Prevalent coronary/ischaemic heart disease,Caliber
+14A4.00,H/O: myocardial infarct >60,Read,Prevalent coronary/ischaemic heart disease,Caliber
+14AH.00,H/O: Myocardial infarction in last year,Read,Prevalent coronary/ischaemic heart disease,Caliber
+G310.00,Postmyocardial infarction syndrome,Read,Prevalent coronary/ischaemic heart disease,Caliber
+G32..00,Old myocardial infarction,Read,Prevalent coronary/ischaemic heart disease,Caliber
+G32..11,Healed myocardial infarction,Read,Prevalent coronary/ischaemic heart disease,Caliber
+G32..12,Personal history of myocardial infarction,Read,Prevalent coronary/ischaemic heart disease,Caliber
+G33z500,Post infarct angina,Read,Prevalent coronary/ischaemic heart disease,Caliber
+G30..11,Attack - heart,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G30..14,Heart attack,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G30..17,Silent myocardial infarction,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G30A.00,Mural thrombosis,Read,Uncertain coronary/ischaemic heart disease,Caliber
 G30X000,Acute ST segment elevation myocardial infarction,Read,Emergency presentation of coronary/ischaemic heart disease,Caliber
 G307100,Acute non-ST segment elevation myocardial infarction,Read,Emergency presentation of coronary/ischaemic heart disease,Caliber
 323..00,ECG: myocardial infarction,Read,Emergency presentation of coronary/ischaemic heart disease,Caliber
@@ -382,114 +382,114 @@ G350.00,Subsequent myocardial infarction of anterior wall,Read,Emergency present
 G351.00,Subsequent myocardial infarction of inferior wall,Read,Emergency presentation of coronary/ischaemic heart disease,Caliber
 G353.00,Subsequent myocardial infarction of other sites,Read,Emergency presentation of coronary/ischaemic heart disease,Caliber
 G35X.00,Subsequent myocardial infarction of unspecified site,Read,Emergency presentation of coronary/ischaemic heart disease,Caliber
-G310.11,Dressler's syndrome,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-G36..00,Certain current complication follow acute myocardial infarct,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G360.00,Haemopericardium/current comp folow acut myocard infarct,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",Read,Uncertain coronary/ischaemic heart disease                ,Caliber
-G501.00,Post infarction pericarditis,Read,Prevalent coronary/ischaemic heart disease                ,Caliber
-G340100,Double coronary vessel disease,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-9Ob8.00,Coronary heart disease monitoring check done,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G311.13,Unstable angina,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-Gyu3000,[X]Other forms of angina pectoris,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-9Ob9.00,Coronary heart disease monitoring telephone invite,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-662N.00,CHD monitoring,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-662K100,Angina control - poor,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-662K000,Angina control - good,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-14A5.00,H/O: angina pectoris,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G311.00,Preinfarction syndrome,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G311z00,Preinfarction syndrome NOS,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-3232.00,ECG: old myocardial infarction,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-14AT.00,History of myocardial infarction,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G340.11,Triple vessel disease of the heart,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G311500,Acute coronary syndrome,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-9Ob2.00,Coronary heart disease monitoring default,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G33z700,Stable angina,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-8F91.00,Cardiac rehabilitation - phase 2,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G33zz00,Angina pectoris NOS,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-ZV57900,[V]Cardiac rehabilitation,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-662K300,Angina control - worsening,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G34y000,Chronic coronary insufficiency,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-44p2.00,Cardiac troponin positive,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G330000,Nocturnal angina,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-44H3000,Cardiac enzymes abnormal - first set,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-Z677.00,Cardiac rehabilitation class,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G33z400,Ischaemic chest pain,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-8Hkk.00,Referral to cardiac rehabilitation programme,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G330.00,Angina decubitus,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G33z300,Angina on effort,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-662..00,Cardiac disease monitoring,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-322..00,ECG: myocardial ischaemia,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G311400,Worsening angina,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-8I3a.00,Cardiac rehabilitation declined,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G311300,Refractory angina,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-44H3.00,Cardiac enzymes abnormal,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G330z00,Angina decubitus NOS,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G311.14,Angina at rest,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
+G310.11,Dressler's syndrome,Read,Prevalent coronary/ischaemic heart disease,Caliber
+G36..00,Certain current complication follow acute myocardial infarct,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G360.00,Haemopericardium/current comp folow acut myocard infarct,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G361.00,Atrial septal defect/curr comp folow acut myocardal infarct,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G362.00,Ventric septal defect/curr comp fol acut myocardal infarctn,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G363.00,Ruptur cardiac wall w'out haemopericard/cur comp fol ac MI,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G364.00,Ruptur chordae tendinae/curr comp fol acute myocard infarct,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G365.00,Rupture papillary muscle/curr comp fol acute myocard infarct,Read,Uncertain coronary/ischaemic heart disease,Caliber
+G366.00,"Thrombosis atrium,auric append&vent/curr comp foll acute MI",Read,Uncertain coronary/ischaemic heart disease,Caliber
+G501.00,Post infarction pericarditis,Read,Prevalent coronary/ischaemic heart disease,Caliber
+G340100,Double coronary vessel disease,Read,Incident coronary/ischaemic heart disease,Zghebi
+9Ob8.00,Coronary heart disease monitoring check done,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G311.13,Unstable angina,Read,Incident coronary/ischaemic heart disease,Zghebi
+Gyu3000,[X]Other forms of angina pectoris,Read,Incident coronary/ischaemic heart disease,Zghebi
+9Ob9.00,Coronary heart disease monitoring telephone invite,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+662N.00,CHD monitoring,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+662K100,Angina control - poor,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+662K000,Angina control - good,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+14A5.00,H/O: angina pectoris,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G311.00,Preinfarction syndrome,Read,Incident coronary/ischaemic heart disease,Zghebi
+G311z00,Preinfarction syndrome NOS,Read,Incident coronary/ischaemic heart disease,Zghebi
+3232.00,ECG: old myocardial infarction,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+14AT.00,History of myocardial infarction,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G340.11,Triple vessel disease of the heart,Read,Incident coronary/ischaemic heart disease,Zghebi
+G311500,Acute coronary syndrome,Read,Incident coronary/ischaemic heart disease,Zghebi
+9Ob2.00,Coronary heart disease monitoring default,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G33z700,Stable angina,Read,Incident coronary/ischaemic heart disease,Zghebi
+8F91.00,Cardiac rehabilitation - phase 2,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G33zz00,Angina pectoris NOS,Read,Incident coronary/ischaemic heart disease,Zghebi
+ZV57900,[V]Cardiac rehabilitation,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+662K300,Angina control - worsening,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G34y000,Chronic coronary insufficiency,Read,Incident coronary/ischaemic heart disease,Zghebi
+44p2.00,Cardiac troponin positive,Read,Incident coronary/ischaemic heart disease,Zghebi
+G330000,Nocturnal angina,Read,Incident coronary/ischaemic heart disease,Zghebi
+44H3000,Cardiac enzymes abnormal - first set,Read,Incident coronary/ischaemic heart disease,Zghebi
+Z677.00,Cardiac rehabilitation class,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G33z400,Ischaemic chest pain,Read,Incident coronary/ischaemic heart disease,Zghebi
+8Hkk.00,Referral to cardiac rehabilitation programme,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G330.00,Angina decubitus,Read,Incident coronary/ischaemic heart disease,Zghebi
+G33z300,Angina on effort,Read,Incident coronary/ischaemic heart disease,Zghebi
+662..00,Cardiac disease monitoring,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+322..00,ECG: myocardial ischaemia,Read,Incident coronary/ischaemic heart disease,Zghebi
+G311400,Worsening angina,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+8I3a.00,Cardiac rehabilitation declined,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G311300,Refractory angina,Read,Incident coronary/ischaemic heart disease,Zghebi
+44H3.00,Cardiac enzymes abnormal,Read,Incident coronary/ischaemic heart disease,Zghebi
+G330z00,Angina decubitus NOS,Read,Incident coronary/ischaemic heart disease,Zghebi
+G311.14,Angina at rest,Read,Incident coronary/ischaemic heart disease,Zghebi
 Gyu3500,[X]Subsequent myocardial infarction of other sites,Read,Emergency presentation of coronary/ischaemic heart disease,Zghebi
-8F90.00,Cardiac rehabilitation - phase 1,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-8IE3.00,Referral to cardiac rehabilitation programme declined,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-8IEY.00,Referral to Angina Plan self-management programme declined,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-9Ob6.00,Coronary heart disease monitoring verbal invitation,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-ZL62200,Referral to cardiac rehabilitation nurse,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G....12,Cardiac diseases,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-9Ob0.00,Attends coronary heart disease monitoring,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-662K.00,Angina control,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G33z600,New onset angina,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-182A.00,Chest pain on exertion,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-8I37.00,Coronary heart disease monitoring refused,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-662K200,Angina control - improving,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-8Hkl.00,Referral to cardiac rehabilitation service by secondary care,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-32B3.00,ECG: Q wave pathological,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
+8F90.00,Cardiac rehabilitation - phase 1,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+8IE3.00,Referral to cardiac rehabilitation programme declined,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+8IEY.00,Referral to Angina Plan self-management programme declined,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+9Ob6.00,Coronary heart disease monitoring verbal invitation,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+ZL62200,Referral to cardiac rehabilitation nurse,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G....12,Cardiac diseases,Read,Incident coronary/ischaemic heart disease,Zghebi
+9Ob0.00,Attends coronary heart disease monitoring,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+662K.00,Angina control,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G33z600,New onset angina,Read,Incident coronary/ischaemic heart disease,Zghebi
+182A.00,Chest pain on exertion,Read,Incident coronary/ischaemic heart disease,Zghebi
+8I37.00,Coronary heart disease monitoring refused,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+662K200,Angina control - improving,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+8Hkl.00,Referral to cardiac rehabilitation service by secondary care,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+32B3.00,ECG: Q wave pathological,Read,Prevalent coronary/ischaemic heart disease,Zghebi
 G383.00,Postoperative transmural myocardial infarction unspec site,Read,Emergency presentation of coronary/ischaemic heart disease,Zghebi
-322Z.00,ECG: myocardial ischaemia NOS,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G312.00,Coronary thrombosis not resulting in myocardial infarction,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G33z.00,Angina pectoris NOS,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G33..00,Angina pectoris,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G311.11,Crescendo angina,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-G33z200,Syncope anginosa,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-9Ob3.00,Coronary heart disease monitoring 1st letter,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-662Kz00,Angina control NOS,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G31y000,Acute coronary insufficiency,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-8F97.00,Cardiac rehabilitation programme completed,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-14AJ.00,H/O: Angina in last year,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-ZLA2200,Seen by cardiac rehabilitation nurse,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
+322Z.00,ECG: myocardial ischaemia NOS,Read,Incident coronary/ischaemic heart disease,Zghebi
+G312.00,Coronary thrombosis not resulting in myocardial infarction,Read,Incident coronary/ischaemic heart disease,Zghebi
+G33z.00,Angina pectoris NOS,Read,Incident coronary/ischaemic heart disease,Zghebi
+G33..00,Angina pectoris,Read,Incident coronary/ischaemic heart disease,Zghebi
+G311.11,Crescendo angina,Read,Incident coronary/ischaemic heart disease,Zghebi
+G33z200,Syncope anginosa,Read,Incident coronary/ischaemic heart disease,Zghebi
+9Ob3.00,Coronary heart disease monitoring 1st letter,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+662Kz00,Angina control NOS,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G31y000,Acute coronary insufficiency,Read,Incident coronary/ischaemic heart disease,Zghebi
+8F97.00,Cardiac rehabilitation programme completed,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+14AJ.00,H/O: Angina in last year,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+ZLA2200,Seen by cardiac rehabilitation nurse,Read,Prevalent coronary/ischaemic heart disease,Zghebi
 G311.12,Impending infarction,Read,Emergency presentation of coronary/ischaemic heart disease,Zghebi
-14AW.00,H/O acute coronary syndrome,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G33z000,Status anginosus,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-9Ob1.00,Refuses coronary heart disease monitoring,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-8CMP.00,Coronary heart disease care plan,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-9Ob5.00,Coronary heart disease monitoring 3rd letter,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-3222.00,ECG:shows myocardial ischaemia,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-8T04.00,Referral to Angina Plan self-management programme,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-9Ob..00,Coronary heart disease monitoring administration,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-8F98.00,Cardiac rehabilitation programme offered,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-187..00,Frequency of angina,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
+14AW.00,H/O acute coronary syndrome,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G33z000,Status anginosus,Read,Incident coronary/ischaemic heart disease,Zghebi
+9Ob1.00,Refuses coronary heart disease monitoring,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+8CMP.00,Coronary heart disease care plan,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+9Ob5.00,Coronary heart disease monitoring 3rd letter,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+3222.00,ECG:shows myocardial ischaemia,Read,Incident coronary/ischaemic heart disease,Zghebi
+8T04.00,Referral to Angina Plan self-management programme,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+9Ob..00,Coronary heart disease monitoring administration,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+8F98.00,Cardiac rehabilitation programme offered,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+187..00,Frequency of angina,Read,Incident coronary/ischaemic heart disease,Zghebi
 G574011,Cardiac arrest-ventricular fibrillation,Read,Emergency presentation of coronary/ischaemic heart disease,Zghebi
-8H7v.00,Referral to cardiac rehabilitation nurse,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G331.11,Variant angina pectoris,Read,Uncertain coronary/ischaemic heart disease                ,Zghebi
-8F9..00,Cardiac rehabilitation,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-ZL22200,Under care of cardiac rehabilitation nurse,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G311200,Angina at rest,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-8B27.00,Antianginal therapy,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G340000,Single coronary vessel disease,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-Gyu3600,[X]Subsequent myocardial infarction of unspecified site,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-8F93.00,Cardiac rehabilitation - phase 4,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-8F92.00,Cardiac rehabilitation - phase 3,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-661M000,Angina self-management plan agreed,Read,Prevalent coronary/ischaemic heart disease                ,Zghebi
-G311100,Unstable angina,Read,Incident coronary/ischaemic heart disease                 ,Zghebi
-Gyu3100,[X]Other current complicatns following acute myocard infarct,Read,Prevalent coronary/ischaemic heart disease                ,Gold browser
-C132200,Postinfarction panhypopituitarism,Read,Incident coronary/ischaemic heart disease                 ,Gold browser
-9Ob4.00,Coronary heart disease monitoring 2nd letter,Read,Prevalent coronary/ischaemic heart disease                ,Gold browser
-413,Angina pectoris,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-411.1,Intermediate coronary syndrome,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-413.0,Angina decubitus,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-413.9,Other and unspecified angina pectoris,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-429.6,Rupture of papillary muscle,ICD9,Uncertain coronary/ischaemic heart disease                ,ICD9 browser
+8H7v.00,Referral to cardiac rehabilitation nurse,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G331.11,Variant angina pectoris,Read,Uncertain coronary/ischaemic heart disease,Zghebi
+8F9..00,Cardiac rehabilitation,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+ZL22200,Under care of cardiac rehabilitation nurse,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G311200,Angina at rest,Read,Incident coronary/ischaemic heart disease,Zghebi
+8B27.00,Antianginal therapy,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G340000,Single coronary vessel disease,Read,Incident coronary/ischaemic heart disease,Zghebi
+Gyu3600,[X]Subsequent myocardial infarction of unspecified site,Read,Incident coronary/ischaemic heart disease,Zghebi
+8F93.00,Cardiac rehabilitation - phase 4,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+8F92.00,Cardiac rehabilitation - phase 3,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+661M000,Angina self-management plan agreed,Read,Prevalent coronary/ischaemic heart disease,Zghebi
+G311100,Unstable angina,Read,Incident coronary/ischaemic heart disease,Zghebi
+Gyu3100,[X]Other current complicatns following acute myocard infarct,Read,Prevalent coronary/ischaemic heart disease,Gold browser
+C132200,Postinfarction panhypopituitarism,Read,Incident coronary/ischaemic heart disease,Gold browser
+9Ob4.00,Coronary heart disease monitoring 2nd letter,Read,Prevalent coronary/ischaemic heart disease,Gold browser
+413,Angina pectoris,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+411.1,Intermediate coronary syndrome,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+413.0,Angina decubitus,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+413.9,Other and unspecified angina pectoris,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+429.6,Rupture of papillary muscle,ICD9,Uncertain coronary/ischaemic heart disease,ICD9 browser
 410,Acute myocardial infarction,ICD9,Emergency presentation of coronary/ischaemic heart disease,ICD9 browser
 410.0,Acute myocardial infarction of anterolateral wall,ICD9,Emergency presentation of coronary/ischaemic heart disease,ICD9 browser
 410.1,Acute myocardial infarction of other anterior wall,ICD9,Emergency presentation of coronary/ischaemic heart disease,ICD9 browser
@@ -501,54 +501,54 @@ C132200,Postinfarction panhypopituitarism,Read,Incident coronary/ischaemic heart
 410.7,Subendocardial infarction,ICD9,Emergency presentation of coronary/ischaemic heart disease,ICD9 browser
 410.8,Acute myocardial infarction of other specified sites,ICD9,Emergency presentation of coronary/ischaemic heart disease,ICD9 browser
 410.9,Acute myocardial infarction - unspecified site,ICD9,Emergency presentation of coronary/ischaemic heart disease,ICD9 browser
-429.7,Certain sequelae of myocardial infarction - not elsewhere classified,ICD9,Uncertain coronary/ischaemic heart disease                ,ICD9 browser
-411,Other acute and subacute forms of ischemic heart disease,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-411.0,Dressler syndrome,ICD9,Prevalent coronary/ischaemic heart disease                ,ICD9 browser
-411.8,Other acute and subacute forms of ischemic heart disease - Other,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-412,Old myocardial infarction,ICD9,Prevalent coronary/ischaemic heart disease                ,ICD9 browser
-414,Other forms of chronic ischaemic heart disease,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-414.0,Coronary atherosclerosis,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-414.2,Chronic total occlusion of coronary artery,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-414.3,Coronary atherosclerosis due to lipid rich plaque,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-414.8,Other specified forms of chronic ischemic heart disease,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-414.9,Chronic ischemic heart disease - unspecified,ICD9,Incident coronary/ischaemic heart disease                 ,ICD9 browser
-429.5,Rupture of chordae tendinae,ICD9,Uncertain coronary/ischaemic heart disease                ,ICD9 browser
-I20,Angina pectoris,ICD10,Incident coronary/ischaemic heart disease                 ,Nhs
-I200,Unstable angina,ICD10,Incident coronary/ischaemic heart disease                 ,
-I201,Angina pectoris with documented spasm,ICD10,Incident coronary/ischaemic heart disease                 ,
-I208,Other forms of angina pectoris,ICD10,Incident coronary/ischaemic heart disease                 ,
-I209,Angina pectoris - unspecified,ICD10,Incident coronary/ischaemic heart disease                 ,
+429.7,Certain sequelae of myocardial infarction - not elsewhere classified,ICD9,Uncertain coronary/ischaemic heart disease,ICD9 browser
+411,Other acute and subacute forms of ischemic heart disease,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+411.0,Dressler syndrome,ICD9,Prevalent coronary/ischaemic heart disease,ICD9 browser
+411.8,Other acute and subacute forms of ischemic heart disease - Other,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+412,Old myocardial infarction,ICD9,Prevalent coronary/ischaemic heart disease,ICD9 browser
+414,Other forms of chronic ischaemic heart disease,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+414.0,Coronary atherosclerosis,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+414.2,Chronic total occlusion of coronary artery,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+414.3,Coronary atherosclerosis due to lipid rich plaque,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+414.8,Other specified forms of chronic ischemic heart disease,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+414.9,Chronic ischemic heart disease - unspecified,ICD9,Incident coronary/ischaemic heart disease,ICD9 browser
+429.5,Rupture of chordae tendinae,ICD9,Uncertain coronary/ischaemic heart disease,ICD9 browser
+I20,Angina pectoris,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I200,Unstable angina,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I201,Angina pectoris with documented spasm,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I208,Other forms of angina pectoris,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I209,Angina pectoris - unspecified,ICD10,Incident coronary/ischaemic heart disease,Nhs
 I21,Acute myocardial infarction,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
-I210,Acute transmural myocardial infarction of anterior wall,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I211,Acute transmural myocardial infarction of inferior wall,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I212,Acute transmural myocardial infarction of other sites,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I213,Acute transmural myocardial infarction of unspecified site,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I214,Acute subendocardial myocardial infarction,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I219,Acute myocardial infarction - unspecified,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I22,Subsequent myocardial infarction,ICD10,Incident coronary/ischaemic heart disease                 ,Nhs
-I220,Subsequent myocardial infarction of anterior wall,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I221,Subsequent myocardial infarction of inferior wall,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I228,Subsequent myocardial infarction of other sites,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I229,Subsequent myocardial infarction of unspecified site,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I23,Certain current complications following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,Nhs
-I230,Haemopericardium as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,
-I231,Atrial septal defect as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,
-I232,Ventricular septal defect as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,
-I233,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,
-I234,Rupture of chordae tendineae as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,
-I235,Rupture of papillary muscle as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,
-I236,Thrombosis of atrium auricular appendage and ventricle as current complications following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,
-I238,Other current complications following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease                ,
-I24,Other acute ischaemic heart diseases,ICD10,Incident coronary/ischaemic heart disease                 ,Nhs
-I240,Coronary thrombosis not resulting in myocardial infarction,ICD10,Emergency presentation of coronary/ischaemic heart disease,
-I241,Dressler syndrome,ICD10,Prevalent coronary/ischaemic heart disease                ,
-I248,Other forms of acute ischaemic heart disease,ICD10,Incident coronary/ischaemic heart disease                 ,
-I249,Acute ischaemic heart disease - unspecified,ICD10,Incident coronary/ischaemic heart disease                 ,
-I25,Chronic ischaemic heart disease,ICD10,Incident coronary/ischaemic heart disease                 ,Nhs
-I250,Atherosclerotic cardiovascular disease so described,ICD10,Incident coronary/ischaemic heart disease                 ,
-I252,Old myocardial infarction,ICD10,Prevalent coronary/ischaemic heart disease                ,
-I251,Atherosclerotic heart disease,ICD10,Incident coronary/ischaemic heart disease                 ,
-I255,Ischaemic cardiomyopathy,ICD10,Incident coronary/ischaemic heart disease                 ,
-I256,Silent myocardial ischaemia,ICD10,Incident coronary/ischaemic heart disease                 ,
-I258,Other forms of chronic ischaemic heart disease,ICD10,Incident coronary/ischaemic heart disease                 ,
-I259,Chronic ischaemic heart disease - unspecified,ICD10,Incident coronary/ischaemic heart disease                 ,
+I210,Acute transmural myocardial infarction of anterior wall,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I211,Acute transmural myocardial infarction of inferior wall,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I212,Acute transmural myocardial infarction of other sites,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I213,Acute transmural myocardial infarction of unspecified site,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I214,Acute subendocardial myocardial infarction,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I219,Acute myocardial infarction - unspecified,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I22,Subsequent myocardial infarction,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I220,Subsequent myocardial infarction of anterior wall,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I221,Subsequent myocardial infarction of inferior wall,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I228,Subsequent myocardial infarction of other sites,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I229,Subsequent myocardial infarction of unspecified site,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I23,Certain current complications following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I230,Haemopericardium as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I231,Atrial septal defect as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I232,Ventricular septal defect as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I233,Rupture of cardiac wall without haemopericardium as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I234,Rupture of chordae tendineae as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I235,Rupture of papillary muscle as current complication following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I236,Thrombosis of atrium auricular appendage and ventricle as current complications following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I238,Other current complications following acute myocardial infarction,ICD10,Uncertain coronary/ischaemic heart disease,Nhs
+I24,Other acute ischaemic heart diseases,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I240,Coronary thrombosis not resulting in myocardial infarction,ICD10,Emergency presentation of coronary/ischaemic heart disease,Nhs
+I241,Dressler syndrome,ICD10,Prevalent coronary/ischaemic heart disease,Nhs
+I248,Other forms of acute ischaemic heart disease,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I249,Acute ischaemic heart disease - unspecified,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I25,Chronic ischaemic heart disease,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I250,Atherosclerotic cardiovascular disease so described,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I252,Old myocardial infarction,ICD10,Prevalent coronary/ischaemic heart disease,Nhs
+I251,Atherosclerotic heart disease,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I255,Ischaemic cardiomyopathy,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I256,Silent myocardial ischaemia,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I258,Other forms of chronic ischaemic heart disease,ICD10,Incident coronary/ischaemic heart disease,Nhs
+I259,Chronic ischaemic heart disease - unspecified,ICD10,Incident coronary/ischaemic heart disease,Nhs

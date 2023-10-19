@@ -33,6 +33,6 @@ G511.00,Acute and subacute infective endocarditis in diseases EC,Read,Incident s
 421.0,Acute and subacute bacterial endocarditis,ICD9,Incident subacute bacterial endocarditis,ICD9 browser
 421,Acute and subacute endocarditis,ICD9,Incident subacute bacterial endocarditis,ICD9 browser
 421.9,"Acute endocarditis,unspecified",ICD9,Incident subacute bacterial endocarditis,ICD9 browser
-I330,Acute and subacute infective endocarditis,ICD10,Incident subacute bacterial endocarditis,
+I330,Acute and subacute infective endocarditis,ICD10,Incident subacute bacterial endocarditis,ICD10 browser
 I33,Acute and subacute endocarditis,ICD10,Incident subacute bacterial endocarditis,ICD10 browser
-I339,"Acute endocarditis,unspecified",ICD10,Incident subacute bacterial endocarditis,
+I339,"Acute endocarditis,unspecified",ICD10,Incident subacute bacterial endocarditis,ICD10 browser

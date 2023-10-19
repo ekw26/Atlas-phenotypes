@@ -1,30 +1,30 @@
 code,term,codetype,category,source
-23502006,Lyme disease,Snomed Concept,Incident Lyme disease ,Snomed browser
-23502006,Lyme borreliosis,Snomed Concept,Incident Lyme disease ,Snomed browser
-240668005,Borreliosis,Snomed Concept,Incident Lyme disease ,Snomed browser
-735520000,Disseminated infection caused by Borrelia (disorder),Snomed Concept,Incident Lyme disease ,Snomed browser
-788974002,Late manifestations of infection of skin caused by Borrelia (disorder),Snomed Concept,Incident Lyme disease ,Snomed browser
-733166004,Infection of skin caused by Borrelia (disorder),Snomed Concept,Incident Lyme disease ,Snomed browser
-788959004,Infection of eye caused by Borrelia (disorder),Snomed Concept,Incident Lyme disease ,Snomed browser
+23502006,Lyme disease,Snomed Concept,Incident Lyme disease,Snomed browser
+23502006,Lyme borreliosis,Snomed Concept,Incident Lyme disease,Snomed browser
+240668005,Borreliosis,Snomed Concept,Incident Lyme disease,Snomed browser
+735520000,Disseminated infection caused by Borrelia (disorder),Snomed Concept,Incident Lyme disease,Snomed browser
+788974002,Late manifestations of infection of skin caused by Borrelia (disorder),Snomed Concept,Incident Lyme disease,Snomed browser
+733166004,Infection of skin caused by Borrelia (disorder),Snomed Concept,Incident Lyme disease,Snomed browser
+788959004,Infection of eye caused by Borrelia (disorder),Snomed Concept,Incident Lyme disease,Snomed browser
 33937009,Lyme arthritis,Snomed Concept,Prevalent Lyme disease,Aurum browser
 33937009,Arthritis in Lyme disease,Snomed Concept,Prevalent Lyme disease,Aurum browser
-76327009,Borrelia burgdorferi,Snomed Concept,Incident Lyme disease ,Aurum browser
+76327009,Borrelia burgdorferi,Snomed Concept,Incident Lyme disease,Aurum browser
 77863005,Lyme carditis,Snomed Concept,Prevalent Lyme disease,Aurum browser
-112277009,Borrelia,Snomed Concept,Incident Lyme disease ,Aurum browser
-715507005,Lyme neuroborreliosis,Snomed Concept,Incident Lyme disease ,Aurum browser
-718373005,Borrelial lymphocytoma,Snomed Concept,Incident Lyme disease ,Aurum browser
-69588003,Erythema migrans,Snomed Concept,Incident Lyme disease ,Aurum browser
-69588003,ECM - Erythema chronicum migrans,Snomed Concept,Incident Lyme disease ,Aurum browser
-69588003,Erythema chronica migrans,Snomed Concept,Incident Lyme disease ,Aurum browser
-A871000,Lyme disease,Read,Incident Lyme disease ,Cairns
-A871011,Lyme borreliosis,Read,Incident Lyme disease ,Gold browser
-AA41.11,Erythema migrans,Read,Incident Lyme disease ,Gold browser
+112277009,Borrelia,Snomed Concept,Incident Lyme disease,Aurum browser
+715507005,Lyme neuroborreliosis,Snomed Concept,Incident Lyme disease,Aurum browser
+718373005,Borrelial lymphocytoma,Snomed Concept,Incident Lyme disease,Aurum browser
+69588003,Erythema migrans,Snomed Concept,Incident Lyme disease,Aurum browser
+69588003,ECM - Erythema chronicum migrans,Snomed Concept,Incident Lyme disease,Aurum browser
+69588003,Erythema chronica migrans,Snomed Concept,Incident Lyme disease,Aurum browser
+A871000,Lyme disease,Read,Incident Lyme disease,Cairns
+A871011,Lyme borreliosis,Read,Incident Lyme disease,Gold browser
+AA41.11,Erythema migrans,Read,Incident Lyme disease,Gold browser
 N010A11,Lyme arthritis,Read,Prevalent Lyme disease,Cairns
-A871100,Lyme neuroborreliosis,Read,Incident Lyme disease ,Gold browser
+A871100,Lyme neuroborreliosis,Read,Incident Lyme disease,Gold browser
 A871200,Lyme carditis,Read,Prevalent Lyme disease,Gold browser
 N010A00,Arthritis in Lyme disease,Read,Prevalent Lyme disease,Gold browser
-A871300,Borrelial lymphocytoma,Read,Incident Lyme disease ,Gold browser
-AA41.00,Erythema chronicum migrans,Read,Incident Lyme disease ,Cairns
-088.8,Other specified arthropod-borne diseases,ICD9,Incident Lyme disease ,
-A692,Lyme disease,ICD10,Incident Lyme disease ,
-M012,Arthritis in Lyme disease,ICD10,Prevalent Lyme disease,
+A871300,Borrelial lymphocytoma,Read,Incident Lyme disease,Gold browser
+AA41.00,Erythema chronicum migrans,Read,Incident Lyme disease,Cairns
+088.8,Other specified arthropod-borne diseases,ICD9,Incident Lyme disease,ICD9 browser
+A692,Lyme disease,ICD10,Incident Lyme disease,ICD10 browser
+M012,Arthritis in Lyme disease,ICD10,Prevalent Lyme disease,ICD10 browser

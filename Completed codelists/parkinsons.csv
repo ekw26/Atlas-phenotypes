@@ -1,32 +1,32 @@
 code,term,codetype,category,source
-49049000,Parkinson's disease,Snomed Concept,Incident Parkinson's disease ,Head
-49049000,Paralysis agitans,Snomed Concept,Incident Parkinson's disease ,Head
-49049000,Parkinson's disease NOS,Snomed Concept,Incident Parkinson's disease ,Head
-49049000,[X]Parkinsonism in diseases classified elsewhere,Snomed Concept,Incident Parkinson's disease ,Head
-49049000,Idiopathic Parkinson's disease,Snomed Concept,Incident Parkinson's disease ,Head
-49049000,Parkinson disease,Snomed Concept,Incident Parkinson's disease ,Head
-49049000,Parkinsons disease,Snomed Concept,Incident Parkinson's disease ,Head
-905821000006108,[RFC] Parkinson's disease,Snomed Concept,Incident Parkinson's disease ,Head
-909021000006101,[RFC] Parkinson's disease,Snomed Concept,Incident Parkinson's disease ,Head
+49049000,Parkinson's disease,Snomed Concept,Incident Parkinson's disease,Head
+49049000,Paralysis agitans,Snomed Concept,Incident Parkinson's disease,Head
+49049000,Parkinson's disease NOS,Snomed Concept,Incident Parkinson's disease,Head
+49049000,[X]Parkinsonism in diseases classified elsewhere,Snomed Concept,Incident Parkinson's disease,Head
+49049000,Idiopathic Parkinson's disease,Snomed Concept,Incident Parkinson's disease,Head
+49049000,Parkinson disease,Snomed Concept,Incident Parkinson's disease,Head
+49049000,Parkinsons disease,Snomed Concept,Incident Parkinson's disease,Head
+905821000006108,[RFC] Parkinson's disease,Snomed Concept,Incident Parkinson's disease,Head
+909021000006101,[RFC] Parkinson's disease,Snomed Concept,Incident Parkinson's disease,Head
 425390006,Dementia in Parkinsons disease,Snomed Concept,Prevalent Parkinson's disease,Head
 425390006,Dementia associated with Parkinson's Disease,Snomed Concept,Prevalent Parkinson's disease,Head
 425390006,Dementia associated with Parkinson Disease,Snomed Concept,Prevalent Parkinson's disease,Head
 341551000000108,Cerebral degeneration in Parkinson's disease,Snomed Concept,Prevalent Parkinson's disease,Head
 101421000119107,Dementia due to Parkinson's disease,Snomed Concept,Prevalent Parkinson's disease,Nhs
 101421000119107,Dementia due to Parkinsons disease,Snomed Concept,Prevalent Parkinson's disease,Nhs
-32798002,Parkinsonism,Snomed Concept,Incident Parkinson's disease ,Aurum browser
-715345007,Early onset Parkinson disease,Snomed Concept,Incident Parkinson's disease ,Aurum browser
-720466001,Adult-onset dystonia parkinsonism,Snomed Concept,Incident Parkinson's disease ,Aurum browser
-722964001,Atypical Parkinsonism,Snomed Concept,Incident Parkinson's disease ,Aurum browser
+32798002,Parkinsonism,Snomed Concept,Incident Parkinson's disease,Aurum browser
+715345007,Early onset Parkinson disease,Snomed Concept,Incident Parkinson's disease,Aurum browser
+720466001,Adult-onset dystonia parkinsonism,Snomed Concept,Incident Parkinson's disease,Aurum browser
+722964001,Atypical Parkinsonism,Snomed Concept,Incident Parkinson's disease,Aurum browser
 515841000000104,History of Parkinson's disease,Snomed Concept,Prevalent Parkinson's disease,Aurum browser
 147F.00,History of Parkinson's disease,Read,Prevalent Parkinson's disease,Caliber
 Eu02300,[X]Dementia in Parkinson's disease,Read,Prevalent Parkinson's disease,Caliber
 F11x900,Cerebral degeneration in Parkinson's disease,Read,Prevalent Parkinson's disease,Caliber
-F120.00,Paralysis agitans,Read,Incident Parkinson's disease ,Caliber
-F12..00,Parkinson's disease,Read,Incident Parkinson's disease ,Caliber
-F12z.00,Parkinson's disease NOS,Read,Incident Parkinson's disease ,Caliber
-F130300,Parkinsonism with orthostatic hypotension,Read,Incident Parkinson's disease ,Gold browser
-332,Parkinson's disease,ICD9,Incident Parkinson's disease ,ICD9 browser
-332.0,Paralysis agitans,ICD9,Incident Parkinson's disease ,ICD9 browser
-F023,Dementia in Parkinson's disease,ICD10,Prevalent Parkinson's disease ,
+F120.00,Paralysis agitans,Read,Incident Parkinson's disease,Caliber
+F12..00,Parkinson's disease,Read,Incident Parkinson's disease,Caliber
+F12z.00,Parkinson's disease NOS,Read,Incident Parkinson's disease,Caliber
+F130300,Parkinsonism with orthostatic hypotension,Read,Incident Parkinson's disease,Gold browser
+332,Parkinson's disease,ICD9,Incident Parkinson's disease,ICD9 browser
+332.0,Paralysis agitans,ICD9,Incident Parkinson's disease,ICD9 browser
+F023,Dementia in Parkinson's disease,ICD10,Prevalent Parkinson's disease,Caliber
 G20,Parkinson's disease,ICD10,Incident Parkinson's disease,Caliber

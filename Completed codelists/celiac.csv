@@ -1,45 +1,54 @@
-code,description,codetype,source,category
-K90.0,Coeliac disease,ICD10,Caliber,Incident celiac disease
-579.0,Coeliac disease,ICD9,ICD9 browser,Incident celiac disease
-J690.00,Coeliac disease,Read,Caliber,Incident celiac disease
-J690.11,Coeliac rickets,Read,Caliber,Incident celiac disease
-J690.12,Gee-Herter disese,Read,Caliber,Incident celiac disease
-J690.13,Gluten enteropathy,Read,Caliber,Incident celiac disease
-J690.14,Sprue - nontropical,Read,Caliber,Incident celiac disease
-J690.15,Steatorrhea - idiopathic,Read,Caliber,Incident celiac disease
-J690000,Congenital coeliac disease,Read,Caliber,Incident celiac disease
-J690100,Acquired coeliac disease,Read,Caliber,Incident celiac disease
-J690z00,Coeliac disease NOS,Read,Caliber,Incident celiac disease
-ZC2C200,Dietary advice for coeliac disease,Read,Caliber,Incident celiac disease
-6648.00,Coeliac disease monitoring,Read,Caliber,Prevalent celiac disease
-6648000,Coeliac disease annual review,Read,Caliber,Prevalent celiac disease
-8IAp.00,Coeliac disease annual review declined,Read,Caliber,Prevalent celiac disease
-9mB..00,Coeliac disease monitoring invitation,Read,Caliber,Prevalent celiac disease
-9mB1.00,Coeliac disease monitoring invitation first letter,Read,Caliber,Prevalent celiac disease
-9mB2.00,Coeliac disease monitoring invitation second letter,Read,Gold browser,Prevalent celiac disease
-1745841000006103,Coeliac disease monitoring administration,Snomed,Aurum browser,Prevalent celiac disease
-1745851000006101,Coeliac disease monitoring 1st letter,Snomed,Aurum browser,Prevalent celiac disease
-1745861000006104,Coeliac disease monitoring 2nd letter,Snomed,Aurum browser,Prevalent celiac disease
-1745871000006106,Coeliac disease monitoring 3rd letter,Snomed,Aurum browser,Prevalent celiac disease
-1745881000006109,Coeliac disease monitoring phone invite,Snomed,Aurum browser,Prevalent celiac disease
-289134009,Coeliac disease diet education,Snomed,Aurum browser,Prevalent celiac disease
-750891000000107,Coeliac disease monitoring telephone invitation,Snomed,Aurum browser,Prevalent celiac disease
-752321000000102,Coeliac disease monitoring invitation second letter,Snomed,Aurum browser,Prevalent celiac disease
-752341000000109,Coeliac disease monitoring invitation third letter,Snomed,Aurum browser,Prevalent celiac disease
-197478000,Congenital coeliac disease,Snomed,Head,Incident celiac disease
-197479008,Acquired coeliac disease,Snomed,Head,Incident celiac disease
-275404008,Coeliac rickets,Snomed,Head,Incident celiac disease
-396331005,Coeliac disease,Snomed,Head,Incident celiac disease
-45259000,Gee-Herter disese,Snomed,Head,Incident celiac disease
-66187002,Steatorrhea - idiopathic,Snomed,Head,Incident celiac disease
-1745891000006107,coeliac disease annual review declined,Snomed,Head,Prevalent celiac disease
-1747701000006103,coeliac disease monitoring,Snomed,Head,Prevalent celiac disease
-1747711000006100,coeliac disease annual review,Snomed,Head,Prevalent celiac disease
-473213008,Coeliac disease annual review,Snomed,Head,Prevalent celiac disease
-703970007,Coeliac disease monitoring,Snomed,Head,Prevalent celiac disease
-750871000000108,Coeliac disease monitoring invitation,Snomed,Head,Prevalent celiac disease
-750911000000105,Coeliac disease annual review declined,Snomed,Head,Prevalent celiac disease
-752301000000106,Coeliac disease monitoring invitation first letter,Snomed,Head,Prevalent celiac disease
-770593004,Refractory celiac disease (disorder),Snomed,Snomed browser,Incident celiac disease
-91867008,Adult form of coeliac disease (disorder),Snomed,Snomed browser,Incident celiac disease
-1148861009,Iron deficiency anemia due to celiac disease (disorder),Snomed,Snomed browser,Prevalent celiac disease
+code,term,codetype,category,source
+1747711000006100,Coeliac disease annual review,Snomed Concept,Prevalent celiac disease,Head
+1745891000006107,Coeliac disease annual review declined,Snomed Concept,Prevalent celiac disease,Head
+1747701000006103,Coeliac disease monitoring,Snomed Concept,Prevalent celiac disease,Head
+703970007,Coeliac disease monitoring,Snomed Concept,Prevalent celiac disease,Head
+473213008,Coeliac disease annual review,Snomed Concept,Prevalent celiac disease,Head
+750911000000105,Coeliac disease annual review declined,Snomed Concept,Prevalent celiac disease,Head
+750871000000108,Coeliac disease monitoring invitation,Snomed Concept,Prevalent celiac disease,Head
+752301000000106,Coeliac disease monitoring invitation first letter,Snomed Concept,Prevalent celiac disease,Head
+396331005,Coeliac disease NOS,Snomed Concept,Incident celiac disease ,Head
+396331005,Coeliac disease,Snomed Concept,Incident celiac disease ,Head
+396331005,Gluten enteropathy,Snomed Concept,Incident celiac disease ,Head
+396331005,Sprue - nontropical,Snomed Concept,Incident celiac disease ,Head
+396331005,Celiac disease,Snomed Concept,Incident celiac disease ,Head
+396331005,CD - Coeliac disease,Snomed Concept,Incident celiac disease ,Head
+396331005,Idiopathic steatorrhoea,Snomed Concept,Incident celiac disease ,Head
+396331005,Coeliac syndrome,Snomed Concept,Incident celiac disease ,Head
+396331005,Gluten-sensitive enteropathy,Snomed Concept,Incident celiac disease ,Head
+275404008,Coeliac rickets,Snomed Concept,Incident celiac disease ,Head
+45259000,Gee - Herter disease,Snomed Concept,Incident celiac disease ,Head
+45259000,Coeliac infantilism,Snomed Concept,Incident celiac disease ,Head
+66187002,[D]Fat in stool,Snomed Concept,Incident celiac disease ,Head
+66187002,Fatty stool,Snomed Concept,Incident celiac disease ,Head
+66187002,Steatorrhoea,Snomed Concept,Incident celiac disease ,Head
+197478000,Congenital coeliac disease,Snomed Concept,Incident celiac disease ,Head
+197479008,Acquired coeliac disease,Snomed Concept,Incident celiac disease ,Head
+91867008,Adult form of coeliac disease,Snomed Concept,Incident celiac disease ,Snomed browser
+750891000000107,Coeliac disease monitoring telephone invitation,Snomed Concept,Prevalent celiac disease,Aurum browser
+752321000000102,Coeliac disease monitoring invitation second letter,Snomed Concept,Prevalent celiac disease,Aurum browser
+752341000000109,Coeliac disease monitoring invitation third letter,Snomed Concept,Prevalent celiac disease,Aurum browser
+1745841000006103,Coeliac disease monitoring administration,Snomed Concept,Prevalent celiac disease,Aurum browser
+1745851000006101,Coeliac disease monitoring 1st letter,Snomed Concept,Prevalent celiac disease,Aurum browser
+1745861000006104,Coeliac disease monitoring 2nd letter,Snomed Concept,Prevalent celiac disease,Aurum browser
+1745871000006106,Coeliac disease monitoring 3rd letter,Snomed Concept,Prevalent celiac disease,Aurum browser
+1745881000006109,Coeliac disease monitoring phone invite,Snomed Concept,Prevalent celiac disease,Aurum browser
+289134009,Coeliac disease diet education,Snomed Concept,Prevalent celiac disease,Aurum browser
+6648000,Coeliac disease annual review,Read,Prevalent celiac disease,Caliber
+6648.00,Coeliac disease monitoring,Read,Prevalent celiac disease,Caliber
+8IAp.00,Coeliac disease annual review declined,Read,Prevalent celiac disease,Caliber
+9mB1.00,Coeliac disease monitoring invitation first letter,Read,Prevalent celiac disease,Caliber
+9mB..00,Coeliac disease monitoring invitation,Read,Prevalent celiac disease,Caliber
+J690000,Congenital coeliac disease,Read,Incident celiac disease ,Caliber
+J690100,Acquired coeliac disease,Read,Incident celiac disease ,Caliber
+J690.00,Coeliac disease,Read,Incident celiac disease ,Caliber
+J690.11,Coeliac rickets,Read,Incident celiac disease ,Caliber
+J690.12,Gee - Herter disease,Read,Incident celiac disease ,Caliber
+J690.13,Gluten enteropathy,Read,Incident celiac disease ,Caliber
+J690.14,Sprue - nontropical,Read,Incident celiac disease ,Caliber
+J690.15,Steatorrhea - idiopathic,Read,Incident celiac disease ,Caliber
+J690z00,Coeliac disease NOS,Read,Incident celiac disease ,Caliber
+ZC2C200,Dietary advice for coeliac disease,Read,Incident celiac disease ,Caliber
+9mB2.00,Coeliac disease monitoring invitation second letter,Read,Prevalent celiac disease,Gold browser
+579.0,Coeliac disease,ICD9,Incident celiac disease ,ICD9 browser
+K900,Coeliac disease,ICD10,Incident celiac disease ,

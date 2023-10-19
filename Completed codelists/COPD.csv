@@ -1,255 +1,323 @@
-code,description,codetype,source,category
-J41,Simple and mucopurulent chronic bronchitis,ICD10,Caliber,Incident chronic obstructive pulmonary disorder
-J42,Unspecified chronic bronchitis,ICD10,Caliber,Incident chronic obstructive pulmonary disorder
-J43,Emphysema,ICD10,Caliber,Incident chronic obstructive pulmonary disorder
-J44,Other chronic obstructive pulmonary disease,ICD10,Caliber,Incident chronic obstructive pulmonary disorder
-J41.0,Simple chronic bronchitis,ICD10,ICD10 browser,Incident chronic obstructive pulmonary disorder
-J41.1,Mucopurulent chronic bronchitis,ICD10,ICD10 browser,Incident chronic obstructive pulmonary disorder
-J41.8,Mixed simple and mucopurulent chronic bronchitis,ICD10,ICD10 browser,Incident chronic obstructive pulmonary disorder
-J43.0,MacLeod syndrome,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-J43.1,Panlobular emphysema,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-J43.2,Centrilobular emphysema,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-J43.8,Other emphysema,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-J43.9,Emphysema - unspecified,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-J44.0,Chronic obstructive pulmonary disease with acute lower respiratory infection,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-J44.1,Chronic obstructive pulmonary disease with acute exacerbation - unspecified,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-J44.8,Other specified chronic obstructive pulmonary disease,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-J44.9,Chronic obstructive pulmonary disease - unspecified,ICD10,Nhs,Incident chronic obstructive pulmonary disorder
-491,Simple and mucopurulent chronic bronchitis,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-491.0,Simple chronic bronchitis,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-491.1,Mucopurulent chronic bronchitis,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-491.2,Obstructive chronic bronchitis,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-491.20,Obstructive chronic bronchitis without exacerbation,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-491.21,Obstructive chronic bronchitis with (acute) exacerbation,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-491.22,Obstructive chronic bronchitis with acute bronchitis,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-491.8,Other chronic bronchitis,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-491.9,Unspecified chronic bronchitis,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-492,Emphysema,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-492.0,Emphysematous bleb,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-492.8,Other emphysema,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-496,Chronic airway obstruction - not elsewhere classified,ICD9,ICD9 browser,Incident chronic obstructive pulmonary disorder
-H3...00,Chronic obstructive pulmonary disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H3...11,Chronic obstructive airways disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H31..00,Chronic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H310.00,Simple chronic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H310000,Chronic catarrhal bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H310z00,Simple chronic bronchitis NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H311.00,Mucopurulent chronic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H311000,Purulent chronic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H311100,Fetid chronic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H311z00,Mucopurulent chronic bronchitis NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H312.00,Obstructive chronic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H312000,Chronic asthmatic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H312011,Chronic wheezy bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H312100,Emphysematous bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H312200,Acute exacerbation of chronic obstructive airways disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H312300,Bronchiolitis obliterans,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H312z00,Obstructive chronic bronchitis NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H313.00,Mixed simple and mucopurulent chronic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H31y.00,Other chronic bronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H31y100,Chronic tracheobronchitis,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H31yz00,Other chronic bronchitis NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H31z.00,Chronic bronchitis NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H32..00,Emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H320.00,Chronic bullous emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H320000,Segmental bullous emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H320100,Zonal bullous emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H320200,Giant bullous emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H320300,Bullous emphysema with collapse,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H320z00,Chronic bullous emphysema NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H321.00,Panlobular emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H322.00,Centrilobular emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H32y.00,Other emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H32y000,Acute vesicular emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H32y100,Atrophic (senile) emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H32y111,Acute interstitial emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H32y200,MacLeod's unilateral emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H32yz00,Other emphysema NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H32z.00,Emphysema NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H36..00,Mild chronic obstructive pulmonary disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H37..00,Moderate chronic obstructive pulmonary disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H38..00,Severe chronic obstructive pulmonary disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H39..00,Very severe chronic obstructive pulmonary disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H3A..00,End stage chronic obstructive airways disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H3y..00,Other specified chronic obstructive airways disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H3y..11,Other specified chronic obstructive pulmonary disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H3y0.00,Chronic obstruct pulmonary dis with acute lower resp infectn,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H3y1.00,Chron obstruct pulmonary dis wth acute exacerbation - unspec,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H3z..00,Chronic obstructive airways disease NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H3z..11,Chronic obstructive pulmonary disease NOS,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H464000,Chronic emphysema due to chemical fumes,Read,Caliber,Incident chronic obstructive pulmonary disorder
-H464100,Obliterative bronchiolitis due to chemical fumes,Read,Caliber,Incident chronic obstructive pulmonary disorder
-Hyu3000,[X]Other emphysema,Read,Caliber,Incident chronic obstructive pulmonary disorder
-Hyu3100,[X]Other specified chronic obstructive pulmonary disease,Read,Caliber,Incident chronic obstructive pulmonary disorder
-14B3.12,History of chronic obstructive pulmonary disease,Read,Caliber,Prevalent chronic obstructive pulmonary disorder
-661M300,COPD self-management plan agreed,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-661N300,COPD self-management plan review,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YB.00,Chronic obstructive pulmonary disease monitoring,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YB000,Chronic obstructive pulmonary disease 3 monthly review,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YB100,Chronic obstructive pulmonary disease 6 monthly review,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YB200,Telehealth chronic obstructive pulmonary disease monitoring,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YD.00,Chronic obstructive pulmonary disease monitoring due,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YI.00,COPD self-management plan given,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YL.00,Chronic obstructive pulmonary disease follow-up,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YL.11,COPD follow-up,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YM.00,Chronic obstructive pulmonary disease annual review,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YS.00,Chronic obstructive pulmonary disease monitoring by nurse,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66YT.00,Chronic obstructive pulmonary disease monitoring by doctor,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66Yd.00,COPD accident and emergency attendance since last visit,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66Ye.00,Emergency COPD admission since last appointment,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66Yf.00,Number of COPD exacerbations in past year,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66Yg.00,Chronic obstructive pulmonary disease disturbs sleep,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66Yh.00,Chronic obstructive pulmonary disease does not disturb sleep,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66Yi.00,Multiple COPD emergency hospital admissions,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-66Yz200,Shared care chronic obstructive pulmonary disease monitoring,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-8CMV.00,Has chronic obstructive pulmonary disease care plan,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-8CMW500,Chronic obstructive pulmonary disease care pathway,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-8CR1.00,Chronic obstructive pulmonary disease clini management plan,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-8CeD.00,Preferred place of care for next exacerbation of COPD,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-8H2R.00,Admit COPD emergency,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-8IEZ.00,Chronic obstructive pulmonary disease rescue pack declined,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9N4W.00,DNA - Did not attend COPD clinic,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9NgP.00,On chronic obstructive pulmonary disease supprtv cre pathway,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9NgP.11,On COPD (chr obstruc pulmonary disease) supportv cre pathway,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9Oi0.00,Chronic obstructive pulmonary disease monitoring 1st letter,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9Oi1.00,Chronic obstructive pulmonary disease monitoring 2nd letter,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9Oi2.00,Chronic obstructive pulmonary disease monitoring 3rd letter,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9Oi3.00,Chronic obstructive pulmonary disease monitoring verb invite,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9Oi4.00,Chronic obstructive pulmonary disease monitor phone invite,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9e03.00,GP OOH service notified of COPD care plan,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9h52.00,Excepted from COPD quality indicators: Informed dissent,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9kf..00,COPD - enhanced services administration,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-9kf0.11,COPD patient unsuitable for pulmonary rehabilitation,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-H581.00,Interstitial emphysema,Read,Gold browser,Prevalent chronic obstructive pulmonary disorder
-1J71.00,Suspected chronic obstructive pulmonary disease,Read,Gold browser,suspected
-106001000119101,Chronic obstructive lung disease co-occurrent with acute bronchitis,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-1097861000000108,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-1097871000000101,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group A,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-1097881000000104,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group B,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-1097891000000102,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group C,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-1097901000000101,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group D,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-16846004,Obstructive emphysema,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-49158009,Emphysema,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-719218000,Bronchiolitis obliterans organising pneumonia,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-785736001,Chronic bronchitis co-occurrent with wheeze,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-851261000006100,Chronic bronchitis - acute exac,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-909721000006104,[RFC] Emphysema,Snomed,Aurum browser,Incident chronic obstructive pulmonary disorder
-1065151000000105,Number of hospital admissions due to COPD (chronic obstructive pulmonary disease) in past year,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1066231000000103,Chronic obstructive pulmonary disease monitoring email invitation,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1066281000000104,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message invitation,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1066821000000101,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message first invitation,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1066841000000108,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message second invitation,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1066851000000106,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message third invitation,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1771201000006100,Chronic obstructive pulmonary disease multidisciplinary review,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1822171000006107,COPD pathway protocol not followed,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1839331000006101,Seen in chronic obstructive pulmonary disease clinic,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1856491000006103,Chronic obstructive pulmonary disease monitoring in primary care,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1856501000006106,Chronic obstructive pulmonary disease monitoring secondary care,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1856581000006102,Chronic obstructive pulmonary disease monitoring default,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1880061000006106,COPD management plan declined,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-1882371000006102,Shared care chronic obstructive pulmonary disease monitoring,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-198401000000104,COPD (chronic obstructive pulmonary disease) disturbs sleep,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-270473001,History of chronic obstructive airway disease,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-293241000119100,Acute exacerbation of chronic obstructive bronchitis,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-371611000000107,COPD (Chronic obstructive pulmonary disease) patient unsuitable for pulmonary rehabilitation,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-383611000000102,At risk of COPD (chronic obstructive pulmonary disease) exacerbation,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-390891009,COPD self-management plan given,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-394702007,COPD follow-up,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-408501008,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-473202005,Optimisation of medication for chronic obstructive pulmonary disease,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-473223004,Chronic obstructive lung disorder medication review,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-702839006,Chronic obstructive pulmonary disease clinic,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-704121003,Step up change in chronic obstructive pulmonary disease management plan,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-711431000000109,Chronic obstructive pulmonary disease monitoring invitation,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-716291000000101,Excepted from COPD quality indicators - informed dissent,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-716358000,Telehealth chronic obstructive pulmonary disease monitoring,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-753941000000104,Discussion about chronic obstructive pulmonary disease exacerbation plan,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-760601000000107,COPD (chronic obstructive pulmonary disease) 3 monthly review,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-760621000000103,COPD (chronic obstructive pulmonary disease) 6 monthly review,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-783631000000109,General practitioner out of hours service notified of chronic obstructive pulmonary disease care plan,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-789661000000102,Preferred place of care for next exacerbation of chronic obstructive pulmonary disease,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-811961000000106,Chronic obstructive pulmonary disease self-management plan agreed,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-820341000000109,Chronic obstructive pulmonary disease rescue pack not indicated,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-826111000000109,On chronic obstructive pulmonary disease supportive care pathway,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-827571000000106,Has chronic obstructive pulmonary disease care plan,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-848431000000106,Chronic obstructive pulmonary disease care pathway,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-857791000000103,Chronic obstructive pulmonary disease rescue pack declined,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-857811000000102,Chronic obstructive pulmonary disease written self management plan declined,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-857821000000108,Chronic obstructive pulmonary disease self management plan not appropriate,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-859431000000102,Chronic obstructive pulmonary disease care assessment,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-892321000000109,Chronic obstructive pulmonary disease management plan declined,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-897311000000101,Shared care COPD (chronic obstructive pulmonary disease) monitoring,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-939991000006108,COPD medication review,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-940131000006102,COPD monitoring administration,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-940141000006107,COPD monitoring invite 1,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-940151000006109,COPD monitoring invite 2,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-940161000006106,COPD monitoring invite 3,Snomed,Aurum browser,Prevalent chronic obstructive pulmonary disorder
-204991000000107,Suspected COPD,Snomed,Aurum browser,suspected
-11932331000006104,COPD GOLD group A,Snomed,Head,Incident chronic obstructive pulmonary disorder
-11932341000006109,COPD GOLD group B,Snomed,Head,Incident chronic obstructive pulmonary disorder
-11932351000006106,COPD GOLD group C,Snomed,Head,Incident chronic obstructive pulmonary disorder
-11932361000006108,COPD GOLD group D,Snomed,Head,Incident chronic obstructive pulmonary disorder
-135836000,End stage chronic obstructive airways disease,Snomed,Head,Incident chronic obstructive pulmonary disorder
-13645005,COPD - Chronic obstructive pulmonary disease,Snomed,Head,Incident chronic obstructive pulmonary disorder
-16003001,Giant bullous emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-1823851000006103,Chronic obstructive pulmonary disease confirmed,Snomed,Head,Incident chronic obstructive pulmonary disorder
-185086009,obstructive chronic bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-1856591000006104,Chronic obstructive pulmonary disease follow-up assessment,Snomed,Head,Incident chronic obstructive pulmonary disorder
-195949008,Chronic asthmatic bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-195951007,Acute exacerbation of chronic obstructive airways disease,Snomed,Head,Incident chronic obstructive pulmonary disorder
-195953005,Mixed simple and mucopurulent chronic bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-195957006,Chronic bullous emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-195958001,Segmental bullous emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-195959009,Zonal bullous emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-195963002,Acute vesicular emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-196001008,Chronic obstruct pulmonary dis with acute lower resp infectn,Snomed,Head,Incident chronic obstructive pulmonary disorder
-196026004,Chronic emphysema due to chemical fumes,Snomed,Head,Incident chronic obstructive pulmonary disorder
-196027008,Obliterative bronchiolitis due to chemical fumes,Snomed,Head,Incident chronic obstructive pulmonary disorder
-266355005,Bullous emphysema with collapse,Snomed,Head,Incident chronic obstructive pulmonary disorder
-266356006,Atrophic (senile) emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-293991000000106,Very severe chronic obstructive pulmonary disease,Snomed,Head,Incident chronic obstructive pulmonary disorder
-313296004,Mild chronic obstructive pulmonary disease,Snomed,Head,Incident chronic obstructive pulmonary disorder
-313297008,Moderate chronic obstructive pulmonary disease,Snomed,Head,Incident chronic obstructive pulmonary disorder
-313299006,Severe chronic obstructive pulmonary disease,Snomed,Head,Incident chronic obstructive pulmonary disorder
-40100001,Bronchiolitis obliterans,Snomed,Head,Incident chronic obstructive pulmonary disorder
-45145000,MacLeod's unilateral emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-4981000,Panlobular emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-52571006,Chronic tracheobronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-611541000000106,Chronic obst. pulm. dis. NOS,Snomed,Head,Incident chronic obstructive pulmonary disorder
-61937009,Simple chronic bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-63480004,Chronic bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-68328006,Centrilobular emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-74417001,Mucopurulent chronic bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-77690003,Acute interstitial emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-84409004,fetid chronic bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-866901000000103,Eosinophilic bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-87433001,Emphysema,Snomed,Head,Incident chronic obstructive pulmonary disorder
-89549007,Chronic catarrhal bronchitis,Snomed,Head,Incident chronic obstructive pulmonary disorder
-909711000006107,[RFC] Chronic obstructive pulmonary disease (COPD),Snomed,Head,Incident chronic obstructive pulmonary disorder
-110011000000107,Did not attend chronic obstructive pulmonary disease clinic,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-1771441000006102,COPD patient experience discussed,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-1856571000006100,Chronic obstructive pulmonary disease severity,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-1877361000006100,COPD clinical management plan no longer in place,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-1882421000006109,1 COPD exacerbation in past year,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-1882431000006107,3+ COPD exacerbations in past year,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-1882441000006102,2 COPD exacerbations in past year,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-1882451000006100,No COPD exacerbations in past year,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-2009451000006109,Chronic obstructive pulmonary disease post discharge review,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-2009501000006106,Suitable for step down change in COPD management plan,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-2009511000006109,Not suitable for step down change in COPD management plan,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-285381006,Acute infective exacerbation of chronic obstructive airways disease,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-704123000,Step down change in chronic obstructive pulmonary disease management plan,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-810951000000101,COPD (chronic obstructive pulmonary disease) self-management plan review,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-847091000000104,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease),Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-857661000000104,Seen in COPD (chronic obstructive pulmonary disease) clinic,Snomed,Head,Prevalent chronic obstructive pulmonary disorder
-233674008,Pulmonary emphysema in alpha-1 primary immunodeficiency deficiency (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-233675009,Toxic emphysema (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-233677001,Scar emphysema (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-31898008,Paraseptal emphysema (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-33325001,Compensatory emphysema (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-360470001,Chronic mucus hypersecretion (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-425748003,Acute exacerbation of chronic bronchitis (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-49691004,Occupational bronchitis (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-7457009,Chronic tracheitis (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-83271005,Chronic laryngotracheitis (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
-89099002,Chronic allergic bronchitis (disorder),Snomed,Nhs,Incident chronic obstructive pulmonary disorder
+code,term,codetype,category,source
+1882421000006109,1 COPD exacerbation in past year,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+1882441000006102,2 COPD exacerbations in past year,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+1882431000006107,3+ COPD exacerbations in past year,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+285381006,Acute infective exacerbation of chronic obstructive airways disease,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+847091000000104,Acute non-infective exacerbation of chronic obstructive pulmonary disease,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+847091000000104,Acute non-infective exacerbation of COPD (chronic obstructive pulmonary disease),Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+810951000000101,Chronic obstructive pulmonary disease self-management plan review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+810951000000101,COPD (chronic obstructive pulmonary disease) self-management plan review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+13645005,Other specified chronic obstructive airways disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic obstructive airway disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,[X]Other specified chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Other specified chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic obstructive pulmonary disease NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,COAD - Chronic obstructive airways disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic obst. pulm. dis. NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chr. airway obstruction NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic obstructive lung disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic airway obstruction,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic airflow obstruction,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,CAFL - Chronic airflow limitation,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic airflow limitation,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,COPD - Chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+13645005,Chronic airway disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+11932331000006104,COPD GOLD group A,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+11932341000006109,COPD GOLD group B,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+11932351000006106,COPD GOLD group C,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+11932361000006108,COPD GOLD group D,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+1877361000006100,COPD clinical management plan no longer in place,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+1771441000006102,COPD patient experience discussed,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+611541000000106,Chr. airway obstruction NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+611541000000106,Chronic obst. pulm. dis. NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+1823851000006103,Chronic obstructive pulmonary disease confirmed,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+1856591000006104,Chronic obstructive pulmonary disease follow-up assessment,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+2009451000006109,Chronic obstructive pulmonary disease post discharge review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+1856571000006100,Chronic obstructive pulmonary disease severity,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+110011000000107,DNA - Did not attend chronic obstructive pulmonary disease clinic,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+110011000000107,Did not attend chronic obstructive pulmonary disease clinic,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+1882451000006100,No COPD exacerbations in past year,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+2009511000006109,Not suitable for step down change in COPD management plan,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+857661000000104,Seen in chronic obstructive pulmonary disease clinic,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+857661000000104,Seen in COPD (chronic obstructive pulmonary disease) clinic,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+704123000,Step down change in chronic obstructive pulmonary disease management plan,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+2009501000006106,Suitable for step down change in COPD management plan,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Head
+909711000006107,[RFC] Chronic obstructive pulmonary disease (COPD),Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+84409004,Fetid chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+84409004,Purulent chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+84409004,Fetid chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+185086009,Emphysematous bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+185086009,Obstructive chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+185086009,Obstructive chronic bronchitis NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+185086009,Chronic obstructive bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+63480004,Chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+63480004,Other chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+63480004,Other chronic bronchitis NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+63480004,Chronic bronchitis NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+61937009,Simple chronic bronchitis NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+61937009,Simple chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+89549007,Chronic catarrhal bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+89549007,Catarrhal bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+74417001,Mucopurulent chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+74417001,Mucopurulent chronic bronchitis NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+74417001,Mucopurulent chr. bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195949008,Chronic asthmatic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195949008,Chronic wheezy bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195949008,Recurrent wheezy bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195951007,Acute exacerbation of chronic obstructive airways disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195951007,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195951007,Acute exacerbation of COPD,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195951007,Acute exacerbation of chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+40100001,Obliterating fibrous bronchiolitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+40100001,Bronchiolitis obliterans,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+40100001,Obliterative bronchiolitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195953005,Mixed simple and mucopurulent chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+52571006,Chronic tracheobronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+87433001,Other emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+87433001,Emphysema NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+87433001,[X]Other emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+87433001,Other emphysema NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+87433001,Pulmonary emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+87433001,Emphysema of lung,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195957006,Chronic bullous emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195957006,Chronic bullous emphysema NOS,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195957006,Emphysematous bulla,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195957006,Bullous emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195958001,Segmental bullous emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195959009,Zonal bullous emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+16003001,Giant bullous emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+266355005,Bullous emphysema with collapse,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+4981000,Panlobular emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+68328006,Centrilobular emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+68328006,Centriacinar emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+195963002,Acute vesicular emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+266356006,Atrophic (senile) emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+77690003,Interstitial pulmonary emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+77690003,Acute interstitial emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+77690003,Interstitial emphysema of lung,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+45145000,MacLeod's unilateral emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+45145000,Sawyer - Jones syndrome,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+45145000,Unilateral emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+45145000,Swyer-James syndrome,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+313296004,Mild chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+313297008,Moderate chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+313299006,Severe chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+293991000000106,Very severe chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+135836000,End stage chronic obstructive airways disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+135836000,End stage chronic obstructive pulmonary disease,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+196001008,Chronic obstructive pulmonary disease with acute lower respiratory infection,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+196026004,Chronic emphysema due to chemical fumes,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+196027008,Obliterative bronchiolitis due to chemical fumes,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+196027008,Toxic bronchiolitis obliterans,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+866901000000103,Eosinophilic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Head
+425748003,Acute exacerbation of chronic bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+83271005,Chronic laryngotracheitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+360470001,Chronic mucus hypersecretion,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+7457009,Chronic tracheitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+33325001,Compensatory emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+31898008,Paraseptal emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+31898008,Subpleural emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+233674008,Pulmonary emphysema in alpha-1 PI deficiency,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+233677001,Scar emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+233675009,Toxic emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+233675009,Chemical emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Nhs
+716291000000101,Excepted from COPD quality indicators - informed dissent,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+390891009,Chronic obstructive pulmonary disease monitoring,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+390891009,COPD self-management plan given,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+394702007,Chronic obstructive pulmonary disease follow-up,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+394702007,COAD follow-up,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+394702007,COPD follow-up,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+939991000006108,COPD medication review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+940131000006102,COPD monitoring administration,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+940141000006107,COPD monitoring invite 1,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+940151000006109,COPD monitoring invite 2,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+940161000006106,COPD monitoring invite 3,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+371611000000107,Chronic obstructive pulmonary disease patient unsuitable for pulmonary rehabilitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+371611000000107,COPD patient unsuitable for pulmonary rehabilitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+371611000000107,COPD (Chronic obstructive pulmonary disease) patient unsuitable for pulmonary rehabilitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+826111000000109,On chronic obstructive pulmonary disease supportive care pathway,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+826111000000109,On COPD (chronic obstructive pulmonary disease) supportive care pathway,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1822171000006107,COPD pathway protocol not followed,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1880061000006106,COPD management plan declined,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+408501008,Emergency hospital admission for chronic obstructive pulmonary disease,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+408501008,Emergency hospital admission for COPD (chronic obstructive pulmonary disease),Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+198401000000104,Chronic obstructive pulmonary disease disturbs sleep,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+198401000000104,COPD (chronic obstructive pulmonary disease) disturbs sleep,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+383611000000102,At risk of chronic obstructive pulmonary disease exacerbation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+383611000000102,At risk of COPD (chronic obstructive pulmonary disease) exacerbation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+760601000000107,Chronic obstructive pulmonary disease 3 monthly review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+760601000000107,COPD (chronic obstructive pulmonary disease) 3 monthly review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+760621000000103,Chronic obstructive pulmonary disease 6 monthly review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+760621000000103,COPD (chronic obstructive pulmonary disease) 6 monthly review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+848431000000106,Chronic obstructive pulmonary disease care pathway,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+848431000000106,COPD (chronic obstructive pulmonary disease) care pathway,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+857791000000103,Chronic obstructive pulmonary disease rescue pack declined,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+857791000000103,COPD (chronic obstructive pulmonary disease) rescue pack declined,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+859431000000102,Chronic obstructive pulmonary disease care assessment,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+859431000000102,COPD (chronic obstructive pulmonary disease) care assessment,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1065151000000105,Number of hospital admissions due to COPD (chronic obstructive pulmonary disease) in past year,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1066281000000104,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message invitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1066821000000101,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message first invitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1066841000000108,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message second invitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1066851000000106,COPD (chronic obstructive pulmonary disease) monitoring SMS (short message service) text message third invitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+270473001,H/O: chr.obstr. airway disease,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+270473001,History of chronic obstructive pulmonary disease,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+270473001,History of chronic obstructive airway disease,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1771201000006100,Chronic obstructive pulmonary disease multidisciplinary review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+473202005,Optimisation of medication for chronic obstructive pulmonary disease,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+789661000000102,Preferred place of care for next exacerbation of chronic obstructive pulmonary disease,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+783631000000109,General practitioner out of hours service notified of chronic obstructive pulmonary disease care plan,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+811961000000106,Chronic obstructive pulmonary disease self-management plan agreed,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+820341000000109,Chronic obstructive pulmonary disease rescue pack not indicated,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1839331000006101,Seen in chronic obstructive pulmonary disease clinic,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1856491000006103,Chronic obstructive pulmonary disease monitoring in primary care,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1856501000006106,Chronic obstructive pulmonary disease monitoring secondary care,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1856581000006102,Chronic obstructive pulmonary disease monitoring default,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1882371000006102,Shared care chronic obstructive pulmonary disease monitoring,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+857811000000102,Chronic obstructive pulmonary disease written self management plan declined,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+892321000000109,Chronic obstructive pulmonary disease management plan declined,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+827571000000106,Has chronic obstructive pulmonary disease care plan,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+897311000000101,Shared care chronic obstructive pulmonary disease monitoring,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+897311000000101,Shared care COPD (chronic obstructive pulmonary disease) monitoring,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+716358000,Telehealth chronic obstructive pulmonary disease monitoring,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+473223004,Chronic obstructive lung disorder medication review,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+702839006,Chronic obstructive pulmonary disease clinic,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+704121003,Step up change in chronic obstructive pulmonary disease management plan,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+106001000119101,Chronic obstructive lung disease co-occurrent with acute bronchitis,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+293241000119100,Acute exacerbation of chronic obstructive bronchitis,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+711431000000109,Chronic obstructive pulmonary disease monitoring invitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+753941000000104,Discussion about chronic obstructive pulmonary disease exacerbation plan,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+857821000000108,Chronic obstructive pulmonary disease self management plan not appropriate,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1066231000000103,Chronic obstructive pulmonary disease monitoring email invitation,Snomed Concept,Prevalent chronic obstructive pulmonary disorder,Aurum browser
+1097861000000108,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+1097871000000101,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group A,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+1097891000000102,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group C,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+1097881000000104,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group B,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+1097901000000101,GOLD (Global Initiative for Chronic Obstructive Lung Disease) 2017 group D,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+851261000006100,"Chronic bronchitis, acute exac",Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+785736001,Chronic bronchitis co-occurrent with wheeze,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+719218000,Cryptogenic organising pneumonia,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+719218000,Bronchiolitis obliterans organising pneumonia,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+909721000006104,[RFC] Emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+16846004,Obstructive emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+49158009,Emphysema,Snomed Concept,Incident chronic obstructive pulmonary disorder ,Aurum browser
+14B3.12,History of chronic obstructive pulmonary disease,Read,Prevalent chronic obstructive pulmonary disorder,Caliber
+H310000,Chronic catarrhal bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H310.00,Simple chronic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H310z00,Simple chronic bronchitis NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H311000,Purulent chronic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H311100,Fetid chronic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H311.00,Mucopurulent chronic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H311z00,Mucopurulent chronic bronchitis NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H312000,Chronic asthmatic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H312011,Chronic wheezy bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H312100,Emphysematous bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H312200,Acute exacerbation of chronic obstructive airways disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H312300,Bronchiolitis obliterans,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H312.00,Obstructive chronic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H312z00,Obstructive chronic bronchitis NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H313.00,Mixed simple and mucopurulent chronic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H31..00,Chronic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H31y100,Chronic tracheobronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H31y.00,Other chronic bronchitis,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H31yz00,Other chronic bronchitis NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H31z.00,Chronic bronchitis NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H320000,Segmental bullous emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H320100,Zonal bullous emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H320200,Giant bullous emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H320300,Bullous emphysema with collapse,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H320.00,Chronic bullous emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H320z00,Chronic bullous emphysema NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H321.00,Panlobular emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H322.00,Centrilobular emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H32..00,Emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H32y000,Acute vesicular emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H32y100,Atrophic (senile) emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H32y111,Acute interstitial emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H32y200,MacLeod's unilateral emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H32y.00,Other emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H32yz00,Other emphysema NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H32z.00,Emphysema NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H36..00,Mild chronic obstructive pulmonary disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H37..00,Moderate chronic obstructive pulmonary disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H38..00,Severe chronic obstructive pulmonary disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H39..00,Very severe chronic obstructive pulmonary disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3A..00,End stage chronic obstructive airways disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3...00,Chronic obstructive pulmonary disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3...11,Chronic obstructive airways disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3y0.00,Chronic obstruct pulmonary dis with acute lower resp infectn,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3y1.00,"Chron obstruct pulmonary dis wth acute exacerbation, unspec",Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3y..00,Other specified chronic obstructive airways disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3y..11,Other specified chronic obstructive pulmonary disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3z..00,Chronic obstructive airways disease NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H3z..11,Chronic obstructive pulmonary disease NOS,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H464000,Chronic emphysema due to chemical fumes,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+H464100,Obliterative bronchiolitis due to chemical fumes,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+Hyu3000,[X]Other emphysema,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+Hyu3100,[X]Other specified chronic obstructive pulmonary disease,Read,Incident chronic obstructive pulmonary disorder ,Caliber
+9h52.00,Excepted from COPD quality indicators: Informed dissent,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+8H2R.00,Admit COPD emergency,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+661N300,COPD self-management plan review,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9NgP.11,On COPD (chr obstruc pulmonary disease) supportv cre pathway,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+8CeD.00,Preferred place of care for next exacerbation of COPD,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YI.00,COPD self-management plan given,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9e03.00,GP OOH service notified of COPD care plan,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66Yi.00,Multiple COPD emergency hospital admissions,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66Yd.00,COPD accident and emergency attendance since last visit,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66Yf.00,Number of COPD exacerbations in past year,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YL.11,COPD follow-up,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9kf..00,COPD - enhanced services administration,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9N4W.00,DNA - Did not attend COPD clinic,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+661M300,COPD self-management plan agreed,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66Ye.00,Emergency COPD admission since last appointment,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9kf0.11,COPD patient unsuitable for pulmonary rehabilitation,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9Oi1.00,Chronic obstructive pulmonary disease monitoring 2nd letter,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+8IEZ.00,Chronic obstructive pulmonary disease rescue pack declined,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9Oi2.00,Chronic obstructive pulmonary disease monitoring 3rd letter,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YD.00,Chronic obstructive pulmonary disease monitoring due,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YM.00,Chronic obstructive pulmonary disease annual review,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9Oi3.00,Chronic obstructive pulmonary disease monitoring verb invite,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YT.00,Chronic obstructive pulmonary disease monitoring by doctor,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9Oi4.00,Chronic obstructive pulmonary disease monitor phone invite,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YL.00,Chronic obstructive pulmonary disease follow-up,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9NgP.00,On chronic obstructive pulmonary disease supprtv cre pathway,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+8CMV.00,Has chronic obstructive pulmonary disease care plan,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+8CR1.00,Chronic obstructive pulmonary disease clini management plan,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YS.00,Chronic obstructive pulmonary disease monitoring by nurse,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66Yz200,Shared care chronic obstructive pulmonary disease monitoring,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66Yh.00,Chronic obstructive pulmonary disease does not disturb sleep,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+8CMW500,Chronic obstructive pulmonary disease care pathway,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YB200,Telehealth chronic obstructive pulmonary disease monitoring,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YB.00,Chronic obstructive pulmonary disease monitoring,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+9Oi0.00,Chronic obstructive pulmonary disease monitoring 1st letter,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YB100,Chronic obstructive pulmonary disease 6 monthly review,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66Yg.00,Chronic obstructive pulmonary disease disturbs sleep,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+66YB000,Chronic obstructive pulmonary disease 3 monthly review,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+H581.00,Interstitial emphysema,Read,Prevalent chronic obstructive pulmonary disorder,Gold browser
+491,Simple and mucopurulent chronic bronchitis,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+491.9,Unspecified chronic bronchitis,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+492,Emphysema,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+491.2,Obstructive chronic bronchitis,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+496,Chronic airway obstruction - not elsewhere classified,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+492.8,Other emphysema,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+492.0,Emphysematous bleb,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+491.0,Simple chronic bronchitis,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+491.1,Mucopurulent chronic bronchitis,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+491.8,Other chronic bronchitis,ICD9,Incident chronic obstructive pulmonary disorder ,ICD9 browser
+J41,Simple and mucopurulent chronic bronchitis,ICD10,Incident chronic obstructive pulmonary disorder ,Caliber
+J42,Unspecified chronic bronchitis,ICD10,Incident chronic obstructive pulmonary disorder ,Caliber
+J43,Emphysema,ICD10,Incident chronic obstructive pulmonary disorder ,Caliber
+J44,Other chronic obstructive pulmonary disease,ICD10,Incident chronic obstructive pulmonary disorder ,Caliber
+J440,Chronic obstructive pulmonary disease with acute lower respiratory infection,ICD10,Incident chronic obstructive pulmonary disorder ,
+J441,Chronic obstructive pulmonary disease with acute exacerbation - unspecified,ICD10,Incident chronic obstructive pulmonary disorder ,
+J448,Other specified chronic obstructive pulmonary disease,ICD10,Incident chronic obstructive pulmonary disorder ,
+J449,Chronic obstructive pulmonary disease - unspecified,ICD10,Incident chronic obstructive pulmonary disorder ,
+J430,MacLeod syndrome,ICD10,Incident chronic obstructive pulmonary disorder ,
+J431,Panlobular emphysema,ICD10,Incident chronic obstructive pulmonary disorder ,
+J432,Centrilobular emphysema,ICD10,Incident chronic obstructive pulmonary disorder ,
+J438,Other emphysema,ICD10,Incident chronic obstructive pulmonary disorder ,
+J439,Emphysema - unspecified,ICD10,Incident chronic obstructive pulmonary disorder ,
+J410,Simple chronic bronchitis,ICD10,Incident chronic obstructive pulmonary disorder ,
+J411,Mucopurulent chronic bronchitis,ICD10,Incident chronic obstructive pulmonary disorder ,
+J418,Mixed simple and mucopurulent chronic bronchitis,ICD10,Incident chronic obstructive pulmonary disorder ,

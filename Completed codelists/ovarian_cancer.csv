@@ -1,47 +1,62 @@
-code,description,codetype,source,category
-C56,Malignant neoplasm of ovary,ICD10,Caliber,Incident ovarian cancer
-183.0,Malignant neoplasm of ovary,ICD9,ICD9 browser,Incident ovarian cancer
-B440.00,Malignant neoplasm of ovary,Read,Caliber,Incident ovarian cancer
-B440.11,Cancer of ovary,Read,Caliber,Incident ovarian cancer
-BBQA100,"[M]Struma ovarii, malignant",Read,Caliber,Incident ovarian cancer
-D212000,Anaemia in ovarian carcinoma,Read,Caliber,Prevalent ovarian cancer
-ZV10414,[V]Personal history of malignant neoplasm of ovary,Read,Caliber,Prevalent ovarian cancer
-B44..00,Malignant neoplasm of ovary and other uterine adnexa,Read,Gold browser,Incident ovarian cancer
-15635721000119108,Primary malignant neoplasm of both ovaries,Snomed,Aurum browser,Incident ovarian cancer
-254849005,Carcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-254850005,Serous papillary cystadenocarcinoma ovary,Snomed,Aurum browser,Incident ovarian cancer
-254851009,Mucinous cystadenocarcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-254852002,Endometrioid carcinoma ovary,Snomed,Aurum browser,Incident ovarian cancer
-254856004,Undifferentiated carcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-254860001,Malignant sex cord tumour of ovary,Snomed,Aurum browser,Incident ovarian cancer
-254869000,Malignant germ cell tumor of ovary,Snomed,Aurum browser,Incident ovarian cancer
-254870004,Choriocarcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-254874008,Dysgerminoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-314191009,Cystadenocarcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-369522002,Primary malignant neoplasm of left ovary,Snomed,Aurum browser,Incident ovarian cancer
-369529006,Primary malignant neoplasm of right ovary,Snomed,Aurum browser,Incident ovarian cancer
-369605005,Malignant tumour involving an organ by separate metastasis from ovary,Snomed,Aurum browser,Incident ovarian cancer
-385364001,FIGO ovarian tumor stage finding,Snomed,Aurum browser,Incident ovarian cancer
-422782004,"Ovarian cancer, disseminated",Snomed,Aurum browser,Incident ovarian cancer
-423274005,Ovarian cancer stage 4,Snomed,Aurum browser,Incident ovarian cancer
-423480004,Ovarian cancer stage 3,Snomed,Aurum browser,Incident ovarian cancer
-424600001,"Cancer of ovary, stage 1",Snomed,Aurum browser,Incident ovarian cancer
-446526009,Debulking of neoplasm of ovary,Snomed,Aurum browser,Incident ovarian cancer
-533411000000108,Ca ovary/other uterine adnexa,Snomed,Aurum browser,Incident ovarian cancer
-573671000000104,Ca ovary/uterine adnexa NOS,Snomed,Aurum browser,Incident ovarian cancer
-702368000,Carcinosarcoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-722684000,Primary low grade serous adenocarcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-722685004,Primary high grade serous adenocarcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-733361001,Primary mucinous adenocarcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-763131005,Clear cell adenocarcinoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-827162007,Malignant immature teratoma of ovary,Snomed,Aurum browser,Incident ovarian cancer
-907041000006102,[RFC] Cancer of the ovary,Snomed,Aurum browser,Incident ovarian cancer
-93934004,Primary malignant neoplasm of ovary,Snomed,Aurum browser,Incident ovarian cancer
-94455000,Metastatic malignant neoplasm to ovary,Snomed,Aurum browser,Incident ovarian cancer
-18412003,Laparotomy for staging of ovarian cancer,Snomed,Aurum browser,Prevalent ovarian cancer
-429090009,History of malignant neoplasm of ovary,Snomed,Aurum browser,Prevalent ovarian cancer
-672291000119107,[V]Personal history of malignant neoplasm of ovary,Snomed,Aurum browser,Prevalent ovarian cancer
-762997004,Suspected ovarian cancer,Snomed,Aurum browser,Suspected ovarian cancer
-18854008,"[M]Struma ovarii, malignant",Snomed,Head,Incident ovarian cancer
-363443007,Malignant neoplasm of ovary,Snomed,Head,Incident ovarian cancer
-307726001,Anaemia in ovarian carcinoma,Snomed,Head,Prevalent ovarian cancer
+code,term,codetype,category,source
+363443007,Cancer of ovary,Snomed Concept,Incident ovarian cancer     ,Head
+363443007,Malignant tumour of ovary,Snomed Concept,Incident ovarian cancer     ,Head
+363443007,CA - Cancer of ovary,Snomed Concept,Incident ovarian cancer     ,Head
+363443007,Ovarian cancer,Snomed Concept,Incident ovarian cancer     ,Head
+18854008,"[M]Struma ovarii, malignant",Snomed Concept,Incident ovarian cancer     ,Head
+18854008,Malignant struma ovarii,Snomed Concept,Incident ovarian cancer     ,Head
+307726001,Anaemia in ovarian carcinoma,Snomed Concept,Prevalent ovarian cancer    ,Head
+18412003,Laparotomy for staging of ovarian cancer,Snomed Concept,Prevalent ovarian cancer    ,Aurum browser
+93934004,Primary malignant neoplasm of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+94455000,Secondary malignant neoplasm of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+94455000,Secondary Ca ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+94455000,Metastatic malignant neoplasm to ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+94455000,Ovarian metastasis,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+94455000,Krukenburg tumour,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254852002,Endometrioid carcinoma ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+369522002,Primary malignant neoplasm of left ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+369529006,Primary malignant neoplasm of right ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+422782004,"Ovarian cancer, disseminated",Snomed Concept,Incident ovarian cancer     ,Aurum browser
+423274005,"Carcinoma of ovary, stage 4",Snomed Concept,Incident ovarian cancer     ,Aurum browser
+423274005,Ovarian cancer stage 4,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+423480004,"Carcinoma of ovary, stage 3",Snomed Concept,Incident ovarian cancer     ,Aurum browser
+423480004,Ovarian cancer stage 3,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+424600001,"Carcinoma of ovary, stage 1",Snomed Concept,Incident ovarian cancer     ,Aurum browser
+424600001,"Cancer of ovary, stage 1",Snomed Concept,Incident ovarian cancer     ,Aurum browser
+424600001,Ovarian cancer stage 1,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+429090009,History of malignant neoplasm of ovary,Snomed Concept,Prevalent ovarian cancer    ,Aurum browser
+446526009,Debulking of neoplasm of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+672291000119107,[V]Personal history of malignant neoplasm of ovary,Snomed Concept,Prevalent ovarian cancer    ,Aurum browser
+672291000119107,History of carcinosarcoma of ovary,Snomed Concept,Prevalent ovarian cancer    ,Aurum browser
+907041000006102,[RFC] Cancer of the ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+15635721000119108,Primary malignant neoplasm of both ovaries,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+385364001,FIGO ovarian tumour stage finding,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+385364001,FIGO ovarian tumor stage finding,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+533411000000108,Ca ovary/other uterine adnexa,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+573671000000104,Ca ovary/uterine adnexa NOS,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254849005,Malignant epithelial tumour of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254849005,Carcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+702368000,Carcinosarcoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+763131005,Clear cell adenocarcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254870004,Choriocarcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+314191009,Cystadenocarcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254874008,Dysgerminoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254869000,Malignant germ cell tumour of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254869000,Malignant germ cell tumor of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+827162007,Malignant immature teratoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254860001,Malignant sex cord tumour of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+369605005,Malignant tumour involving an organ by separate metastasis from ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254851009,Mucinous cystadenocarcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+722685004,Primary high grade serous adenocarcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+722684000,Primary low grade serous adenocarcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+733361001,Primary mucinous adenocarcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254850005,Serous papillary cystadenocarcinoma ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+254856004,Undifferentiated carcinoma of ovary,Snomed Concept,Incident ovarian cancer     ,Aurum browser
+B440.00,Malignant neoplasm of ovary,Read,Incident ovarian cancer    ,Caliber
+B440.11,Cancer of ovary,Read,Incident ovarian cancer    ,Caliber
+BBQA100,"[M]Struma ovarii, malignant",Read,Incident ovarian cancer    ,Caliber
+D212000,Anaemia in ovarian carcinoma,Read,Prevalent ovarian cancer   ,Caliber
+ZV10414,[V]Personal history of malignant neoplasm of ovary,Read,Prevalent ovarian cancer   ,Caliber
+B44..00,Malignant neoplasm of ovary and other uterine adnexa,Read,Incident ovarian cancer    ,Gold browser
+183.0,Malignant neoplasm of ovary,ICD9,Incident ovarian cancer ,ICD9 browser
+C56,Malignant neoplasm of ovary,ICD10,Incident ovarian cancer ,Caliber

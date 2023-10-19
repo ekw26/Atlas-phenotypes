@@ -1,29 +1,38 @@
-code,description,codetype,source,category
-I33,Acute and subacute endocarditis,ICD10,ICD10 browser,Incident subacute bacterial endocarditis
-I33.0,Acute and subacute infective endocarditis,ICD10,ICD10 browser,Incident subacute bacterial endocarditis
-I33.9,"Acute endocarditis,unspecified",ICD10,ICD10 browser,Incident subacute bacterial endocarditis
-421,Acute and subacute endocarditis,ICD9,ICD9 browser,Incident subacute bacterial endocarditis
-421.0,Acute and subacute bacterial endocarditis,ICD9,ICD9 browser,Incident subacute bacterial endocarditis
-421.9,"Acute endocarditis,unspecified",ICD9,ICD9 browser,Incident subacute bacterial endocarditis
-G51..00,Acute and subacute endocarditis,Read,Gold browser,Incident subacute bacterial endocarditis
-G510.00,Acute and subacute bacterial endocarditis,Read,Gold browser,Incident subacute bacterial endocarditis
-G510.11,Bacterial endocarditis,Read,Gold browser,Incident subacute bacterial endocarditis
-G510000,Acute bacterial endocarditis,Read,Gold browser,Incident subacute bacterial endocarditis
-G510100,Subacute bacterial endocarditis - SBE,Read,Gold browser,Incident subacute bacterial endocarditis
-G510z00,Acute and subacute bacterial endocarditis NOS,Read,Gold browser,Incident subacute bacterial endocarditis
-G511.00,Acute and subacute infective endocarditis in diseases EC,Read,Gold browser,Incident subacute bacterial endocarditis
-G51z.00,Acute and subacute endocarditis unspecified,Read,Gold browser,Incident subacute bacterial endocarditis
-G51z000,Acute endocarditis NOS,Read,Gold browser,Incident subacute bacterial endocarditis
-G51zz00,"Acute and subacute endocarditis unspecified, NOS",Read,Gold browser,Incident subacute bacterial endocarditis
-111286002,Acute bacterial endocarditis,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-194921005,"Acute and subacute endocarditis unspecified, NOS",Snomed,Aurum browser,Incident subacute bacterial endocarditis
-194926000,Acute and subacute infective endocarditis in diseases EC,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-233850007,Infective endocarditis,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-266237004,Subacute bact. endocarditis,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-301183007,Bacterial endocarditis,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-459056003,Acute infective endocarditis,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-459151006,Infective endocarditis of tricuspid valve,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-459152004,Infective endocarditis of mitral valve,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-612081000000103,Acute/subac. endocarditis NOS,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-73774007,Subacute bact. endocarditis,Snomed,Aurum browser,Incident subacute bacterial endocarditis
-91357005,Acute endocarditis,Snomed,Aurum browser,Incident subacute bacterial endocarditis
+code,term,codetype,category,source
+612081000000103,Acute/subac. endocarditis NOS,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+266237004,Acute and subacute bacterial endocarditis NOS,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+266237004,Acute and subacute bacterial endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+266237004,Subacute bact. endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+91357005,Acute endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+194921005,Acute and subacute endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+194921005,Acute and subacute endocarditis unspecified,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+194921005,Acute myoendocarditis NOS,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+194921005,Subacute endocarditis NOS,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+194921005,"Acute and subacute endocarditis unspecified, NOS",Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+111286002,Acute bacterial endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+73774007,Subacute bacterial endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+73774007,Subacute bact. endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+301183007,Bacterial endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+194926000,Acute and subacute infective endocarditis in diseases EC,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+194926000,Acute and subacute infective endocarditis associated with another disorder,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+194926000,Acute and subacute infective endocarditis associated with another disorder,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+233850007,Infective endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+459056003,Acute infective endocarditis,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+459151006,Infective endocarditis of tricuspid valve,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+459152004,Infective endocarditis of mitral valve,Snomed Concept,Incident subacute bacterial endocarditis,Aurum browser
+G51z.00,Acute and subacute endocarditis unspecified,Read,Incident subacute bacterial endocarditis,Gold browser
+G510.11,Bacterial endocarditis,Read,Incident subacute bacterial endocarditis,Gold browser
+G51z000,Acute endocarditis NOS,Read,Incident subacute bacterial endocarditis,Gold browser
+G51zz00,"Acute and subacute endocarditis unspecified, NOS",Read,Incident subacute bacterial endocarditis,Gold browser
+G510100,Subacute bacterial endocarditis - SBE,Read,Incident subacute bacterial endocarditis,Gold browser
+G51..00,Acute and subacute endocarditis,Read,Incident subacute bacterial endocarditis,Gold browser
+G510000,Acute bacterial endocarditis,Read,Incident subacute bacterial endocarditis,Gold browser
+G510.00,Acute and subacute bacterial endocarditis,Read,Incident subacute bacterial endocarditis,Gold browser
+G510z00,Acute and subacute bacterial endocarditis NOS,Read,Incident subacute bacterial endocarditis,Gold browser
+G511.00,Acute and subacute infective endocarditis in diseases EC,Read,Incident subacute bacterial endocarditis,Gold browser
+421.0,Acute and subacute bacterial endocarditis,ICD9,Incident subacute bacterial endocarditis,ICD9 browser
+421,Acute and subacute endocarditis,ICD9,Incident subacute bacterial endocarditis,ICD9 browser
+421.9,"Acute endocarditis,unspecified",ICD9,Incident subacute bacterial endocarditis,ICD9 browser
+I330,Acute and subacute infective endocarditis,ICD10,Incident subacute bacterial endocarditis,
+I33,Acute and subacute endocarditis,ICD10,Incident subacute bacterial endocarditis,ICD10 browser
+I339,"Acute endocarditis,unspecified",ICD10,Incident subacute bacterial endocarditis,

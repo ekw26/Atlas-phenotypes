@@ -1,55 +1,57 @@
-code,description,codetype,source,category
-M45,Ankylosing spondylitis,ICD10,Caliber,Incident ankylosing spondylitis
-M45.X0,Ankylosing spondylitis - Multiple sites in spine,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X1,Ankylosing spondylitis - Occipito-atlanto-axial region,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X2,Ankylosing spondylitis - Cervical region,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X3,Ankylosing spondylitis - Cervicothoracic region,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X4,Ankylosing spondylitis - Thoracic region,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X5,Ankylosing spondylitis - Thoracolumbar region,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X6,Ankylosing spondylitis - Lumbar region,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X7,Ankylosing spondylitis - Lumbosacral region,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X8,Ankylosing spondylitis - Sacral and sacrococcygeal region,ICD10,ICD10 browser,Incident ankylosing spondylitis
-M45.X9,Ankylosing spondylitis - Site unspecified,ICD10,ICD10 browser,Incident ankylosing spondylitis
-720.0,Ankylosing spondylitis,ICD9,ICD9 browser,Incident ankylosing spondylitis
-2377.00,O/E - ankyl.spondyl.chest def.,Read,Caliber,Incident ankylosing spondylitis
-388p.00,BASDAI - Bath ankylosing spondylitis disease activity index,Read,Caliber,Incident ankylosing spondylitis
-N100.00,Ankylosing spondylitis,Read,Caliber,Incident ankylosing spondylitis
-N100.11,Marie - Strumpell spondylitis,Read,Caliber,Incident ankylosing spondylitis
-388p000,Bath Ankylosing Spondylitis Functional Index,Read,Gold browser,Incident ankylosing spondylitis
-38QL.00,Bath Ankylosing Spondylitis Metrology Index,Read,Gold browser,Incident ankylosing spondylitis
-N10z.00,Spondylitis NOS,Read,Muller,Incident ankylosing spondylitis
-N146000,Lumbosacral ankylosis,Read,Muller,Incident ankylosing spondylitis
-N146100,Sacroiliac ankylosis,Read,Muller,Incident ankylosing spondylitis
-N146200,Sacral ankylosis NOS,Read,Muller,Incident ankylosing spondylitis
-N148.00,Ankylosis/instability of cervical thoracic or lumbar spine,Read,Muller,Incident ankylosing spondylitis
-N148000,Atlanto-occipital ankylosis,Read,Muller,Incident ankylosing spondylitis
-N148100,Atlanto-axial ankylosis,Read,Muller,Incident ankylosing spondylitis
-N148200,Cervical spine ankylosis,Read,Muller,Incident ankylosing spondylitis
-N148300,Cervico-thoracic ankylosis,Read,Muller,Incident ankylosing spondylitis
-N148400,Thoracic spine ankylosis,Read,Muller,Incident ankylosing spondylitis
-N148500,Thoraco-lumbar ankylosis,Read,Muller,Incident ankylosing spondylitis
-N148600,Lumbar spine ankylosis,Read,Muller,Incident ankylosing spondylitis
-N148700,Atlanto-occipital instability,Read,Muller,Incident ankylosing spondylitis
-N148800,Atlanto-axial instability,Read,Muller,Incident ankylosing spondylitis
-N148900,Cervical spine instability,Read,Muller,Incident ankylosing spondylitis
-N148A00,Cervico-thoracic instability,Read,Muller,Incident ankylosing spondylitis
-N148B00,Thoracic spine instability,Read,Muller,Incident ankylosing spondylitis
-N148C00,Lumbar spine instability,Read,Muller,Incident ankylosing spondylitis
-N14z.11,Ankylosis of spine NOS,Read,Muller,Incident ankylosing spondylitis
-16065006,Ankylosis of sacroiliac joint,Snomed,Aurum browser,Incident ankylosing spondylitis
-202812007,Atlanto-occipital ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
-202813002,Atlantoaxial ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
-202814008,Cervical spine ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
-202815009,Cervicothoracic ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
-202816005,Thoracic spine ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
-202818006,Lumbar spine ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
-429712009,BASDAI - Bath ankylosing spondylitis disease activity index,Snomed,Aurum browser,Incident ankylosing spondylitis
-441680005,Bath ankylosing spondylitis functional index score,Snomed,Aurum browser,Incident ankylosing spondylitis
-441930001,Bath ankylosing spondylitis metrology index score,Snomed,Aurum browser,Incident ankylosing spondylitis
-47049007,"Ankylosis/instability of cervical,thoracic or lumbar spine",Snomed,Aurum browser,Incident ankylosing spondylitis
-87823004,Lumbosacral ankylosis,Snomed,Aurum browser,Incident ankylosing spondylitis
-904311000000100,BASFI - Bath Ankylosing Spondylitis Functional Index,Snomed,Aurum browser,Incident ankylosing spondylitis
-904511000000108,BASMI - Bath Ankylosing Spondylitis Metrology Index,Snomed,Aurum browser,Incident ankylosing spondylitis
-162930007,o/e - ankyl.spondyl.chest def.,Snomed,Head,Incident ankylosing spondylitis
-441562009,BASDAI - Bath ankylosing spondylitis disease activity index,Snomed,Head,Incident ankylosing spondylitis
-9631008,Ankylosing spondylitis,Snomed,Head,Incident ankylosing spondylitis
+code,term,codetype,category,source
+162930007,On examination - ankylosing spondylitis chest deformity,Snomed Concept,Incident ankylosing spondylitis,Head
+441562009,Bath ankylosing spondylitis disease activity index score,Snomed Concept,Incident ankylosing spondylitis,Head
+9631008,Ankylosing spondylitis,Snomed Concept,Incident ankylosing spondylitis,Head
+9631008,Rheumatoid arthritis of spine,Snomed Concept,Incident ankylosing spondylitis,Head
+9631008,Marie - Strumpell spondylitis,Snomed Concept,Incident ankylosing spondylitis,Head
+441680005,Bath ankylosing spondylitis functional index score,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+441930001,Bath ankylosing spondylitis metrology index score,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+429712009,Bath ankylosing spondylitis disease activity index,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+429712009,BASDAI - Bath ankylosing spondylitis disease activity index,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+904311000000100,BASFI - Bath Ankylosing Spondylitis Functional Index,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+904511000000108,BASMI - Bath Ankylosing Spondylitis Metrology Index,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+16065006,Sacral ankylosis NOS,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+16065006,Sacroiliac ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+16065006,Ankylosis of sacroiliac joint,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+202812007,Atlanto-occipital ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+202814008,Cervical spine ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+202816005,Thoracic spine ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+202818006,Lumbar spine ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+47049007,Ankylosis of spine,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+47049007,"Ankylosis/instability of cervical,thoracic or lumbar spine",Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+87823004,Lumbosacral ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+202813002,Atlanto-axial ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+202813002,Atlantoaxial ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+202815009,Cervico-thoracic ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+202815009,Cervicothoracic ankylosis,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+201764007,Rheumatoid arthritis of cervical spine,Snomed Concept,Incident ankylosing spondylitis,Head
+781206002,Rheumatoid arthritis of joint of spine,Snomed Concept,Incident ankylosing spondylitis,Aurum browser
+2377.00,O/E - ankyl.spondyl.chest def.,Read,Incident ankylosing spondylitis,Caliber
+388p.00,BASDAI - Bath ankylosing spondylitis disease activity index,Read,Incident ankylosing spondylitis,Caliber
+N100.00,Ankylosing spondylitis,Read,Incident ankylosing spondylitis,Caliber
+N100.11,Marie - Strumpell spondylitis,Read,Incident ankylosing spondylitis,Caliber
+N14z.11,Ankylosis of spine NOS,Read,Incident ankylosing spondylitis,Muller
+N148.00,"Ankylosis/instability of cervical,thoracic or lumbar spine",Read,Incident ankylosing spondylitis,Muller
+N148100,Atlanto-axial ankylosis,Read,Incident ankylosing spondylitis,Muller
+N10z.00,Spondylitis NOS,Read,Incident ankylosing spondylitis,Muller
+N148800,Atlanto-axial instability,Read,Incident ankylosing spondylitis,Muller
+N148000,Atlanto-occipital ankylosis,Read,Incident ankylosing spondylitis,Muller
+N148700,Atlanto-occipital instability,Read,Incident ankylosing spondylitis,Muller
+N148200,Cervical spine ankylosis,Read,Incident ankylosing spondylitis,Muller
+N148900,Cervical spine instability,Read,Incident ankylosing spondylitis,Muller
+N148300,Cervico-thoracic ankylosis,Read,Incident ankylosing spondylitis,Muller
+N148A00,Cervico-thoracic instability,Read,Incident ankylosing spondylitis,Muller
+N148600,Lumbar spine ankylosis,Read,Incident ankylosing spondylitis,Muller
+N148C00,Lumbar spine instability,Read,Incident ankylosing spondylitis,Muller
+N146000,Lumbosacral ankylosis,Read,Incident ankylosing spondylitis,Muller
+N146200,Sacral ankylosis NOS,Read,Incident ankylosing spondylitis,Muller
+N146100,Sacroiliac ankylosis,Read,Incident ankylosing spondylitis,Muller
+N148400,Thoracic spine ankylosis,Read,Incident ankylosing spondylitis,Muller
+N148B00,Thoracic spine instability,Read,Incident ankylosing spondylitis,Muller
+N148500,Thoraco-lumbar ankylosis,Read,Incident ankylosing spondylitis,Muller
+38QL.00,Bath Ankylosing Spondylitis Metrology Index,Read,Incident ankylosing spondylitis,Gold browser
+388p000,Bath Ankylosing Spondylitis Functional Index,Read,Incident ankylosing spondylitis,Gold browser
+N040100,Other rheumatoid arthritis of spine,Read,Incident ankylosing spondylitis,Caliber
+N040000,Rheumatoid arthritis of cervical spine,Read,Incident ankylosing spondylitis,Caliber
+720.0,Ankylosing spondylitis,ICD9,Incident ankylosing spondylitis,ICD9 browser
+M45,Ankylosing spondylitis,ICD10,Incident ankylosing spondylitis,Caliber

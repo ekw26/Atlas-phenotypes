@@ -1,320 +1,213 @@
-code,description,codetype,source,category
-J65,Pneumoconiosis associated with tuberculosis,ICD10,Breathe,Prevalent tuberculosis
-A16,Respiratory tuberculosis not confirmed bacteriologically or histologically,ICD10,ICD10 browser,Incident tuberculosis
-A16.0,Tuberculosis of lung - bacteriologically and histologically negative,ICD10,ICD10 browser,Incident tuberculosis
-A16.1,Tuberculosis of lung - bacteriological and histological examination not done,ICD10,ICD10 browser,Incident tuberculosis
-A16.2,Tuberculosis of lung - without mention of bacteriological or histological confirmation,ICD10,ICD10 browser,Incident tuberculosis
-A16.3,Tuberculosis of intrathoracic lymph nodes - without mention of bacteriological or histological confirmation,ICD10,ICD10 browser,Incident tuberculosis
-A16.4,Tuberculosis of larynx trachea and bronchus - without mention of bacteriological or histological confirmation,ICD10,ICD10 browser,Incident tuberculosis
-A16.5,Tuberculosis pleurisy - without mention of bacteriological or histological confirmation,ICD10,ICD10 browser,Incident tuberculosis
-A16.7,Primary respiratory tuberculosis - without mention of bacteriological or histological confirmation,ICD10,ICD10 browser,Incident tuberculosis
-A16.8,Other respiratory tuberculosis - without mention of bacteriological or histological confirmation,ICD10,ICD10 browser,Incident tuberculosis
-A16.9,Respiratory tuberculosis unspecified - without mention of bacteriological or histological confirmation,ICD10,ICD10 browser,Incident tuberculosis
-A15,Respiratory tuberculosis bacteriologically and histologically confirmed,ICD10,Miller,Incident tuberculosis
-A15.0,Tuberculosis of lung - confirmed by sputum microscopy with or without culture,ICD10,Miller,Incident tuberculosis
-A15.1,Tuberculosis of lung - confirmed by culture only,ICD10,Miller,Incident tuberculosis
-A15.2,Tuberculosis of lung - confirmed histologically,ICD10,Miller,Incident tuberculosis
-A15.3,Tuberculosis of lung - confirmed by unspecified means,ICD10,Miller,Incident tuberculosis
-A15.4,Tuberculosis of intrathoracic lymph nodes - confirmed bacteriologically and histologically,ICD10,Miller,Incident tuberculosis
-A15.5,Tuberculosis of larynx trachea and bronchus - confirmed bacteriologically and histologically,ICD10,Miller,Incident tuberculosis
-A15.6,Tuberculosis pleurisy - confirmed bacteriologically and histologically,ICD10,Miller,Incident tuberculosis
-A15.7,Primary respiratory tuberculosis - confirmed bacteriologically and histologically,ICD10,Miller,Incident tuberculosis
-A15.8,Other respiratory tuberculosis - confirmed bacteriologically and histologically,ICD10,Miller,Incident tuberculosis
-A15.9,Respiratory tuberculosis unspecified - confirmed bacteriologically and histologically,ICD10,Miller,Incident tuberculosis
-A19,Miliary tuberculosis,ICD10,Miller,Incident tuberculosis
-A19.0,Acute miliary tuberculosis of a single specified site,ICD10,Miller,Incident tuberculosis
-A19.1,Acute miliary tuberculosis of multiple sites,ICD10,Miller,Incident tuberculosis
-A19.2,Acute miliary tuberculosis - unspecified,ICD10,Miller,Incident tuberculosis
-A19.8,Other miliary tuberculosis,ICD10,Miller,Incident tuberculosis
-A19.9,Miliary tuberculosis - unspecified,ICD10,Miller,Incident tuberculosis
-010,Primary tuberculous infection,ICD9,ICD9 browser,Incident tuberculosis
-010.0,Primary tuberculous infection,ICD9,ICD9 browser,Incident tuberculosis
-010.00,Primary tuberculous infection - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-010.01,Primary tuberculous infection - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-010.02,Primary tuberculous infection - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-010.03,Primary tuberculous infection - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-010.04,"Primary tuberculous infection - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-010.05,"Primary tuberculous infection - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-010.06,"Primary tuberculous infection - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-010.1,Tuberculous pleurisy in primary progressive tuberculosis,ICD9,ICD9 browser,Incident tuberculosis
-010.10,Tuberculous pleurisy in primary progressive tuberculosis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-010.11,Tuberculous pleurisy in primary progressive tuberculosis - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-010.12,Tuberculous pleurisy in primary progressive tuberculosis - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-010.13,Tuberculous pleurisy in primary progressive tuberculosis - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-010.14,"Tuberculous pleurisy in primary progressive tuberculosis - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-010.15,"Tuberculous pleurisy in primary progressive tuberculosis - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-010.16,"Tuberculous pleurisy in primary progressive tuberculosis - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-010.8,Other primary progressive tuberculosis ,ICD9,ICD9 browser,Incident tuberculosis
-010.80,Other primary progressive tuberculosis  - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-010.81,Other primary progressive tuberculosis  - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-010.82,Other primary progressive tuberculosis  - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-010.83,Other primary progressive tuberculosis  - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-010.84,"Other primary progressive tuberculosis  - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-010.85,"Other primary progressive tuberculosis  - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-010.86,"Other primary progressive tuberculosis  - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-010.9,"Primary tuberculous infection, unspecified",ICD9,ICD9 browser,Incident tuberculosis
-010.90,"Primary tuberculous infection, unspecified - unspecified",ICD9,ICD9 browser,Incident tuberculosis
-010.91,"Primary tuberculous infection, unspecified - bacteriological or histological examination not done",ICD9,ICD9 browser,Incident tuberculosis
-010.92,"Primary tuberculous infection, unspecified - bacteriological or histological examination unknown (at present)",ICD9,ICD9 browser,Incident tuberculosis
-010.93,"Primary tuberculous infection, unspecified - tubercle bacilli found (in sputum) by microscopy",ICD9,ICD9 browser,Incident tuberculosis
-010.94,"Primary tuberculous infection, unspecified - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-010.95,"Primary tuberculous infection, unspecified - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-010.96,"Primary tuberculous infection, unspecified - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011,Pulmonary tuberculosis,ICD9,ICD9 browser,Incident tuberculosis
-011.0,Tuberculosis of lung - infiltrative,ICD9,ICD9 browser,Incident tuberculosis
-011.00,Tuberculosis of lung - infiltrative - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.01,Tuberculosis of lung - infiltrative - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.02,Tuberculosis of lung - infiltrative - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.03,Tuberculosis of lung - infiltrative - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.04,"Tuberculosis of lung - infiltrative - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.05,"Tuberculosis of lung - infiltrative - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.06,"Tuberculosis of lung - infiltrative - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.1,Tubrculosis of lung - nodular,ICD9,ICD9 browser,Incident tuberculosis
-011.10,Tubrculosis of lung - nodular - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.11,Tubrculosis of lung - nodular - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.12,Tubrculosis of lung - nodular - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.13,Tubrculosis of lung - nodular - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.14,"Tubrculosis of lung - nodular - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.15,"Tubrculosis of lung - nodular - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.16,"Tubrculosis of lung - nodular - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.2,Tuberculosis of lung with cavitation,ICD9,ICD9 browser,Incident tuberculosis
-011.20,Tuberculosis of lung with cavitation - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.21,Tuberculosis of lung with cavitation - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.22,Tuberculosis of lung with cavitation - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.23,Tuberculosis of lung with cavitation - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.24,"Tuberculosis of lung with cavitation - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.25,"Tuberculosis of lung with cavitation - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.26,"Tuberculosis of lung with cavitation - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.3,Tuberculosis of bronchus,ICD9,ICD9 browser,Incident tuberculosis
-011.30,Tuberculosis of bronchus - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.31,Tuberculosis of bronchus - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.32,Tuberculosis of bronchus - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.33,Tuberculosis of bronchus - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.34,"Tuberculosis of bronchus - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.35,"Tuberculosis of bronchus - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.36,"Tuberculosis of bronchus - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.4,Tuberculous fibrosis of lung,ICD9,ICD9 browser,Incident tuberculosis
-011.40,Tuberculous fibrosis of lung - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.41,Tuberculous fibrosis of lung - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.42,Tuberculous fibrosis of lung - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.43,Tuberculous fibrosis of lung - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.44,"Tuberculous fibrosis of lung - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.45,"Tuberculous fibrosis of lung - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.46,"Tuberculous fibrosis of lung - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.5,Tuberculous bronchiectasis,ICD9,ICD9 browser,Incident tuberculosis
-011.50,Tuberculous bronchiectasis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.51,Tuberculous bronchiectasis - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.52,Tuberculous bronchiectasis - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.53,Tuberculous bronchiectasis - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.54,"Tuberculous bronchiectasis - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.55,"Tuberculous bronchiectasis - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.56,"Tuberculous bronchiectasis - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.6,Tuberculous pneumonia,ICD9,ICD9 browser,Incident tuberculosis
-011.60,Tuberculous pneumonia - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.61,Tuberculous pneumonia - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.62,Tuberculous pneumonia - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.63,Tuberculous pneumonia - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.64,"Tuberculous pneumonia - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.65,"Tuberculous pneumonia - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.66,"Tuberculous pneumonia - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.7,Tuberculous pneumothorax,ICD9,ICD9 browser,Incident tuberculosis
-011.70,Tuberculous pneumothorax - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.71,Tuberculous pneumothorax - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.72,Tuberculous pneumothorax - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.73,Tuberculous pneumothorax - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.74,"Tuberculous pneumothorax - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.75,"Tuberculous pneumothorax - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.76,"Tuberculous pneumothorax - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.8,Other specified pulmonary tuberculosis,ICD9,ICD9 browser,Incident tuberculosis
-011.80,Other specified pulmonary tuberculosis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.81,Other specified pulmonary tuberculosis - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.82,Other specified pulmonary tuberculosis - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.83,Other specified pulmonary tuberculosis - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.84,"Other specified pulmonary tuberculosis - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.85,"Other specified pulmonary tuberculosis - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.86,"Other specified pulmonary tuberculosis - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-011.9,Pulmonary tuberculosis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.90,Pulmonary tuberculosis - unspecified - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-011.91,Pulmonary tuberculosis - unspecified - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-011.92,Pulmonary tuberculosis - unspecified - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-011.93,Pulmonary tuberculosis - unspecified - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-011.94,"Pulmonary tuberculosis - unspecified - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-011.95,"Pulmonary tuberculosis - unspecified - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-011.96,"Pulmonary tuberculosis - unspecified - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-012,Other respiratory tuberculosis ,ICD9,ICD9 browser,Incident tuberculosis
-012.0,Tuberculous pleurisy,ICD9,ICD9 browser,Incident tuberculosis
-012.00,Tuberculous pleurisy - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-012.01,Tuberculous pleurisy - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-012.02,Tuberculous pleurisy - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-012.03,Tuberculous pleurisy - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-012.04,"Tuberculous pleurisy - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-012.05,"Tuberculous pleurisy - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-012.06,"Tuberculous pleurisy - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-012.1,Tuberculosis of intrathoracic lymph nodes,ICD9,ICD9 browser,Incident tuberculosis
-012.10,Tuberculosis of intrathoracic lymph nodes - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-012.11,Tuberculosis of intrathoracic lymph nodes - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-012.12,Tuberculosis of intrathoracic lymph nodes - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-012.13,Tuberculosis of intrathoracic lymph nodes - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-012.14,"Tuberculosis of intrathoracic lymph nodes - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-012.15,"Tuberculosis of intrathoracic lymph nodes - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-012.16,"Tuberculosis of intrathoracic lymph nodes - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-012.2,Isolated tracheal or bronchial tuberculosis,ICD9,ICD9 browser,Incident tuberculosis
-012.20,Isolated tracheal or bronchial tuberculosis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-012.21,Isolated tracheal or bronchial tuberculosis - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-012.22,Isolated tracheal or bronchial tuberculosis - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-012.23,Isolated tracheal or bronchial tuberculosis - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-012.24,"Isolated tracheal or bronchial tuberculosis - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-012.25,"Isolated tracheal or bronchial tuberculosis - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-012.26,"Isolated tracheal or bronchial tuberculosis - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-012.3,Tuberculous laryngitis,ICD9,ICD9 browser,Incident tuberculosis
-012.30,Tuberculous laryngitis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-012.31,Tuberculous laryngitis - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-012.32,Tuberculous laryngitis - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-012.33,Tuberculous laryngitis - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-012.34,"Tuberculous laryngitis - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-012.35,"Tuberculous laryngitis - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-012.36,"Tuberculous laryngitis - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-012.8,Other specified respiratory tuberculosis,ICD9,ICD9 browser,Incident tuberculosis
-012.80,Other specified respiratory tuberculosis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-012.81,Other specified respiratory tuberculosis - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-012.82,Other specified respiratory tuberculosis - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-012.83,Other specified respiratory tuberculosis - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-012.84,"Other specified respiratory tuberculosis - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-012.85,"Other specified respiratory tuberculosis - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-012.86,"Other specified respiratory tuberculosis - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-018,Miliary tuberculosis,ICD9,ICD9 browser,Incident tuberculosis
-018.0,Acute miliary tuberculosis,ICD9,ICD9 browser,Incident tuberculosis
-018.00,Acute miliary tuberculosis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-018.01,Acute miliary tuberculosis - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-018.02,Acute miliary tuberculosis - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-018.03,Acute miliary tuberculosis - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-018.04,"Acute miliary tuberculosis - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-018.05,"Acute miliary tuberculosis - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-018.06,"Acute miliary tuberculosis - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-018.8,Other specified miliary tuberculosis,ICD9,ICD9 browser,Incident tuberculosis
-018.80,Other specified miliary tuberculosis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-018.81,Other specified miliary tuberculosis - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-018.82,Other specified miliary tuberculosis - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-018.83,Other specified miliary tuberculosis - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-018.84,"Other specified miliary tuberculosis - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-018.85,"Other specified miliary tuberculosis - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-018.86,"Other specified miliary tuberculosis - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-018.9,Miliary tuberculosis - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-018.90,Miliary tuberculosis - unspecified - unspecified,ICD9,ICD9 browser,Incident tuberculosis
-018.91,Miliary tuberculosis - unspecified - bacteriological or histological examination not done,ICD9,ICD9 browser,Incident tuberculosis
-018.92,Miliary tuberculosis - unspecified - bacteriological or histological examination unknown (at present),ICD9,ICD9 browser,Incident tuberculosis
-018.93,Miliary tuberculosis - unspecified - tubercle bacilli found (in sputum) by microscopy,ICD9,ICD9 browser,Incident tuberculosis
-018.94,"Miliary tuberculosis - unspecified - tubercle bacilli not found (in sputum) by microscopy, but found by bacterial culture",ICD9,ICD9 browser,Incident tuberculosis
-018.95,"Miliary tuberculosis - unspecified - tubercle bacilli not found by bacteriological examination, but tuberculosis confirmed histologically",ICD9,ICD9 browser,Incident tuberculosis
-018.96,"Miliary tuberculosis - unspecified - tubercle bacilli not found by bacteriological or histological examination, but tuberculosis confirmed by other methods [inoculation of animals]",ICD9,ICD9 browser,Incident tuberculosis
-65Y2.00,Streptomycin resistant tuberculosis,Read,Breathe,Incident tuberculosis
-65Y3.00,Rifampicin resistant tuberculosis,Read,Breathe,Incident tuberculosis
-65Y5.00,Isoniazid resistant tuberculosis,Read,Breathe,Incident tuberculosis
-A1...00,Tuberculosis,Read,Breathe,Incident tuberculosis
-A101.00,Tuberculous pleurisy in primary progressive tuberculosis,Read,Breathe,Incident tuberculosis
-A10y.00,Other primary progressive tuberculosis,Read,Breathe,Incident tuberculosis
-A11..00,Pulmonary tuberculosis,Read,Breathe,Incident tuberculosis
-A11..11,Lung tuberculosis,Read,Breathe,Incident tuberculosis
-A110.00,Infiltrative lung tuberculosis,Read,Breathe,Incident tuberculosis
-A111.00,Nodular lung tuberculosis,Read,Breathe,Incident tuberculosis
-A112.00,Tuberculosis of lung with cavitation,Read,Breathe,Incident tuberculosis
-A113.00,Tuberculosis of bronchus,Read,Breathe,Incident tuberculosis
-A11z.00,Pulmonary tuberculosis NOS,Read,Breathe,Incident tuberculosis
-A12..00,Other respiratory tuberculosis,Read,Breathe,Incident tuberculosis
-A120000,Tuberculosis of pleura,Read,Breathe,Incident tuberculosis
-A121.00,Tuberculosis of intrathoracic lymph nodes,Read,Breathe,Incident tuberculosis
-A121000,Tuberculosis of hilar lymph nodes,Read,Breathe,Incident tuberculosis
-A121200,Tuberculosis of tracheobronchial lymph nodes,Read,Breathe,Incident tuberculosis
-A122.00,Isolated tracheal or bronchial tuberculosis,Read,Breathe,Incident tuberculosis
-A122000,Isolated tracheal tuberculosis,Read,Breathe,Incident tuberculosis
-A122100,Isolated bronchial tuberculosis,Read,Breathe,Incident tuberculosis
-A122z00,Isolated tracheal or bronchial tuberculosis NOS,Read,Breathe,Incident tuberculosis
-A124100,"Tuberculosis of lung, confirmed by culture only",Read,Breathe,Incident tuberculosis
-A124200,"Tuberculosis of lung, confirmed histologically",Read,Breathe,Incident tuberculosis
-A124300,"Tuberculosis of lung, confirmed by unspecified means",Read,Breathe,Incident tuberculosis
-A124500,"Tuberculosis of larynx, trachea & bronchus conf bact/hist'y",Read,Breathe,Incident tuberculosis
-A125000,"Tuberculosis of lung, bacteriologically & histolog'y neg",Read,Breathe,Incident tuberculosis
-A125100,Tuberculosis lung bact and histological examin not done,Read,Breathe,Incident tuberculosis
-A12y100,Tuberculosis of nasopharynx,Read,Breathe,Incident tuberculosis
-A12yz00,Other specified respiratory tuberculosis NOS,Read,Breathe,Incident tuberculosis
-A18..00,Miliary tuberculosis,Read,Breathe,Incident tuberculosis
-A180.00,Acute miliary tuberculosis,Read,Breathe,Incident tuberculosis
-A180000,Acute miliary tuberculosis of a single specified site,Read,Breathe,Incident tuberculosis
-A18y.00,Other specified miliary tuberculosis,Read,Breathe,Incident tuberculosis
-A18z.00,Miliary tuberculosis NOS,Read,Breathe,Incident tuberculosis
-A19..00,Disseminated tuberculosis,Read,Breathe,Incident tuberculosis
-A1A..00,Multidrug resistant tuberculosis,Read,Breathe,Incident tuberculosis
-A1z..00,Tuberculosis NOS,Read,Breathe,Incident tuberculosis
-AE00.00,Late effects of respiratory tuberculosis,Read,Breathe,Incident tuberculosis
-Ayu1.00,[X]Tuberculosis,Read,Breathe,Incident tuberculosis
-Ayu1700,"[X]Acute miliary tuberculosis, unspecified",Read,Breathe,Incident tuberculosis
-Ayu1800,[X]Other miliary tuberculosis,Read,Breathe,Incident tuberculosis
-Ayu1900,"[X]Miliary tuberculosis, unspecified",Read,Breathe,Incident tuberculosis
-AyuJ400,[X]Sequelae of respiratory and unspecified tuberculosis,Read,Breathe,Prevalent tuberculosis
-H450.00,Pneumoconiosis associated with tuberculosis,Read,Caliber,Prevalent tuberculosis
-65Y8.00,Ciprofloxacin resistant tuberculosis,Read,Gold browser,Incident tuberculosis
-A11y.00,Other specified pulmonary tuberculosis,Read,Gold browser,Incident tuberculosis
-A121100,Tuberculosis of mediastinal lymph nodes,Read,Gold browser,Incident tuberculosis
-A121z00,Tuberculosis of intrathoracic lymph nodes NOS,Read,Gold browser,Incident tuberculosis
-A12y.00,Other specified respiratory tuberculosis,Read,Gold browser,Incident tuberculosis
-A12y000,Tuberculosis of mediastinum,Read,Gold browser,Incident tuberculosis
-A180100,Acute miliary tuberculosis of multiple sites,Read,Gold browser,Incident tuberculosis
-A1y..00,Other specified tuberculosis,Read,Gold browser,Incident tuberculosis
-AE0..00,Late effects of tuberculosis,Read,Gold browser,Incident tuberculosis
-AE0z.00,Late effects of tuberculosis NOS,Read,Gold browser,Incident tuberculosis
-1411.00,H/O: tuberculosis,Read,Gold browser,Prevalent tuberculosis
-14P9.00,History of tuberculosis drug therapy,Read,Gold browser,Prevalent tuberculosis
-65Y9.00,Inactive tuberculosis,Read,Gold browser,Prevalent tuberculosis
-ZV12A00,[V] Personal history of pulmonary tuberculosis,Read,Gold browser,Prevalent tuberculosis
-ZV12B00,[V] Personal history of tuberculosis,Read,Gold browser,Prevalent tuberculosis
-113858008,Mycobacterium tuberculosis complex,Snomed,Aurum browser,Incident tuberculosis
-11999007,Latent tuberculosis,Snomed,Aurum browser,Incident tuberculosis
-186193001,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",Snomed,Aurum browser,Incident tuberculosis
-186201000,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",Snomed,Aurum browser,Incident tuberculosis
-186202007,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Snomed,Aurum browser,Incident tuberculosis
-74387008,Tuberculosis of hilar lymph nodes,Snomed,Aurum browser,Incident tuberculosis
-82495004,Tuberculosis of mediastinal lymph nodes,Snomed,Aurum browser,Incident tuberculosis
-83784000,Tuberculosis of mediastinum,Snomed,Aurum browser,Incident tuberculosis
-85692003,Tuberculosis of tracheobronchial lymph nodes,Snomed,Aurum browser,Incident tuberculosis
-161414005,History of tuberculosis,Snomed,Aurum browser,Prevalent tuberculosis
-473151000,History of tuberculosis drug therapy,Snomed,Aurum browser,Prevalent tuberculosis
-111832004,Other primary progressive tuberculosis,Snomed,Breathe,Incident tuberculosis
-113861009,Mycobacterium tuberculosis,Snomed,Breathe,Incident tuberculosis
-154283005,Pulmonary tuberculosis,Snomed,Breathe,Incident tuberculosis
-182159002,Disseminated tuberculosis,Snomed,Breathe,Incident tuberculosis
-1834101000006107,Sputum culture mycobacterium tuberculosis positive,Snomed,Breathe,Incident tuberculosis
-186172004,Tuberculous pleurisy in primary progressive tuberculosis,Snomed,Breathe,Incident tuberculosis
-186175002,Infiltrative lung tuberculosis,Snomed,Breathe,Incident tuberculosis
-186177005,Tuberculosis of lung with cavitation,Snomed,Breathe,Incident tuberculosis
-186178000,Tuberculosis of bronchus,Snomed,Breathe,Incident tuberculosis
-186182003,Tuberculosis of pleura,Snomed,Breathe,Incident tuberculosis
-186194007,"Tuberculosis of lung, confirmed by culture only",Snomed,Breathe,Incident tuberculosis
-186195008,"Tuberculosis of lung, confirmed histologically",Snomed,Breathe,Incident tuberculosis
-186199002,"Tuberculosis of larynx, trachea & bronchus conf bact/hist'y",Snomed,Breathe,Incident tuberculosis
-186203002,"Tuberculosis of lung, bacteriologically & histolog'y neg",Snomed,Breathe,Incident tuberculosis
-186204008,Tuberculosis lung bact and histological examin not done,Snomed,Breathe,Incident tuberculosis
-186276006,Acute miliary tuberculosis,Snomed,Breathe,Incident tuberculosis
-186278007,Acute miliary tuberculosis of multiple sites,Snomed,Breathe,Incident tuberculosis
-187252008,Late effects of respiratory tuberculosis,Snomed,Breathe,Incident tuberculosis
-413852006,Ciprofloxacin resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-414146004,Ethambutol resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-414149006,Ethionamide resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-414546009,Isoniazid resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-415222009,Pyrazinamide resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-415345001,Rifampicin resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-415622003,Streptomycin resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-423092005,Multidrug resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-47604008,Other specified miliary tuberculosis,Snomed,Breathe,Incident tuberculosis
-56498009,Tuberculosis of nasopharynx,Snomed,Breathe,Incident tuberculosis
-56717001,TB - Tuberculosis,Snomed,Breathe,Incident tuberculosis
-63309002,Primary tuberculosis,Snomed,Breathe,Incident tuberculosis
-700273003,Isolated tracheal or bronchial tuberculosis,Snomed,Breathe,Incident tuberculosis
-70341005,Laryngeal tuberculosis,Snomed,Breathe,Incident tuberculosis
-710106005,Extensively drug resistant tuberculosis,Snomed,Breathe,Incident tuberculosis
-77668003,Isolated tracheal tuberculosis,Snomed,Breathe,Incident tuberculosis
-78436002,Tuberculosis of intrathoracic lymph nodes,Snomed,Breathe,Incident tuberculosis
-80010008,Isolated bronchial tuberculosis,Snomed,Breathe,Incident tuberculosis
-80602006,Nodular lung tuberculosis,Snomed,Breathe,Incident tuberculosis
-907551000006106,[RFC] Tuberculosis,Snomed,Breathe,Incident tuberculosis
-187251001,[X]Sequelae of respiratory and unspecified tuberculosis,Snomed,Breathe,Prevalent tuberculosis
-196017002,Pneumoconiosis associated with tuberculosis,Snomed,Breathe,Prevalent tuberculosis
+code,term,codetype,category,source
+77668003,Isolated tracheal tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+78436002,Tuberculosis of intrathoracic lymph nodes,Snomed Concept,Incident tuberculosis ,Breathe
+78436002,Tuberculosis of intrathoracic lymph nodes NOS,Snomed Concept,Incident tuberculosis ,Breathe
+78436002,TB intrathoracic lymph nodes confirm bact histologically,Snomed Concept,Incident tuberculosis ,Breathe
+80010008,Isolated bronchial tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+113861009,Mycobacterium tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+80602006,Nodular lung tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+1834101000006107,Sputum culture mycobacterium tuberculosis positive,Snomed Concept,Incident tuberculosis ,Breathe
+154283005,Pulmonary tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+154283005,Other specified pulmonary tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+154283005,Pulmonary tuberculosis NOS,Snomed Concept,Incident tuberculosis ,Breathe
+154283005,Other respiratory tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+154283005,"Tuberculosis of lung, confirmed by unspecified means",Snomed Concept,Incident tuberculosis ,Breathe
+154283005,Other specified respiratory tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+154283005,Other specified respiratory tuberculosis NOS,Snomed Concept,Incident tuberculosis ,Breathe
+154283005,Lung tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+154283005,TB - Pulmonary tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+710106005,Extensively drug resistant tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+415622003,Streptomycin resistant tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+415345001,Rifampicin resistant tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+415222009,Pyrazinamide resistant tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+414546009,Isoniazid resistant tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+414146004,Ethambutol resistant tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+413852006,Ciprofloxacin resistant tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+423092005,Multidrug resistant tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+182159002,Disseminated tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+186172004,Tuberculous pleurisy in primary progressive tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+111832004,Primary progressive tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+186175002,Infiltrative lung tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+186177005,Tuberculosis of lung with cavitation,Snomed Concept,Incident tuberculosis ,Breathe
+186178000,Tuberculosis of bronchus,Snomed Concept,Incident tuberculosis ,Breathe
+186182003,Tuberculosis of pleura,Snomed Concept,Incident tuberculosis ,Breathe
+186182003,Tuberculous pleurisy,Snomed Concept,Incident tuberculosis ,Breathe
+186182003,Tuberculous pleurisy NOS,Snomed Concept,Incident tuberculosis ,Breathe
+700273003,Isolated tracheobronchial tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+700273003,Isolated tracheal or bronchial tuberculosis NOS,Snomed Concept,Incident tuberculosis ,Breathe
+186194007,"Tuberculosis of lung, confirmed by culture only",Snomed Concept,Incident tuberculosis ,Breathe
+186195008,"Tuberculosis of lung, confirmed histologically",Snomed Concept,Incident tuberculosis ,Breathe
+186276006,Acute miliary tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+186276006,Acute miliary tuberculosis of a single specified site,Snomed Concept,Incident tuberculosis ,Breathe
+186276006,"[X]Acute miliary tuberculosis, unspecified",Snomed Concept,Incident tuberculosis ,Breathe
+186278007,Acute miliary tuberculosis of multiple sites,Snomed Concept,Incident tuberculosis ,Breathe
+47604008,Miliary tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+47604008,Other specified miliary tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+47604008,Miliary tuberculosis NOS,Snomed Concept,Incident tuberculosis ,Breathe
+47604008,[X]Other miliary tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+47604008,"[X]Miliary tuberculosis, unspecified",Snomed Concept,Incident tuberculosis ,Breathe
+187252008,Late effects of respiratory tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+187251001,Late effects of tuberculosis,Snomed Concept,Prevalent tuberculosis,Breathe
+187251001,Late effects of tuberculosis of other specified organs,Snomed Concept,Prevalent tuberculosis,Breathe
+187251001,Late effects of tuberculosis NOS,Snomed Concept,Prevalent tuberculosis,Breathe
+187251001,Sequelae of tuberculosis,Snomed Concept,Prevalent tuberculosis,Breathe
+187251001,[X]Sequelae of tuberculosis of other organs,Snomed Concept,Prevalent tuberculosis,Breathe
+196017002,Pneumoconiosis associated with tuberculosis,Snomed Concept,Prevalent tuberculosis,Breathe
+56717001,Tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,Tuberculosis of bones or joints NOS,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,Tuberculosis of other organs,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,Tuberculosis of other specified organs,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,Tuberculosis of other specified organs NOS,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,Tuberculosis of other organs NOS,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,Other specified tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,Tuberculosis NOS,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,[X]Other tuberculosis of nervous system,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,[X]Tuberculosis of other specified organs,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,[X]Tuberculous disorders of intestine and mesentery,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,"[X]Oth resp tubercul, w'out m/bacteriol or histol confirmatn",Snomed Concept,Incident tuberculosis ,Breathe
+56717001,"[X]Other resp tubercul,confirmd bacteriologicly+histologicly",Snomed Concept,Incident tuberculosis ,Breathe
+56717001,[X]Tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+56717001,TB - Tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+63309002,Primary tuberculous infection,Snomed Concept,Incident tuberculosis ,Breathe
+63309002,Primary tuberculous infection NOS,Snomed Concept,Incident tuberculosis ,Breathe
+63309002,Primary tuberculosis infection,Snomed Concept,Incident tuberculosis ,Breathe
+63309002,Primary tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+70341005,Tuberculous laryngitis,Snomed Concept,Incident tuberculosis ,Breathe
+186204008,"Tuberculosis of lung, bacteriological and histological examination not done",Snomed Concept,Incident tuberculosis ,Breathe
+186199002,"Tuberculosis of larynx, trachea and bronchus, confirmed bacteriologically and histologically",Snomed Concept,Incident tuberculosis ,Breathe
+186203002,"Tuberculosis of lung, bacteriologically and histologically negative",Snomed Concept,Incident tuberculosis ,Breathe
+907551000006106,[RFC] Tuberculosis,Snomed Concept,Incident tuberculosis ,Breathe
+56498009,Tuberculosis of nasopharynx,Snomed Concept,Incident tuberculosis ,Breathe
+186202007,"Respiratory tuberculosis, not confirmed bacteriologically or histologically",Snomed Concept,Incident tuberculosis ,Aurum browser
+186202007,"Resp TB unspcf,w'out mention/bacterial or histol confrmtn",Snomed Concept,Incident tuberculosis ,Aurum browser
+186202007,Prim respiratory TB without mention of bact or hist confirm,Snomed Concept,Incident tuberculosis ,Aurum browser
+186202007,"[X]Resp TB unspcf,w'out mention/bacterial or histol confrmtn",Snomed Concept,Incident tuberculosis ,Aurum browser
+473151000,History of tuberculosis drug therapy,Snomed Concept,Prevalent tuberculosis,Aurum browser
+82495004,Tuberculosis of mediastinal lymph nodes,Snomed Concept,Incident tuberculosis ,Aurum browser
+11999007,Inactive tuberculosis,Snomed Concept,Incident tuberculosis ,Aurum browser
+11999007,Latent tuberculosis,Snomed Concept,Incident tuberculosis ,Aurum browser
+11999007,Tuberculosis infection latent,Snomed Concept,Incident tuberculosis ,Aurum browser
+186201000,"Primary respiratory tuberculosis, confirmed bacteriologically and histologically",Snomed Concept,Incident tuberculosis ,Aurum browser
+74387008,Tuberculosis of hilar lymph nodes,Snomed Concept,Incident tuberculosis ,Aurum browser
+83784000,Tuberculosis of mediastinum,Snomed Concept,Incident tuberculosis ,Aurum browser
+113858008,Mycobacterium tuberculosis complex,Snomed Concept,Incident tuberculosis ,Aurum browser
+85692003,Tuberculosis of tracheobronchial lymph nodes,Snomed Concept,Incident tuberculosis ,Aurum browser
+186193001,"Tuberculosis of lung, confirmed by sputum microscopy with or without culture",Snomed Concept,Incident tuberculosis ,Aurum browser
+161414005,H/O: tuberculosis,Snomed Concept,Prevalent tuberculosis,Aurum browser
+161414005,[V] Personal history of pulmonary tuberculosis,Snomed Concept,Prevalent tuberculosis,Aurum browser
+161414005,[V] Personal history of tuberculosis,Snomed Concept,Prevalent tuberculosis,Aurum browser
+161414005,History of tuberculosis,Snomed Concept,Prevalent tuberculosis,Aurum browser
+65Y2.00,Streptomycin resistant tuberculosis,Read,Incident tuberculosis ,Breathe
+65Y3.00,Rifampicin resistant tuberculosis,Read,Incident tuberculosis ,Breathe
+65Y5.00,Isoniazid resistant tuberculosis,Read,Incident tuberculosis ,Breathe
+A1...00,Tuberculosis,Read,Incident tuberculosis ,Breathe
+A101.00,Tuberculous pleurisy in primary progressive tuberculosis,Read,Incident tuberculosis ,Breathe
+A10y.00,Other primary progressive tuberculosis,Read,Incident tuberculosis ,Breathe
+A11..00,Pulmonary tuberculosis,Read,Incident tuberculosis ,Breathe
+A11..11,Lung tuberculosis,Read,Incident tuberculosis ,Breathe
+A110.00,Infiltrative lung tuberculosis,Read,Incident tuberculosis ,Breathe
+A111.00,Nodular lung tuberculosis,Read,Incident tuberculosis ,Breathe
+A112.00,Tuberculosis of lung with cavitation,Read,Incident tuberculosis ,Breathe
+A113.00,Tuberculosis of bronchus,Read,Incident tuberculosis ,Breathe
+A11z.00,Pulmonary tuberculosis NOS,Read,Incident tuberculosis ,Breathe
+A12..00,Other respiratory tuberculosis,Read,Incident tuberculosis ,Breathe
+A120000,Tuberculosis of pleura,Read,Incident tuberculosis ,Breathe
+A121.00,Tuberculosis of intrathoracic lymph nodes,Read,Incident tuberculosis ,Breathe
+A121000,Tuberculosis of hilar lymph nodes,Read,Incident tuberculosis ,Breathe
+A121200,Tuberculosis of tracheobronchial lymph nodes,Read,Incident tuberculosis ,Breathe
+A122.00,Isolated tracheal or bronchial tuberculosis,Read,Incident tuberculosis ,Breathe
+A122000,Isolated tracheal tuberculosis,Read,Incident tuberculosis ,Breathe
+A122100,Isolated bronchial tuberculosis,Read,Incident tuberculosis ,Breathe
+A122z00,"Isolated tracheal or bronchial tuberculosis NOS""",Read,Incident tuberculosis ,Breathe
+A124100,"Tuberculosis of lung, confirmed by culture only",Read,Incident tuberculosis ,Breathe
+A124200,"Tuberculosis of lung, confirmed histologically",Read,Incident tuberculosis ,Breathe
+A124300,"Tuberculosis of lung, confirmed by unspecified means",Read,Incident tuberculosis ,Breathe
+A124500,"Tuberculosis of larynx, trachea & bronchus conf bact/hist'y",Read,Incident tuberculosis ,Breathe
+A125000,"Tuberculosis of lung, bacteriologically & histolog'y neg",Read,Incident tuberculosis ,Breathe
+A125100,Tuberculosis lung bact and histological examin not done,Read,Incident tuberculosis ,Breathe
+A12y100,Tuberculosis of nasopharynx,Read,Incident tuberculosis ,Breathe
+A12yz00,Other specified respiratory tuberculosis NOS,Read,Incident tuberculosis ,Breathe
+A18..00,Miliary tuberculosis,Read,Incident tuberculosis ,Breathe
+A180.00,Acute miliary tuberculosis,Read,Incident tuberculosis ,Breathe
+A180000,Acute miliary tuberculosis of a single specified site,Read,Incident tuberculosis ,Breathe
+A18y.00,Other specified miliary tuberculosis,Read,Incident tuberculosis ,Breathe
+A18z.00,Miliary tuberculosis NOS,Read,Incident tuberculosis ,Breathe
+A19..00,Disseminated tuberculosis,Read,Incident tuberculosis ,Breathe
+A1A..00,Multidrug resistant tuberculosis,Read,Incident tuberculosis ,Breathe
+A1z..00,Tuberculosis NOS,Read,Incident tuberculosis ,Breathe
+AE00.00,Late effects of respiratory tuberculosis,Read,Incident tuberculosis ,Breathe
+Ayu1.00,[X]Tuberculosis,Read,Incident tuberculosis ,Breathe
+Ayu1700,"[X]Acute miliary tuberculosis, unspecified",Read,Incident tuberculosis ,Breathe
+Ayu1800,[X]Other miliary tuberculosis,Read,Incident tuberculosis ,Breathe
+Ayu1900,"[X]Miliary tuberculosis, unspecified",Read,Incident tuberculosis ,Breathe
+AyuJ400,[X]Sequelae of respiratory and unspecified tuberculosis,Read,Prevalent tuberculosis,Breathe
+H450.00,Pneumoconiosis associated with tuberculosis,Read,Prevalent tuberculosis,Caliber
+A121100,Tuberculosis of mediastinal lymph nodes,Read,Incident tuberculosis ,Gold browser
+A180100,Acute miliary tuberculosis of multiple sites,Read,Incident tuberculosis ,Gold browser
+65Y9.00,Inactive tuberculosis,Read,Prevalent tuberculosis,Gold browser
+1411.00,H/O: tuberculosis,Read,Prevalent tuberculosis,Gold browser
+A121z00,Tuberculosis of intrathoracic lymph nodes NOS,Read,Incident tuberculosis ,Gold browser
+AE0z.00,Late effects of tuberculosis NOS,Read,Incident tuberculosis ,Gold browser
+A12y000,Tuberculosis of mediastinum,Read,Incident tuberculosis ,Gold browser
+65Y8.00,Ciprofloxacin resistant tuberculosis,Read,Incident tuberculosis ,Gold browser
+14P9.00,History of tuberculosis drug therapy,Read,Prevalent tuberculosis,Gold browser
+ZV12B00,[V] Personal history of tuberculosis,Read,Prevalent tuberculosis,Gold browser
+AE0..00,Late effects of tuberculosis,Read,Incident tuberculosis ,Gold browser
+A12y.00,Other specified respiratory tuberculosis,Read,Incident tuberculosis ,Gold browser
+ZV12A00,[V] Personal history of pulmonary tuberculosis,Read,Prevalent tuberculosis,Gold browser
+A1y..00,Other specified tuberculosis,Read,Incident tuberculosis ,Gold browser
+A11y.00,Other specified pulmonary tuberculosis,Read,Incident tuberculosis ,Gold browser
+012,Other respiratory tuberculosis ,ICD9,Incident tuberculosis ,ICD9 browser
+012.0,Tuberculous pleurisy,ICD9,Incident tuberculosis ,ICD9 browser
+012.3,Tuberculous laryngitis,ICD9,Incident tuberculosis ,ICD9 browser
+012.8,Other specified respiratory tuberculosis,ICD9,Incident tuberculosis ,ICD9 browser
+012.1,Tuberculosis of intrathoracic lymph nodes,ICD9,Incident tuberculosis ,ICD9 browser
+012.2,Isolated tracheal or bronchial tuberculosis,ICD9,Incident tuberculosis ,ICD9 browser
+010,Primary tuberculous infection,ICD9,Incident tuberculosis ,ICD9 browser
+010.1,Tuberculous pleurisy in primary progressive tuberculosis,ICD9,Incident tuberculosis ,ICD9 browser
+010.0,Primary tuberculous infection,ICD9,Incident tuberculosis ,ICD9 browser
+010.8,Other primary progressive tuberculosis ,ICD9,Incident tuberculosis ,ICD9 browser
+010.9,"Primary tuberculous infection, unspecified",ICD9,Incident tuberculosis ,ICD9 browser
+018,Miliary tuberculosis,ICD9,Incident tuberculosis ,ICD9 browser
+018.0,Acute miliary tuberculosis,ICD9,Incident tuberculosis ,ICD9 browser
+018.8,Other specified miliary tuberculosis,ICD9,Incident tuberculosis ,ICD9 browser
+018.9,Miliary tuberculosis - unspecified,ICD9,Incident tuberculosis ,ICD9 browser
+011,Pulmonary tuberculosis,ICD9,Incident tuberculosis ,ICD9 browser
+011.0,Tuberculosis of lung - infiltrative,ICD9,Incident tuberculosis ,ICD9 browser
+011.1,Tubrculosis of lung - nodular,ICD9,Incident tuberculosis ,ICD9 browser
+011.2,Tuberculosis of lung with cavitation,ICD9,Incident tuberculosis ,ICD9 browser
+011.3,Tuberculosis of bronchus,ICD9,Incident tuberculosis ,ICD9 browser
+011.4,Tuberculous fibrosis of lung,ICD9,Incident tuberculosis ,ICD9 browser
+011.5,Tuberculous bronchiectasis,ICD9,Incident tuberculosis ,ICD9 browser
+011.6,Tuberculous pneumonia,ICD9,Incident tuberculosis ,ICD9 browser
+011.7,Tuberculous pneumothorax,ICD9,Incident tuberculosis ,ICD9 browser
+011.8,Other specified pulmonary tuberculosis,ICD9,Incident tuberculosis ,ICD9 browser
+011.9,Pulmonary tuberculosis - unspecified,ICD9,Incident tuberculosis ,ICD9 browser
+A15,Respiratory tuberculosis bacteriologically and histologically confirmed,ICD10,Incident tuberculosis ,Miller
+A150,Tuberculosis of lung - confirmed by sputum microscopy with or without culture,ICD10,Incident tuberculosis ,
+A151,Tuberculosis of lung - confirmed by culture only,ICD10,Incident tuberculosis ,
+A152,Tuberculosis of lung - confirmed histologically,ICD10,Incident tuberculosis ,
+A153,Tuberculosis of lung - confirmed by unspecified means,ICD10,Incident tuberculosis ,
+A154,Tuberculosis of intrathoracic lymph nodes - confirmed bacteriologically and histologically,ICD10,Incident tuberculosis ,
+A155,Tuberculosis of larynx trachea and bronchus - confirmed bacteriologically and histologically,ICD10,Incident tuberculosis ,
+A156,Tuberculosis pleurisy - confirmed bacteriologically and histologically,ICD10,Incident tuberculosis ,
+A157,Primary respiratory tuberculosis - confirmed bacteriologically and histologically,ICD10,Incident tuberculosis ,
+A158,Other respiratory tuberculosis - confirmed bacteriologically and histologically,ICD10,Incident tuberculosis ,
+A159,Respiratory tuberculosis unspecified - confirmed bacteriologically and histologically,ICD10,Incident tuberculosis ,
+A19,Miliary tuberculosis,ICD10,Incident tuberculosis ,Miller
+A190,Acute miliary tuberculosis of a single specified site,ICD10,Incident tuberculosis ,
+A191,Acute miliary tuberculosis of multiple sites,ICD10,Incident tuberculosis ,
+A192,Acute miliary tuberculosis - unspecified,ICD10,Incident tuberculosis ,
+A198,Other miliary tuberculosis,ICD10,Incident tuberculosis ,
+A199,Miliary tuberculosis - unspecified,ICD10,Incident tuberculosis ,
+A16,Respiratory tuberculosis not confirmed bacteriologically or histologically,ICD10,Incident tuberculosis ,ICD10 browser
+A160,Tuberculosis of lung - bacteriologically and histologically negative,ICD10,Incident tuberculosis ,
+A161,Tuberculosis of lung - bacteriological and histological examination not done,ICD10,Incident tuberculosis ,
+A162,Tuberculosis of lung - without mention of bacteriological or histological confirmation,ICD10,Incident tuberculosis ,
+A163,Tuberculosis of intrathoracic lymph nodes - without mention of bacteriological or histological confirmation,ICD10,Incident tuberculosis ,
+A164,Tuberculosis of larynx trachea and bronchus - without mention of bacteriological or histological confirmation,ICD10,Incident tuberculosis ,
+A165,Tuberculosis pleurisy - without mention of bacteriological or histological confirmation,ICD10,Incident tuberculosis ,
+A167,Primary respiratory tuberculosis - without mention of bacteriological or histological confirmation,ICD10,Incident tuberculosis ,
+A168,Other respiratory tuberculosis - without mention of bacteriological or histological confirmation,ICD10,Incident tuberculosis ,
+A169,Respiratory tuberculosis unspecified - without mention of bacteriological or histological confirmation,ICD10,Incident tuberculosis ,
+J65,Pneumoconiosis associated with tuberculosis,ICD10,Prevalent tuberculosis,Breathe

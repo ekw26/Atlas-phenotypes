@@ -1,15 +1,24 @@
-code,description,codetype,source,category
-E28.2,Polycystic ovarian syndrome,ICD10,Caliber,Incident polycystic ovary syndrome
-256.4,Polycystic ovaries,ICD9,ICD9 browser,Incident polycystic ovary syndrome
-C164.12,Stein - Leventhal syndrome,Read,Caliber,Incident polycystic ovary syndrome
-C165.00,Polycystic ovarian syndrome,Read,Caliber,Incident polycystic ovary syndrome
-C164.00,Polycystic ovaries,Read,Rees,Incident polycystic ovary syndrome
-237055002,Polycystic ovary syndrome,Snomed,Aurum browser,Incident polycystic ovary syndrome
-781067001,Polycystic ovary,Snomed,Aurum browser,Incident polycystic ovary syndrome
-830047004,Polycystic left ovary,Snomed,Aurum browser,Incident polycystic ovary syndrome
-830048009,Polycystic right ovary,Snomed,Aurum browser,Incident polycystic ovary syndrome
-830049001,Polycystic bilateral ovaries,Snomed,Aurum browser,Incident polycystic ovary syndrome
-830053004,PCOS (polycystic ovary syndrome) of left ovary,Snomed,Aurum browser,Incident polycystic ovary syndrome
-830054005,PCOS (polycystic ovary syndrome) of bilateral ovaries,Snomed,Aurum browser,Incident polycystic ovary syndrome
-69878008,Polycystic ovarian syndrome,Snomed,Head,Incident polycystic ovary syndrome
-830052009,PCOS (polycystic ovary syndrome) of right ovary,Snomed,Snomed browser,Incident polycystic ovary syndrome
+code,term,codetype,category,source
+69878008,Polycystic ovaries,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,Multicystic ovaries,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,Polycystic ovarian syndrome,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,Stein - Leventhal syndrome,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,Stein-Leventhal syndrome,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,Polycystic ovarian disease,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,PCO - Polycystic ovaries,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,PCOS - Polycystic ovarian syndrome,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,Polycystic ovary syndrome,Snomed Concept,Incident polycystic ovary syndrome,Head
+69878008,PCOD - Polycystic ovarian disease,Snomed Concept,Incident polycystic ovary syndrome,Head
+237055002,Polycystic ovary syndrome,Snomed Concept,Incident polycystic ovary syndrome,Aurum browser
+237055002,PCOS- polycystic ovary syndrome,Snomed Concept,Incident polycystic ovary syndrome,Aurum browser
+781067001,Polycystic ovary,Snomed Concept,Incident polycystic ovary syndrome,Aurum browser
+830047004,Polycystic left ovary,Snomed Concept,Incident polycystic ovary syndrome,Aurum browser
+830048009,Polycystic right ovary,Snomed Concept,Incident polycystic ovary syndrome,Aurum browser
+830049001,Polycystic bilateral ovaries,Snomed Concept,Incident polycystic ovary syndrome,Aurum browser
+830053004,PCOS (polycystic ovary syndrome) of left ovary,Snomed Concept,Incident polycystic ovary syndrome,Aurum browser
+830054005,PCOS (polycystic ovary syndrome) of bilateral ovaries,Snomed Concept,Incident polycystic ovary syndrome,Aurum browser
+C164.12,Stein - Leventhal syndrome,Read,Incident polycystic ovary syndrome,Caliber
+C165.00,Polycystic ovarian syndrome,Read,Incident polycystic ovary syndrome,Caliber
+C164.00,Polycystic ovaries,Read,Incident polycystic ovary syndrome,Rees
+256.4,Polycystic ovaries,ICD9,Incident polycystic ovary syndrome,ICD9 browser
+E282,Polycystic ovarian syndrome,ICD10,Incident polycystic ovary syndrome,

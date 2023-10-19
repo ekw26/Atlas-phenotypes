@@ -1,149 +1,180 @@
-code,description,codetype,source,category
-C33,Malignant neoplasm of trachea,ICD10,Caliber,Incident lung cancer
-C34,Malignant neoplasm of lung,ICD10,Caliber,Incident lung cancer
-C34.0,Malignant neoplasm of lung - Main bronchus,ICD10,Caliber,Incident lung cancer
-C34.1,"Malignant neoplasm of lung - Upper lobe, bronchus or lung",ICD10,Caliber,Incident lung cancer
-C34.2,"Malignant neoplasm of lung - Middle lobe, bronchus or lung",ICD10,Caliber,Incident lung cancer
-C34.3,"Malignant neoplasm of lung - Lower lobe, bronchus or lung",ICD10,Caliber,Incident lung cancer
-C34.8,Malignant neoplasm of lung - Overlapping lesion of bronchus and lung,ICD10,Caliber,Incident lung cancer
-C34.9,"Malignant neoplasm of lung - Bronchus or lung, unspecified",ICD10,Caliber,Incident lung cancer
-162,"Malignant neoplasm of trachea, bronchus and lung",ICD9,ICD9 browser,Incident lung cancer
-162.0,Malignant neoplasm of trachea,ICD9,ICD9 browser,Incident lung cancer
-162.2,Malignant neoplasm of lung - Main bronchus,ICD9,ICD9 browser,Incident lung cancer
-162.3,"Malignant neoplasm of lung - Upper lobe, bronchus or lung",ICD9,ICD9 browser,Incident lung cancer
-162.4,"Malignant neoplasm of lung - Middle lobe, bronchus or lung",ICD9,ICD9 browser,Incident lung cancer
-162.5,"Malignant neoplasm of lung - Lower lobe, bronchus or lung",ICD9,ICD9 browser,Incident lung cancer
-162.8,Malignant neoplasm of lung - Other parts of bronchus or lung,ICD9,ICD9 browser,Incident lung cancer
-162.9,"Malignant neoplasm of lung - Bronchus or lung, unspecified",ICD9,ICD9 browser,Incident lung cancer
-B22..00,"Malignant neoplasm of trachea, bronchus and lung",Read,Caliber,Incident lung cancer
-B220.00,Malignant neoplasm of trachea,Read,Caliber,Incident lung cancer
-B220100,Malignant neoplasm of mucosa of trachea,Read,Caliber,Incident lung cancer
-B220z00,Malignant neoplasm of trachea NOS,Read,Caliber,Incident lung cancer
-B221.00,Malignant neoplasm of main bronchus,Read,Caliber,Incident lung cancer
-B221000,Malignant neoplasm of carina of bronchus,Read,Caliber,Incident lung cancer
-B221100,Malignant neoplasm of hilus of lung,Read,Caliber,Incident lung cancer
-B221z00,Malignant neoplasm of main bronchus NOS,Read,Caliber,Incident lung cancer
-B222.00,"Malignant neoplasm of upper lobe, bronchus or lung",Read,Caliber,Incident lung cancer
-B222.11,Pancoast's syndrome,Read,Caliber,Incident lung cancer
-B222000,Malignant neoplasm of upper lobe bronchus,Read,Caliber,Incident lung cancer
-B222100,Malignant neoplasm of upper lobe of lung,Read,Caliber,Incident lung cancer
-B222z00,"Malignant neoplasm of upper lobe, bronchus or lung NOS",Read,Caliber,Incident lung cancer
-B223.00,"Malignant neoplasm of middle lobe, bronchus or lung",Read,Caliber,Incident lung cancer
-B223000,Malignant neoplasm of middle lobe bronchus,Read,Caliber,Incident lung cancer
-B223100,Malignant neoplasm of middle lobe of lung,Read,Caliber,Incident lung cancer
-B223z00,"Malignant neoplasm of middle lobe, bronchus or lung NOS",Read,Caliber,Incident lung cancer
-B224.00,"Malignant neoplasm of lower lobe, bronchus or lung",Read,Caliber,Incident lung cancer
-B224000,Malignant neoplasm of lower lobe bronchus,Read,Caliber,Incident lung cancer
-B224100,Malignant neoplasm of lower lobe of lung,Read,Caliber,Incident lung cancer
-B224z00,"Malignant neoplasm of lower lobe, bronchus or lung NOS",Read,Caliber,Incident lung cancer
-B225.00,Malignant neoplasm of overlapping lesion of bronchus & lung,Read,Caliber,Incident lung cancer
-B22y.00,Malignant neoplasm of other sites of bronchus or lung,Read,Caliber,Incident lung cancer
-B22z.00,Malignant neoplasm of bronchus or lung NOS,Read,Caliber,Incident lung cancer
-B22z.11,Lung cancer,Read,Caliber,Incident lung cancer
-BB5S200,[M]Bronchiolo-alveolar adenocarcinoma,Read,Caliber,Incident lung cancer
-BB5S211,[M]Alveolar cell carcinoma,Read,Caliber,Incident lung cancer
-BB5S212,[M]Bronchiolar carcinoma,Read,Caliber,Incident lung cancer
-BB5S400,[M]Alveolar adenocarcinoma,Read,Caliber,Incident lung cancer
-Byu2000,"[X]Malignant neoplasm of bronchus or lung, unspecified",Read,Caliber,Incident lung cancer
-ZV10100,[V]Personal history of malig neop of trachea/bronchus/lung,Read,Caliber,Prevalent lung cancer
-ZV10111,[V]Personal history of malignant neoplasm of bronchus,Read,Caliber,Prevalent lung cancer
-ZV10112,[V]Personal history of malignant neoplasm of lung,Read,Caliber,Prevalent lung cancer
-1078881000119102,Primary adenocarcinoma of lower lobe of left lung,Snomed,Aurum browser,Incident lung cancer
-1078901000119100,Primary adenocarcinoma of upper lobe of left lung,Snomed,Aurum browser,Incident lung cancer
-1078931000119107,Primary adenocarcinoma of lower lobe of right lung,Snomed,Aurum browser,Incident lung cancer
-1078961000119104,Primary adenocarcinoma of upper lobe of right lung,Snomed,Aurum browser,Incident lung cancer
-109390005,Kaposi's sarcoma of lung,Snomed,Aurum browser,Incident lung cancer
-12240951000119107,Squamous cell carcinoma of left lung,Snomed,Aurum browser,Incident lung cancer
-12240991000119102,Squamous cell carcinoma of right lung,Snomed,Aurum browser,Incident lung cancer
-15956341000119105,Adenocarcinoma of left lung,Snomed,Aurum browser,Incident lung cancer
-15956381000119100,Adenocarcinoma of right lung,Snomed,Aurum browser,Incident lung cancer
-187853005,Malignant neoplasm of cartilage of trachea,Snomed,Aurum browser,Incident lung cancer
-254622008,Squamous cell carcinoma of bronchus,Snomed,Aurum browser,Incident lung cancer
-254627002,Carcinoid tumor of lung,Snomed,Aurum browser,Incident lung cancer
-254628007,Carcinoma of lung parenchyma,Snomed,Aurum browser,Incident lung cancer
-254629004,Large cell carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-254638002,Pancoast tumour,Snomed,Aurum browser,Incident lung cancer
-313353007,Squamous cell carcinoma of bronchus in left lower lobe,Snomed,Aurum browser,Incident lung cancer
-313354001,Squamous cell carcinoma of bronchus in left upper lobe,Snomed,Aurum browser,Incident lung cancer
-313355000,Squamous cell carcinoma of bronchus in right lower lobe,Snomed,Aurum browser,Incident lung cancer
-313356004,Squamous cell carcinoma of bronchus in right middle lobe,Snomed,Aurum browser,Incident lung cancer
-313357008,Squamous cell carcinoma of bronchus in right upper lobe,Snomed,Aurum browser,Incident lung cancer
-315005000,Metastasis from malignant tumour of bronchus,Snomed,Aurum browser,Incident lung cancer
-315006004,Metastasis from malignant tumour of lung,Snomed,Aurum browser,Incident lung cancer
-363493006,Malignant tumour of bronchus,Snomed,Aurum browser,Incident lung cancer
-372110008,"Primary malignant neoplasm of lower lobe, bronchus or lung",Snomed,Aurum browser,Incident lung cancer
-372111007,"Carcinoma of lower lobe, bronchus or lung",Snomed,Aurum browser,Incident lung cancer
-372120003,Carcinoma of main bronchus,Snomed,Aurum browser,Incident lung cancer
-372136001,"Carcinoma of upper lobe, bronchus or lung",Snomed,Aurum browser,Incident lung cancer
-422968005,"Non-small cell carcinoma of lung, TNM stage 3",Snomed,Aurum browser,Incident lung cancer
-423121009,"Non-small cell carcinoma of lung, TNM stage 4",Snomed,Aurum browser,Incident lung cancer
-423295000,"Squamous cell carcinoma of lung, TNM stage 1",Snomed,Aurum browser,Incident lung cancer
-423468007,"Squamous cell carcinoma of lung, TNM stage 2",Snomed,Aurum browser,Incident lung cancer
-424132000,"Non-small cell carcinoma of lung, TNM stage 1",Snomed,Aurum browser,Incident lung cancer
-424454009,"Adenocarcinoma of lung, stage III",Snomed,Aurum browser,Incident lung cancer
-424993006,"Adenocarcinoma of lung, stage IV",Snomed,Aurum browser,Incident lung cancer
-425230006,"Squamous cell carcinoma of lung, TNM stage 3",Snomed,Aurum browser,Incident lung cancer
-448993007,Carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-67821000119109,"Primary small cell malignant neoplasm of lung, TNM stage 2",Snomed,Aurum browser,Incident lung cancer
-67831000119107,"Primary small cell malignant neoplasm of lung, TNM stage 3",Snomed,Aurum browser,Incident lung cancer
-67841000119103,"Primary small cell malignant neoplasm of lung, TNM stage 4",Snomed,Aurum browser,Incident lung cancer
-707404008,Primary mixed subtype adenocarcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707405009,Adenosquamous carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707409003,Primary acinar cell carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707451005,Primary adenocarcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707453008,Primary clear cell squamous cell carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707454002,Primary basaloid squamous cell carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707455001,Primary papillary squamous cell carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707457009,Primary spindle cell carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707458004,Pleomorphic carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707460002,Sarcomatoid carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707465007,Primary mucoepidermoid carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-707469001,Primary non-mucinous bronchiolo-alveolar carcinoma of lung,Snomed,Aurum browser,Incident lung cancer
-722527003,Primary malignant neuroendocrine neoplasm of bronchus,Snomed,Aurum browser,Incident lung cancer
-722528008,Primary malignant neuroendocrine neoplasm of lung,Snomed,Aurum browser,Incident lung cancer
-723301009,Squamous non-small cell lung cancer,Snomed,Aurum browser,Incident lung cancer
-724056005,Malignant neoplasm of lower lobe of right lung,Snomed,Aurum browser,Incident lung cancer
-724058006,Malignant neoplasm of upper lobe of left lung,Snomed,Aurum browser,Incident lung cancer
-724059003,Malignant neoplasm of lower lobe of left lung,Snomed,Aurum browser,Incident lung cancer
-724060008,Malignant neoplasm of right upper lobe of lung,Snomed,Aurum browser,Incident lung cancer
-726653000,Malignant carcinoid tumour of bronchus,Snomed,Aurum browser,Incident lung cancer
-733144006,Malignant epithelial neoplasm of bronchus,Snomed,Aurum browser,Incident lung cancer
-890529001,Primary malignant neoplasm of right lung,Snomed,Aurum browser,Incident lung cancer
-93729006,Primary malignant neoplasm of bronchus of left lower lobe,Snomed,Aurum browser,Incident lung cancer
-93734005,Primary malignant neoplasm of bronchus,Snomed,Aurum browser,Incident lung cancer
-93864006,Primary malignant neoplasm of lower lobe of left lung,Snomed,Aurum browser,Incident lung cancer
-93992002,Primary malignant neoplasm of right middle lobe of lung,Snomed,Aurum browser,Incident lung cancer
-93993007,Primary malignant neoplasm of upper lobe of right lung,Snomed,Aurum browser,Incident lung cancer
-1576241000006109,Cause of Death- Ca Trachea/Bronchus/Lung NOS,Snomed,Aurum browser,Prevalent lung cancer
-412341000000106,"[V]Personal history of malignant neoplasm of trachea, bronchus or lung",Snomed,Aurum browser,Prevalent lung cancer
-415077006,[V]Personal history of malignant neoplasm of bronchus,Snomed,Aurum browser,Prevalent lung cancer
-415082004,[V]Personal history of malignant neoplasm of lung,Snomed,Aurum browser,Prevalent lung cancer
-415085002,[V]Personal history of malignant neoplasm of trachea,Snomed,Aurum browser,Prevalent lung cancer
-162573006,Suspected lung cancer,Snomed,Aurum browser,suspected
-1090881000000100,"[X]Malignant neoplasm of bronchus or lung, unspecified",Snomed,Head,Incident lung cancer
-109371002,Malignant neoplasm of overlapping lesion of bronchus & lung,Snomed,Head,Incident lung cancer
-112677002,[M]Bronchiolo-alveolar adenocarcinoma,Snomed,Head,Incident lung cancer
-187854004,Malignant neoplasm of mucosa of trachea,Snomed,Head,Incident lung cancer
-187857006,Malignant neoplasm of carina of bronchus,Snomed,Head,Incident lung cancer
-187861000,Malignant neoplasm of upper lobe bronchus,Snomed,Head,Incident lung cancer
-187862007,Malignant neoplasm of upper lobe of lung,Snomed,Head,Incident lung cancer
-187864008,"Malignant neoplasm of middle lobe, bronchus or lung",Snomed,Head,Incident lung cancer
-187865009,Malignant neoplasm of middle lobe bronchus,Snomed,Head,Incident lung cancer
-187866005,Malignant neoplasm of middle lobe of lung,Snomed,Head,Incident lung cancer
-187868006,"Malignant neoplasm of lower lobe, bronchus or lung",Snomed,Head,Incident lung cancer
-187869003,Malignant neoplasm of lower lobe bronchus,Snomed,Head,Incident lung cancer
-187870002,Malignant neoplasm of lower lobe of lung,Snomed,Head,Incident lung cancer
-254626006,Adenocarcinoma of lung,Snomed,Head,Incident lung cancer
-254632001,Small cell lung cancer,Snomed,Head,Incident lung cancer
-254634000,Squamous cell carcinoma of lung,Snomed,Head,Incident lung cancer
-254637007,Non-small cell lung cancer,Snomed,Head,Incident lung cancer
-269464000,"Malignant neoplasm of upper lobe, bronchus or lung",Snomed,Head,Incident lung cancer
-278065000,Pancoast's syndrome,Snomed,Head,Incident lung cancer
-36310008,[M]Alveolar adenocarcinoma,Snomed,Head,Incident lung cancer
-363358000,"[x]malignant neoplasm of bronchus or lung, unspecified",Snomed,Head,Incident lung cancer
-363432004,Malignant neoplasm of trachea,Snomed,Head,Incident lung cancer
-372065009,Malignant neoplasm of main bronchus,Snomed,Head,Incident lung cancer
-430621000,"Malignant neoplasm of trachea, bronchus and lung",Snomed,Head,Incident lung cancer
-907111000006102,[RFC] Lung cancer,Snomed,Head,Incident lung cancer
-93827000,Malignant neoplasm of hilus of lung,Snomed,Head,Incident lung cancer
-93880001,Primary malignant neoplasm of lung,Snomed,Head,Incident lung cancer
+code,term,codetype,category,source
+254626006,Adenocarcinoma of lung,Snomed Concept,Incident lung cancer     ,Head
+254637007,Non-small cell lung cancer,Snomed Concept,Incident lung cancer     ,Head
+254637007,NSCLC - Non-small cell lung cancer,Snomed Concept,Incident lung cancer     ,Head
+93880001,Lung cancer,Snomed Concept,Incident lung cancer     ,Head
+93880001,Primary malignant neoplasm of lung,Snomed Concept,Incident lung cancer     ,Head
+254632001,Small cell lung cancer,Snomed Concept,Incident lung cancer     ,Head
+254632001,Small cell carcinoma of lung,Snomed Concept,Incident lung cancer     ,Head
+254632001,SCLC - Small cell lung cancer,Snomed Concept,Incident lung cancer     ,Head
+254634000,Squamous cell carcinoma of lung,Snomed Concept,Incident lung cancer     ,Head
+907111000006102,[RFC] Lung cancer,Snomed Concept,Incident lung cancer     ,Head
+363358000,Malignant neoplasm of other sites of bronchus or lung,Snomed Concept,Incident lung cancer     ,Head
+363358000,Malignant tumour of lung,Snomed Concept,Incident lung cancer     ,Head
+363358000,CA - Lung cancer,Snomed Concept,Incident lung cancer     ,Head
+363358000,Malignant tumor of lung,Snomed Concept,Incident lung cancer     ,Head
+430621000,Malignant neoplasm of lower respiratory tract,Snomed Concept,Incident lung cancer     ,Head
+430621000,Ca trachea/bronchus/lung NOS,Snomed Concept,Incident lung cancer     ,Head
+430621000,Ca trachea/bronchus/lung,Snomed Concept,Incident lung cancer     ,Head
+363432004,Malignant neoplasm of trachea NOS,Snomed Concept,Incident lung cancer     ,Head
+363432004,Malignant neoplasm of trachea,Snomed Concept,Incident lung cancer     ,Head
+363432004,Malignant tumour of trachea,Snomed Concept,Incident lung cancer     ,Head
+187854004,Malignant neoplasm of mucosa of trachea,Snomed Concept,Incident lung cancer     ,Head
+372065009,Malignant neoplasm of main bronchus,Snomed Concept,Incident lung cancer     ,Head
+372065009,Malignant neoplasm of main bronchus NOS,Snomed Concept,Incident lung cancer     ,Head
+187857006,Malignant neoplasm of carina of bronchus,Snomed Concept,Incident lung cancer     ,Head
+93827000,Malignant neoplasm of hilus of lung,Snomed Concept,Incident lung cancer     ,Head
+93827000,Primary malignant neoplasm of hilus of lung,Snomed Concept,Incident lung cancer     ,Head
+269464000,"Malignant neoplasm of upper lobe, bronchus or lung NOS",Snomed Concept,Incident lung cancer     ,Head
+269464000,"Malignant neoplasm of upper lobe, bronchus or lung",Snomed Concept,Incident lung cancer     ,Head
+269464000,Ca upper lobe bronchus/lung,Snomed Concept,Incident lung cancer     ,Head
+278065000,Pancoast's syndrome,Snomed Concept,Incident lung cancer     ,Head
+187861000,Malignant neoplasm of upper lobe bronchus,Snomed Concept,Incident lung cancer     ,Head
+187862007,Malignant neoplasm of upper lobe of lung,Snomed Concept,Incident lung cancer     ,Head
+187864008,"Malignant neoplasm of middle lobe, bronchus or lung",Snomed Concept,Incident lung cancer     ,Head
+187864008,"Malignant neoplasm of middle lobe, bronchus or lung NOS",Snomed Concept,Incident lung cancer     ,Head
+187864008,Ca middle lobe bronchus/lung,Snomed Concept,Incident lung cancer     ,Head
+187865009,Malignant neoplasm of middle lobe bronchus,Snomed Concept,Incident lung cancer     ,Head
+187866005,Malignant neoplasm of middle lobe of lung,Snomed Concept,Incident lung cancer     ,Head
+187868006,"Malignant neoplasm of lower lobe, bronchus or lung",Snomed Concept,Incident lung cancer     ,Head
+187868006,"Malignant neoplasm of lower lobe, bronchus or lung NOS",Snomed Concept,Incident lung cancer     ,Head
+187868006,Ca lower lobe bronchus/lung,Snomed Concept,Incident lung cancer     ,Head
+187869003,Malignant neoplasm of lower lobe bronchus,Snomed Concept,Incident lung cancer     ,Head
+187870002,Malignant neoplasm of lower lobe of lung,Snomed Concept,Incident lung cancer     ,Head
+109371002,Malignant neoplasm of overlapping lesion of bronchus and lung,Snomed Concept,Incident lung cancer     ,Head
+112677002,[M]Bronchiolo-alveolar adenocarcinoma,Snomed Concept,Incident lung cancer     ,Head
+112677002,[M]Alveolar cell carcinoma,Snomed Concept,Incident lung cancer     ,Head
+112677002,[M]Bronchiolar carcinoma,Snomed Concept,Incident lung cancer     ,Head
+112677002,Bronchiolo-alveolar adenocarcinoma,Snomed Concept,Incident lung cancer     ,Head
+36310008,[M]Alveolar adenocarcinoma,Snomed Concept,Incident lung cancer     ,Head
+36310008,Alveolar adenocarcinoma,Snomed Concept,Incident lung cancer     ,Head
+1090881000000100,Malignant neoplasm of bronchus or lung,Snomed Concept,Incident lung cancer     ,Head
+415077006,[V]Personal history of malignant neoplasm of bronchus,Snomed Concept,Prevalent lung cancer    ,Aurum browser
+415077006,H/O: * bronchus,Snomed Concept,Prevalent lung cancer    ,Aurum browser
+415077006,History of malignant neoplasm of bronchus,Snomed Concept,Prevalent lung cancer    ,Aurum browser
+412341000000106,"[V]Personal history of malignant neoplasm of trachea, bronchus or lung",Snomed Concept,Prevalent lung cancer    ,Aurum browser
+372136001,"Carcinoma of upper lobe, bronchus or lung",Snomed Concept,Incident lung cancer     ,Aurum browser
+372120003,Carcinoma of main bronchus,Snomed Concept,Incident lung cancer     ,Aurum browser
+372111007,"Carcinoma of lower lobe, bronchus or lung",Snomed Concept,Incident lung cancer     ,Aurum browser
+726653000,Malignant carcinoid tumour of bronchus,Snomed Concept,Incident lung cancer     ,Aurum browser
+733144006,Malignant epithelial neoplasm of bronchus,Snomed Concept,Incident lung cancer     ,Aurum browser
+363493006,Malignant tumour of bronchus,Snomed Concept,Incident lung cancer     ,Aurum browser
+93734005,Primary malignant neoplasm of bronchus,Snomed Concept,Incident lung cancer     ,Aurum browser
+93729006,Primary malignant neoplasm of bronchus of left lower lobe,Snomed Concept,Incident lung cancer     ,Aurum browser
+372110008,"Primary malignant neoplasm of lower lobe, bronchus or lung",Snomed Concept,Incident lung cancer     ,Aurum browser
+722527003,Primary malignant neuroendocrine neoplasm of bronchus,Snomed Concept,Incident lung cancer     ,Aurum browser
+254622008,Squamous cell carcinoma of bronchus,Snomed Concept,Incident lung cancer     ,Aurum browser
+254622008,Bronchial carcinoma,Snomed Concept,Incident lung cancer     ,Aurum browser
+254622008,Bronchogenic carcinoma,Snomed Concept,Incident lung cancer     ,Aurum browser
+313353007,Squamous cell carcinoma of bronchus in left lower lobe,Snomed Concept,Incident lung cancer     ,Aurum browser
+313354001,Squamous cell carcinoma of bronchus in left upper lobe,Snomed Concept,Incident lung cancer     ,Aurum browser
+313355000,Squamous cell carcinoma of bronchus in right lower lobe,Snomed Concept,Incident lung cancer     ,Aurum browser
+313356004,Squamous cell carcinoma of bronchus in right middle lobe,Snomed Concept,Incident lung cancer     ,Aurum browser
+313357008,Squamous cell carcinoma of bronchus in right upper lobe,Snomed Concept,Incident lung cancer     ,Aurum browser
+415082004,[V]Personal history of malignant neoplasm of lung,Snomed Concept,Prevalent lung cancer    ,Aurum browser
+415082004,History of malignant neoplasm of lung,Snomed Concept,Prevalent lung cancer    ,Aurum browser
+15956341000119105,Adenocarcinoma of left lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+424454009,"Adenocarcinoma of lung, stage III",Snomed Concept,Incident lung cancer     ,Aurum browser
+424993006,"Adenocarcinoma of lung, stage IV",Snomed Concept,Incident lung cancer     ,Aurum browser
+15956381000119100,Adenocarcinoma of right lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707405009,Primary adenosquamous carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707405009,Adenosquamous carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+254627002,Carcinoid tumour of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+254627002,Carcinoid tumor of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+448993007,Carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+254628007,Carcinoma of lung parenchyma,Snomed Concept,Incident lung cancer     ,Aurum browser
+109390005,Kaposi's sarcoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+254629004,Large cell carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+724059003,Malignant neoplasm of lower lobe of left lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+724056005,Malignant neoplasm of lower lobe of right lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+724060008,Malignant neoplasm of right upper lobe of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+724058006,Malignant neoplasm of upper lobe of left lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+424132000,"Non-small cell carcinoma of lung, TNM stage 1",Snomed Concept,Incident lung cancer     ,Aurum browser
+422968005,"Non-small cell carcinoma of lung, TNM stage 3",Snomed Concept,Incident lung cancer     ,Aurum browser
+423121009,"Non-small cell carcinoma of lung, TNM stage 4",Snomed Concept,Incident lung cancer     ,Aurum browser
+707458004,Primary pleomorphic carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707458004,Pleomorphic carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707409003,Primary acinar cell carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+1078881000119102,Primary adenocarcinoma of lower lobe of left lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+1078931000119107,Primary adenocarcinoma of lower lobe of right lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707451005,Primary adenocarcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+1078901000119100,Primary adenocarcinoma of upper lobe of left lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+1078961000119104,Primary adenocarcinoma of upper lobe of right lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707454002,Primary basaloid squamous cell carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707453008,Primary clear cell squamous cell carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+93864006,Primary malignant neoplasm of lower lobe of left lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+890529001,Primary malignant neoplasm of right lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+93992002,Primary malignant neoplasm of right middle lobe of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+93993007,Primary malignant neoplasm of upper lobe of right lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+722528008,Primary malignant neuroendocrine neoplasm of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707404008,Primary mixed subtype adenocarcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707465007,Primary mucoepidermoid carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707469001,Primary non-mucinous bronchiolo-alveolar carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707455001,Primary papillary squamous cell carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+67821000119109,"Primary small cell malignant neoplasm of lung, TNM stage 2",Snomed Concept,Incident lung cancer     ,Aurum browser
+67831000119107,"Primary small cell malignant neoplasm of lung, TNM stage 3",Snomed Concept,Incident lung cancer     ,Aurum browser
+67841000119103,"Primary small cell malignant neoplasm of lung, TNM stage 4",Snomed Concept,Incident lung cancer     ,Aurum browser
+707457009,Primary spindle cell carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+707460002,Sarcomatoid carcinoma of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+12240951000119107,Squamous cell carcinoma of left lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+423295000,"Squamous cell carcinoma of lung, TNM stage 1",Snomed Concept,Incident lung cancer     ,Aurum browser
+423468007,"Squamous cell carcinoma of lung, TNM stage 2",Snomed Concept,Incident lung cancer     ,Aurum browser
+425230006,"Squamous cell carcinoma of lung, TNM stage 3",Snomed Concept,Incident lung cancer     ,Aurum browser
+12240991000119102,Squamous cell carcinoma of right lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+723301009,Squamous non-small cell lung cancer,Snomed Concept,Incident lung cancer     ,Aurum browser
+254638002,Pancoast tumour,Snomed Concept,Incident lung cancer     ,Aurum browser
+415085002,[V]Personal history of malignant neoplasm of trachea,Snomed Concept,Prevalent lung cancer    ,Aurum browser
+415085002,H/O: * trachea,Snomed Concept,Prevalent lung cancer    ,Aurum browser
+1576241000006109,Cause of Death- Ca Trachea/Bronchus/Lung NOS,Snomed Concept,Prevalent lung cancer    ,Aurum browser
+187853005,Malignant neoplasm of cartilage of trachea,Snomed Concept,Incident lung cancer     ,Aurum browser
+315006004,Metastasis from malignant tumour of lung,Snomed Concept,Incident lung cancer     ,Aurum browser
+315005000,Metastasis from malignant tumour of bronchus,Snomed Concept,Incident lung cancer     ,Aurum browser
+B220100,Malignant neoplasm of mucosa of trachea,Read,Incident lung cancer    ,Caliber
+B220.00,Malignant neoplasm of trachea,Read,Incident lung cancer    ,Caliber
+B220z00,Malignant neoplasm of trachea NOS,Read,Incident lung cancer    ,Caliber
+B221000,Malignant neoplasm of carina of bronchus,Read,Incident lung cancer    ,Caliber
+B221100,Malignant neoplasm of hilus of lung,Read,Incident lung cancer    ,Caliber
+B221.00,Malignant neoplasm of main bronchus,Read,Incident lung cancer    ,Caliber
+B221z00,Malignant neoplasm of main bronchus NOS,Read,Incident lung cancer    ,Caliber
+B222000,Malignant neoplasm of upper lobe bronchus,Read,Incident lung cancer    ,Caliber
+B222100,Malignant neoplasm of upper lobe of lung,Read,Incident lung cancer    ,Caliber
+B222.00,"Malignant neoplasm of upper lobe, bronchus or lung",Read,Incident lung cancer    ,Caliber
+B222.11,Pancoast's syndrome,Read,Incident lung cancer    ,Caliber
+B222z00,"Malignant neoplasm of upper lobe, bronchus or lung NOS",Read,Incident lung cancer    ,Caliber
+B223000,Malignant neoplasm of middle lobe bronchus,Read,Incident lung cancer    ,Caliber
+B223100,Malignant neoplasm of middle lobe of lung,Read,Incident lung cancer    ,Caliber
+B223.00,"Malignant neoplasm of middle lobe, bronchus or lung",Read,Incident lung cancer    ,Caliber
+B223z00,"Malignant neoplasm of middle lobe, bronchus or lung NOS",Read,Incident lung cancer    ,Caliber
+B224000,Malignant neoplasm of lower lobe bronchus,Read,Incident lung cancer    ,Caliber
+B224100,Malignant neoplasm of lower lobe of lung,Read,Incident lung cancer    ,Caliber
+B224.00,"Malignant neoplasm of lower lobe, bronchus or lung",Read,Incident lung cancer    ,Caliber
+B224z00,"Malignant neoplasm of lower lobe, bronchus or lung NOS",Read,Incident lung cancer    ,Caliber
+B225.00,Malignant neoplasm of overlapping lesion of bronchus & lung,Read,Incident lung cancer    ,Caliber
+B22..00,"Malignant neoplasm of trachea, bronchus and lung",Read,Incident lung cancer    ,Caliber
+B22y.00,Malignant neoplasm of other sites of bronchus or lung,Read,Incident lung cancer    ,Caliber
+B22z.00,Malignant neoplasm of bronchus or lung NOS,Read,Incident lung cancer    ,Caliber
+B22z.11,Lung cancer,Read,Incident lung cancer    ,Caliber
+BB5S200,[M]Bronchiolo-alveolar adenocarcinoma,Read,Incident lung cancer    ,Caliber
+BB5S211,[M]Alveolar cell carcinoma,Read,Incident lung cancer    ,Caliber
+BB5S212,[M]Bronchiolar carcinoma,Read,Incident lung cancer    ,Caliber
+BB5S400,[M]Alveolar adenocarcinoma,Read,Incident lung cancer    ,Caliber
+Byu2000,"[X]Malignant neoplasm of bronchus or lung, unspecified",Read,Incident lung cancer    ,Caliber
+ZV10100,[V]Personal history of malig neop of trachea/bronchus/lung,Read,Prevalent lung cancer   ,Caliber
+ZV10111,[V]Personal history of malignant neoplasm of bronchus,Read,Prevalent lung cancer   ,Caliber
+ZV10112,[V]Personal history of malignant neoplasm of lung,Read,Prevalent lung cancer   ,Caliber
+162,"Malignant neoplasm of trachea, bronchus and lung",ICD9,Incident lung cancer ,ICD9 browser
+162.0,Malignant neoplasm of trachea,ICD9,Incident lung cancer ,ICD9 browser
+162.2,Malignant neoplasm of lung - Main bronchus,ICD9,Incident lung cancer ,ICD9 browser
+162.3,"Malignant neoplasm of lung - Upper lobe, bronchus or lung",ICD9,Incident lung cancer ,ICD9 browser
+162.4,"Malignant neoplasm of lung - Middle lobe, bronchus or lung",ICD9,Incident lung cancer ,ICD9 browser
+162.5,"Malignant neoplasm of lung - Lower lobe, bronchus or lung",ICD9,Incident lung cancer ,ICD9 browser
+162.8,Malignant neoplasm of lung - Other parts of bronchus or lung,ICD9,Incident lung cancer ,ICD9 browser
+162.9,"Malignant neoplasm of lung - Bronchus or lung, unspecified",ICD9,Incident lung cancer ,ICD9 browser
+C33,Malignant neoplasm of trachea,ICD10,Incident lung cancer ,Caliber
+C34,Malignant neoplasm of lung,ICD10,Incident lung cancer ,Caliber
+C340,Malignant neoplasm of lung - Main bronchus,ICD10,Incident lung cancer ,
+C341,"Malignant neoplasm of lung - Upper lobe, bronchus or lung",ICD10,Incident lung cancer ,
+C342,"Malignant neoplasm of lung - Middle lobe, bronchus or lung",ICD10,Incident lung cancer ,
+C343,"Malignant neoplasm of lung - Lower lobe, bronchus or lung",ICD10,Incident lung cancer ,
+C348,Malignant neoplasm of lung - Overlapping lesion of bronchus and lung,ICD10,Incident lung cancer ,
+C349,"Malignant neoplasm of lung - Bronchus or lung, unspecified",ICD10,Incident lung cancer ,

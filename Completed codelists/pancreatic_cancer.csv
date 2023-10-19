@@ -1,73 +1,91 @@
-code,description,codetype,source,category
-C25,Malignant neoplasm of pancreas,ICD10,Caliber,Incident pancreatic adenocarcinoma
-C25.0,Malignant neoplasm of pancreas - Head of pancreas,ICD10,Caliber,Incident pancreatic adenocarcinoma
-C25.1,Malignant neoplasm of pancreas - Body of pancreas,ICD10,Caliber,Incident pancreatic adenocarcinoma
-C25.2,Malignant neoplasm of pancreas - Tail of pancreas,ICD10,Caliber,Incident pancreatic adenocarcinoma
-C25.3,Malignant neoplasm of pancreas - Pancreatic duct,ICD10,Caliber,Incident pancreatic adenocarcinoma
-C25.7,Malignant neoplasm of pancreas - Other parts of pancreas,ICD10,Caliber,Incident pancreatic adenocarcinoma
-C25.8,Malignant neoplasm of pancreas - Overlapping lesion of pancreas,ICD10,Caliber,Incident pancreatic adenocarcinoma
-C25.9,"Malignant neoplasm of pancreas - Pancreas, unspecified",ICD10,Caliber,Incident pancreatic adenocarcinoma
-C25.4,Malignant neoplasm of pancreas - Endocrine pancreas,ICD10,Caliber,Incident pancreatic non-adenocarcinoma
-157,Malignant neoplasm of pancreas,ICD9,ICD9 browser,Incident pancreatic adenocarcinoma
-157.0,Malignant neoplasm of pancreas - Head of pancreas,ICD9,ICD9 browser,Incident pancreatic adenocarcinoma
-157.1,Malignant neoplasm of pancreas - Body of pancreas,ICD9,ICD9 browser,Incident pancreatic adenocarcinoma
-157.2,Malignant neoplasm of pancreas - Tail of pancreas,ICD9,ICD9 browser,Incident pancreatic adenocarcinoma
-157.3,Malignant neoplasm of pancreas - Pancreatic duct,ICD9,ICD9 browser,Incident pancreatic adenocarcinoma
-157.8,Malignant neoplasm of pancreas - Other specified sites of pancreas,ICD9,ICD9 browser,Incident pancreatic adenocarcinoma
-157.9,"Malignant neoplasm of pancreas - Pancreas, unspecified",ICD9,ICD9 browser,Incident pancreatic adenocarcinoma
-157.4,Malignant neoplasm of pancreas - Endocrine pancreas,ICD9,ICD9 browser,Incident pancreatic non-adenocarcinoma
-B17..00,Malignant neoplasm of pancreas,Read,Caliber,Incident pancreatic adenocarcinoma
-B170.00,Malignant neoplasm of head of pancreas,Read,Caliber,Incident pancreatic adenocarcinoma
-B171.00,Malignant neoplasm of body of pancreas,Read,Caliber,Incident pancreatic adenocarcinoma
-B172.00,Malignant neoplasm of tail of pancreas,Read,Caliber,Incident pancreatic adenocarcinoma
-B173.00,Malignant neoplasm of pancreatic duct,Read,Caliber,Incident pancreatic adenocarcinoma
-B175.00,"Malignant neoplasm, overlapping lesion of pancreas",Read,Caliber,Incident pancreatic adenocarcinoma
-B17y.00,Malignant neoplasm of other specified sites of pancreas,Read,Caliber,Incident pancreatic adenocarcinoma
-B17y000,Malignant neoplasm of ectopic pancreatic tissue,Read,Caliber,Incident pancreatic adenocarcinoma
-B17yz00,Malignant neoplasm of specified site of pancreas NOS,Read,Caliber,Incident pancreatic adenocarcinoma
-B17z.00,Malignant neoplasm of pancreas NOS,Read,Caliber,Incident pancreatic adenocarcinoma
-BB5B600,[M]Mixed islet cell and exocrine adenocarcinoma,Read,Caliber,Incident pancreatic adenocarcinoma
-B174.00,Malignant neoplasm of Islets of Langerhans,Read,Caliber,Incident pancreatic non-adenocarcinoma
-BB5B100,[M]Islet cell carcinoma,Read,Caliber,Incident pancreatic non-adenocarcinoma
-BB5B300,"[M]Insulinoma, malignant",Read,Caliber,Incident pancreatic non-adenocarcinoma
-BB5B500,"[M]Glucagonoma, malignant",Read,Caliber,Incident pancreatic non-adenocarcinoma
-BB5C100,"[M]Gastrinoma, malignant",Read,Caliber,Incident pancreatic non-adenocarcinoma
-1J0K.00,Suspected pancreatic cancer,Read,Gold browser,Suspected pancreatic adenocarcinoma
-1651000119109,Primary adenocarcinoma of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-254613007,Carcinoid tumour of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-314999005,Metastasis from malignant tumour of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-326072005,Carcinoma of head of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-363368005,Carcinoma of body of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-363369002,Carcinoma of tail of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-372003004,Primary malignant neoplasm of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-372119009,Primary malignant neoplasm of head of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-372142002,Carcinoma of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-681621000119105,Primary adenocarcinoma of body of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-681721000119103,Primary adenocarcinoma of head of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-700423003,Pancreatic adenocarcinoma,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-770602005,Squamous cell carcinoma of exocrine pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-782697005,Solid pseudopapillary carcinoma of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-785879009,Mucinous cystadenocarcinoma of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-792907004,Pancreatic ductal adenocarcinoma,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-93715005,Primary malignant neoplasm of body of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-93939009,Primary malignant neoplasm of pancreatic duct,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-94082003,Primary malignant neoplasm of tail of pancreas,Snomed,Aurum browser,Incident pancreatic adenocarcinoma
-16189002,[M]Gastrinoma or carcinoma NOS,Snomed,Aurum browser,Incident pancreatic non-adenocarcinoma
-254611009,Malignant tumour of endocrine pancreas,Snomed,Aurum browser,Incident pancreatic non-adenocarcinoma
-713189001,Malignant insulinoma,Snomed,Aurum browser,Incident pancreatic non-adenocarcinoma
-735735001,Primary malignant neuroendocrine neoplasm of pancreas,Snomed,Aurum browser,Incident pancreatic non-adenocarcinoma
-866052009,Mixed ductal-neuroendocrine carcinoma of pancreas,Snomed,Aurum browser,Incident pancreatic non-adenocarcinoma
-247591000000101,Suspected pancreatic cancer,Snomed,Aurum browser,Suspected pancreatic adenocarcinoma
-109848009,"Malignant neoplasm, overlapping lesion of pancreas",Snomed,Head,Incident pancreatic adenocarcinoma
-187791002,Malignant neoplasm of body of pancreas,Snomed,Head,Incident pancreatic adenocarcinoma
-187792009,Malignant neoplasm of tail of pancreas,Snomed,Head,Incident pancreatic adenocarcinoma
-187793004,Malignant neoplasm of pancreatic duct,Snomed,Head,Incident pancreatic adenocarcinoma
-187798008,Malignant neoplasm of ectopic pancreatic tissue,Snomed,Head,Incident pancreatic adenocarcinoma
-363418001,Malignant neoplasm of pancreas,Snomed,Head,Incident pancreatic adenocarcinoma
-363419009,Malignant neoplasm of head of pancreas,Snomed,Head,Incident pancreatic adenocarcinoma
-999000,[M]Mixed islet cell and exocrine adenocarcinoma,Snomed,Head,Incident pancreatic adenocarcinoma
-187794005,Malignant neoplasm of Islets of Langerhans,Snomed,Head,Incident pancreatic non-adenocarcinoma
-19756007,"[M]Gastrinoma, malignant",Snomed,Head,Incident pancreatic non-adenocarcinoma
-20955008,"[M]Insulinoma, malignant",Snomed,Head,Incident pancreatic non-adenocarcinoma
-60346004,[M]Islet cell carcinoma,Snomed,Head,Incident pancreatic non-adenocarcinoma
-66515009,"[M]Glucagonoma, malignant",Snomed,Head,Incident pancreatic non-adenocarcinoma
+code,term,codetype,category,source
+363418001,Malignant neoplasm of other specified sites of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363418001,Malignant neoplasm of specified site of pancreas NOS,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363418001,Malignant neoplasm of pancreas NOS,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363418001,Malignant tumour of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363418001,Malignant tumor of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363418001,CA - Cancer of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363418001,Pancreatic cancer,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363418001,CA - Pancreatic cancer,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363419009,Malignant tumour of head of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363419009,Malignant tumour of head of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+363419009,Malignant tumor of head of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187791002,Malignant neoplasm of body of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187791002,Malignant tumour of body of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187792009,Malignant neoplasm of tail of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187792009,Malignant tumour of tail of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187792009,Ca tail of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187793004,Malignant neoplasm of pancreatic duct,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187793004,Malignant tumour of pancreatic duct,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187794005,Malignant neoplasm of Islets of Langerhans,Snomed Concept,Incident pancreatic non-adenocarcinoma,Head
+109848009,"Malignant neoplasm, overlapping lesion of pancreas",Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+187798008,Malignant neoplasm of ectopic pancreatic tissue,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+60346004,[M]Islet cell carcinoma,Snomed Concept,Incident pancreatic non-adenocarcinoma,Head
+20955008,"[M]Beta-cell tumour, malignant",Snomed Concept,Incident pancreatic non-adenocarcinoma,Head
+20955008,Malignant insulinoma,Snomed Concept,Incident pancreatic non-adenocarcinoma,Head
+66515009,"[M]Alpha-cell tumour,malignant",Snomed Concept,Incident pancreatic non-adenocarcinoma,Head
+66515009,Malignant glucagonoma,Snomed Concept,Incident pancreatic non-adenocarcinoma,Head
+999000,[M]Mixed islet cell and exocrine adenocarcinoma,Snomed Concept,Incident pancreatic adenocarcinoma    ,Head
+19756007,"[M]G cell tumour, malignant",Snomed Concept,Incident pancreatic non-adenocarcinoma,Head
+19756007,Malignant gastrinoma,Snomed Concept,Incident pancreatic non-adenocarcinoma,Head
+254613007,Carcinoid tumour of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+363368005,Carcinoma of body of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+326072005,Carcinoma of head of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+372142002,Carcinoma of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+363369002,Carcinoma of tail of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+254611009,Malignant tumour of endocrine pancreas,Snomed Concept,Incident pancreatic non-adenocarcinoma,Aurum browser
+866052009,Mixed ductal-neuroendocrine carcinoma of pancreas,Snomed Concept,Incident pancreatic non-adenocarcinoma,Aurum browser
+785879009,Mucinous cystadenocarcinoma of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+700423003,Adenocarcinoma of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+700423003,Pancreatic adenocarcinoma,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+792907004,Pancreatic ductal adenocarcinoma,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+681621000119105,Primary adenocarcinoma of body of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+681721000119103,Primary adenocarcinoma of head of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+1651000119109,Primary adenocarcinoma of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+93715005,Primary malignant neoplasm of body of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+372119009,Primary malignant neoplasm of head of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+372003004,Primary malignant neoplasm of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+93939009,Primary malignant neoplasm of pancreatic duct,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+94082003,Primary malignant neoplasm of tail of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+735735001,Primary malignant neuroendocrine neoplasm of pancreas,Snomed Concept,Incident pancreatic non-adenocarcinoma,Aurum browser
+782697005,Solid pseudopapillary carcinoma of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+770602005,Squamous cell carcinoma of exocrine pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+713189001,Malignant insulinoma,Snomed Concept,Incident pancreatic non-adenocarcinoma,Aurum browser
+16189002,Gastrinoma,Snomed Concept,Incident pancreatic non-adenocarcinoma,Aurum browser
+16189002,[M]Gastrinoma and carcinomas,Snomed Concept,Incident pancreatic non-adenocarcinoma,Aurum browser
+16189002,[M]Gastrinoma or carcinoma NOS,Snomed Concept,Incident pancreatic non-adenocarcinoma,Aurum browser
+16189002,[M]G cell tumour NOS,Snomed Concept,Incident pancreatic non-adenocarcinoma,Aurum browser
+314999005,Metastasis from malignant tumour of pancreas,Snomed Concept,Incident pancreatic adenocarcinoma    ,Aurum browser
+B170.00,Malignant neoplasm of head of pancreas,Read,Incident pancreatic adenocarcinoma    ,Caliber
+B171.00,Malignant neoplasm of body of pancreas,Read,Incident pancreatic adenocarcinoma    ,Caliber
+B172.00,Malignant neoplasm of tail of pancreas,Read,Incident pancreatic adenocarcinoma    ,Caliber
+B173.00,Malignant neoplasm of pancreatic duct,Read,Incident pancreatic adenocarcinoma    ,Caliber
+B174.00,Malignant neoplasm of Islets of Langerhans,Read,Incident pancreatic non-adenocarcinoma,Caliber
+B175.00,"Malignant neoplasm, overlapping lesion of pancreas",Read,Incident pancreatic adenocarcinoma    ,Caliber
+B17..00,Malignant neoplasm of pancreas,Read,Incident pancreatic adenocarcinoma    ,Caliber
+B17y000,Malignant neoplasm of ectopic pancreatic tissue,Read,Incident pancreatic adenocarcinoma    ,Caliber
+B17y.00,Malignant neoplasm of other specified sites of pancreas,Read,Incident pancreatic adenocarcinoma    ,Caliber
+B17yz00,Malignant neoplasm of specified site of pancreas NOS,Read,Incident pancreatic adenocarcinoma    ,Caliber
+B17z.00,Malignant neoplasm of pancreas NOS,Read,Incident pancreatic adenocarcinoma    ,Caliber
+BB5B100,[M]Islet cell carcinoma,Read,Incident pancreatic non-adenocarcinoma,Caliber
+BB5B300,"[M]Insulinoma, malignant",Read,Incident pancreatic non-adenocarcinoma,Caliber
+BB5B500,"[M]Glucagonoma, malignant",Read,Incident pancreatic non-adenocarcinoma,Caliber
+BB5B600,[M]Mixed islet cell and exocrine adenocarcinoma,Read,Incident pancreatic adenocarcinoma    ,Caliber
+BB5C100,"[M]Gastrinoma, malignant",Read,Incident pancreatic non-adenocarcinoma,Caliber
+157,Malignant neoplasm of pancreas,ICD9,Incident pancreatic adenocarcinoma    ,ICD9 browser
+157.0,Malignant neoplasm of pancreas - Head of pancreas,ICD9,Incident pancreatic adenocarcinoma    ,ICD9 browser
+157.1,Malignant neoplasm of pancreas - Body of pancreas,ICD9,Incident pancreatic adenocarcinoma    ,ICD9 browser
+157.2,Malignant neoplasm of pancreas - Tail of pancreas,ICD9,Incident pancreatic adenocarcinoma    ,ICD9 browser
+157.3,Malignant neoplasm of pancreas - Pancreatic duct,ICD9,Incident pancreatic adenocarcinoma    ,ICD9 browser
+157.4,Malignant neoplasm of pancreas - Endocrine pancreas,ICD9,Incident pancreatic non-adenocarcinoma,ICD9 browser
+157.8,Malignant neoplasm of pancreas - Other specified sites of pancreas,ICD9,Incident pancreatic adenocarcinoma    ,ICD9 browser
+157.9,"Malignant neoplasm of pancreas - Pancreas, unspecified",ICD9,Incident pancreatic adenocarcinoma    ,ICD9 browser
+C25,Malignant neoplasm of pancreas,ICD10,Incident pancreatic adenocarcinoma    ,Caliber
+C250,Malignant neoplasm of pancreas - Head of pancreas,ICD10,Incident pancreatic adenocarcinoma    ,
+C251,Malignant neoplasm of pancreas - Body of pancreas,ICD10,Incident pancreatic adenocarcinoma    ,
+C252,Malignant neoplasm of pancreas - Tail of pancreas,ICD10,Incident pancreatic adenocarcinoma    ,
+C253,Malignant neoplasm of pancreas - Pancreatic duct,ICD10,Incident pancreatic adenocarcinoma    ,
+C254,Malignant neoplasm of pancreas - Endocrine pancreas,ICD10,Incident pancreatic non-adenocarcinoma,
+C257,Malignant neoplasm of pancreas - Other parts of pancreas,ICD10,Incident pancreatic adenocarcinoma    ,
+C258,Malignant neoplasm of pancreas - Overlapping lesion of pancreas,ICD10,Incident pancreatic adenocarcinoma    ,
+C259,"Malignant neoplasm of pancreas - Pancreas, unspecified",ICD10,Incident pancreatic adenocarcinoma    ,
